@@ -12,3 +12,5 @@
 <p>Las fuentes de datos se clasifican en <strong>fuentes primarias</strong> y <strong>fuentes secundarias</strong>. Cuando el recolector de datos es quien los usa para el análisis, la <strong>fuente es primaria</strong>. Cuando una organización o individuo han compilado los datos que utiliza otra organización o individuo, la <strong>fuente es secundaria</strong>.</p>
 <p>Los <strong>datos</strong> son los valores observados de las variables.</p>
 <p>La <strong>tabla de resumen</strong> indica la frecuencia, cantidad o porcentaje de objetos en un conjunto de categorías para observar las diferencias que hay entre ellas. Una <strong>tabla de resumen</strong> lista las categorías en una columna y la frecuencia, cantidad o porcentaje en una columna o columnas independientes.</p>
+<h2>Gráficas</h2>
+<p>En una gráfica de barras, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.<img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/></p>
