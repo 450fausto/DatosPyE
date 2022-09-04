@@ -29,3 +29,4 @@
 <p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
 <p>El <strong>histograma</strong> es una gráfica de barras para datos numéricos agrupados en los que las frecuencias o los porcentajes de cada grupo de datos numéricos están representados por barras individuales. En un <strong>histograma</strong> NO hay brechas entre las barras adyacentes como en la gráfica de barras de los datos categóricos.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVaj7JftlWvIcUe578ekkUUWzlG1ksGcNmw&usqp=CAU" alt="histograma">
+<p>Es difícil y confuso realizar múltiples histogramas en la misma gráfica cuando comparamos dos o más conjuntos de datos. Al sobreponer las barras verticales de un histograma en otro se dificulta la interpretación. Cuando hay dos o más grupos, es conveniente utilizar un <strong>polígono de porcentaje</strong>. </p>
