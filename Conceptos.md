@@ -9,3 +9,5 @@
 <p>Un <strong>estadístico</strong> es la medida numérica que describe alguna característica de la muestra.</p>
 <p>La estadística se divide en dos ramas. La <strong>estadística descriptiva</strong> se enfoca en la recolección, resumen y presentación de un conjunto de datos. La <strong>estadística inferencial</strong> utiliza datos de las muestras para obtener conclusiones acerca de cierta población.</p>
 <p><em>Ni siquiera los métodos estadísticos más complejos producirán una información precisa.</em></p>
+<p>Las fuentes de datos se clasifican en <strong>fuentes primarias</strong> y <strong>fuentes secundarias</strong>. Cuando el recolector de datos es quien los usa para el análisis, la <strong>fuente es primaria</strong>. Cuando una organización o individuo han compilado los datos que utiliza otra organización o individuo, la <strong>fuente es secundaria</strong>.</p>
+<p>Los <strong>datos</strong> son los valores observados de las variables.</p>
