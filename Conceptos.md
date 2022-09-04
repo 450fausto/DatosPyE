@@ -14,3 +14,5 @@
 <p>La <strong>tabla de resumen</strong> indica la frecuencia, cantidad o porcentaje de objetos en un conjunto de categorías para observar las diferencias que hay entre ellas. Una <strong>tabla de resumen</strong> lista las categorías en una columna y la frecuencia, cantidad o porcentaje en una columna o columnas independientes.</p>
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
+<p>La <strong>gráfica de pastel</strong> es un círculo que se divide en partes para representar las categorías. El tamaño de cada "rebanada" varía de acuerdo con el porcentaje que corresponde a cada categoría.</p>
+<img src="http://cdn.exceltotal.com/wp-content/uploads/2012/03/crear-un-grafico-circular-con-subgrafico-01.png" alt="gráfico de pastel">
