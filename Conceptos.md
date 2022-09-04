@@ -24,10 +24,11 @@
 <p>Un <strong>arreglo ordenado</strong> es una secuencia de datos ordenados de menor al mayor valor.</p>
 <p>El <strong>diagrama de tallo y hojas</strong> organiza los datos en grupos (llamados tallos), para que los valores dentro de cada grupo (las hojas) ramifiquen hacia la derecha de cada fila. El diagrama resultante permite ver cómo se distribuyen y dónde están las concentraciones de datos.</p>
 <img src="https://www.disfrutalasmatematicas.com/graficos/images/stem-leaf-plot.gif" alt="diagrama de tallo y hojas">
-<p>Una <strong>distribución de frecuencias</strong> es una tabla de resumen en la que los datos están organizados en clases o grupos numéricamente ordenados.</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdivGdv4X2YaMUvIWePXYJ4H3mIlVgNfhliw&usqp=CAU" alt="tabla de frecuencia">
-<p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
 <p>El <strong>histograma</strong> es una gráfica de barras para datos numéricos agrupados en los que las frecuencias o los porcentajes de cada grupo de datos numéricos están representados por barras individuales. En un <strong>histograma</strong> NO hay brechas entre las barras adyacentes como en la gráfica de barras de los datos categóricos.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVaj7JftlWvIcUe578ekkUUWzlG1ksGcNmw&usqp=CAU" alt="histograma">
 <p>Es difícil y confuso realizar múltiples histogramas en la misma gráfica cuando comparamos dos o más conjuntos de datos. Al sobreponer las barras verticales de un histograma en otro se dificulta la interpretación. Cuando hay dos o más grupos, es conveniente utilizar un <strong>polígono de porcentaje</strong>. </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFdwDSlQjyyZ6CQs5bcAhQyCHExBxOBvTsg&usqp=CAU" alt="polígono de porcentajes">
+<h2>Distribución de frecuencias</h2>
+<p>Una <strong>distribución de frecuencias</strong> es una tabla de resumen en la que los datos están organizados en clases o grupos numéricamente ordenados.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdivGdv4X2YaMUvIWePXYJ4H3mIlVgNfhliw&usqp=CAU" alt="tabla de frecuencia">
+<p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
