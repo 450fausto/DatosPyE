@@ -36,3 +36,5 @@
   la cantidad de datos que pertenece a cada <strong>clase</strong>; esta cantidad se conoce como la <strong>frecuencia de clase</strong>. A la disposición
 tabular de los datos en clases con sus respectivas frecuencias de clase se le conoce como <strong>distribución de frecuencias</strong>
   o <strong>tabla de frecuencias</strong>.</p> 
+<p>A los datos organizados y resumidos como en la distribución de frecuencias anterior se les llama <strong>datos agrupados</strong>.</p>
+
