@@ -27,3 +27,5 @@
 <p>Una <strong>distribución de frecuencias</strong> es una tabla de resumen en la que los datos están organizados en clases o grupos numéricamente ordenados.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdivGdv4X2YaMUvIWePXYJ4H3mIlVgNfhliw&usqp=CAU" alt="tabla de frecuencia">
 <p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
+<p>El <strong>histograma</strong> es una gráfica de barras para datos numéricos agrupados en los que las frecuencias o los porcentajes de cada grupo de datos numéricos están representados por barras individuales. En un <strong>histograma</strong> NO hay brechas entre las barras adyacentes como en la gráfica de barras de los datos categóricos.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVaj7JftlWvIcUe578ekkUUWzlG1ksGcNmw&usqp=CAU" alt="histograma">
