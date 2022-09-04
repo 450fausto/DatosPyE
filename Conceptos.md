@@ -23,6 +23,7 @@
 <p>El <strong>diagrama de Pareto</strong> permite separar a lo "poco vital" de lo "mucho trivial", lo que nos permite enfocarnos en las categorías importantes. En las situaciones en las que los datos en estudio consisten en información defectuosa o incompleta, el <strong>diagrama de Pareto</strong> se convierte en una herramienta valiosa para dar prioridad a los esfuerzos de mejoramiento.</p>
 <p>Un <strong>arreglo ordenado</strong> es una secuencia de datos ordenados de menor al mayor valor.</p>
 <p>El <strong>diagrama de tallo y hojas</strong> organiza los datos en grupos (llamados tallos), para que los valores dentro de cada grupo (las hojas) ramifiquen hacia la derecha de cada fila. El diagrama resultante permite ver cómo se distribuyen y dónde están las concentraciones de datos.</p>
-<img src="https://www.disfrutalasmatematicas.com/graficos/images/stem-leaf-plot.gif"
+<img src="https://www.disfrutalasmatematicas.com/graficos/images/stem-leaf-plot.gif" alt="diagrama de tallo y hojas">
 <p>Una <strong>distribución de frecuencias</strong> es una tabla de resumen en la que los datos están organizados en clases o grupos numéricamente ordenados.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdivGdv4X2YaMUvIWePXYJ4H3mIlVgNfhliw&usqp=CAU" alt="tabla de frecuencia">
 <p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
