@@ -32,3 +32,7 @@
 <p>Una <strong>distribución de frecuencias</strong> es una tabla de resumen en la que los datos están organizados en clases o grupos numéricamente ordenados.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdivGdv4X2YaMUvIWePXYJ4H3mIlVgNfhliw&usqp=CAU" alt="tabla de frecuencia">
 <p><em>En general, la distribución de frecuencias debería tener por lo menos cinco clases, pero no más de 15.</em></p>
+<p>Al organizar una gran cantidad de datos en bruto, suele resultar útil distribuirlos en <strong>clases</strong> o <strong>categorías</strong> y determinar
+  la cantidad de datos que pertenece a cada <strong>clase</strong>; esta cantidad se conoce como la <strong>frecuencia de clase</strong>. A la disposición
+tabular de los datos en clases con sus respectivas frecuencias de clase se le conoce como <strong>distribución de frecuencias</strong>
+  o <strong>tabla de frecuencias</strong>.</p> 
