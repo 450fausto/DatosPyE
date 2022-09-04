@@ -7,4 +7,5 @@
 <p>Una <strong>muestra</strong> es una parte de la población seleccionada para análisis.</p>
 <p>Un <strong>parámetro</strong> es una medida numérica que describe una característica de la población. </p>
 <p>Un <strong>estadístico</strong> es la medida numérica que describe alguna característica de la muestra.</p>
-
+<p>La estadística se divide en dos ramas. La <strong>estadística descriptiva</strong> se enfoca en la recolección, resumen y presentación de un conjunto de datos. La <strong>estadística inferencial</strong> utiliza datos de las muestras para obtener conclusiones acerca de cierta población.</p>
+<p><em>Ni siquiera los métodos estadísticos más complejos producirán una información precisa.</em></p>
