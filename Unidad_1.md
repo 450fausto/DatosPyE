@@ -31,7 +31,7 @@ Determinar la naturaleza de
 los datos.</td>
     <td>
       <ul>
-        Analítico
+        <li>Analítico</li>
         <li>Crítico</li>
         <li>Respeto</li>
         <li>Objetivo</li>
@@ -84,12 +84,68 @@ muestras en situaciones
 relacionadas a su perfil
 profesional.</td>
     <td>
-      <ul>Analítico
+      <ul>
+        <li>Analítico</li>
         <li>Crítico</li>
         <li>Respeto</li>
         <li>Objetivo</li>
         <li>Sistemático</li>
         <li>Responsable</li></ul>
     </td>
+  </tr>
+  <tr>
+    <td>Distribución de
+frecuencias y
+su
+representación
+gráfica</td>
+    <td>Identificar el concepto de
+datos agrupados y no
+agrupados.
+Identificar el concepto y los
+elementos de la distribución
+de frecuencias:
+      <ul>
+        <li>Clase</li>
+        <li>Límites de clase</li>
+        <li>Amplitud</li>
+        <li>Marca de clase</li>
+        <li>Frecuencias: Absoluta
+Relativa, Relativa
+          porcentual y Acumulada</li>
+      </ul>
+Explicar la construcción e
+interpretación de gráficas:
+      <ul>
+        <li>Histograma</li>
+        <li>Polígono de frecuencias</li>
+        <li>Ojiva</li>
+        <li>Pareto</li>
+        <li>Pastel</li>
+        <li>Barras</li>
+        <li>Tallo y hoja</li>
+Explicar la construcción de
+tablas de distribución y
+gráficas con software.</td>
+    <td>Construir distribuciones de
+frecuencia de datos
+agrupados y no agrupados.<br><br>
+Graficar la distribución de
+datos.<br><br>
+Interpretar tablas y gráficos.<br><br>
+Representar tablas de
+distribución y gráficas con
+software.<br><br>
+Organizar datos
+recolectados en situaciones
+relacionados con su perfil
+profesional.</td>
+    <td>
+      <li>Analítico</li>
+      <li>Crítico</li>
+      <li>Respeto</li>
+      <li>Objetivo</li>
+      <li>Sistemático</li>
+      <li>Responsable</li></td>
   </tr>
  </table>
