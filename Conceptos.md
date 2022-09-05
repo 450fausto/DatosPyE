@@ -23,6 +23,14 @@
     <dt>Variable ordinal:</dt> <dd>Expresa diferentes niveles y orden.</dd>
     <dt>Variable nominal:</dt> <dd>Expresa un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</dd>
   </dl></dl> 
+<h2>Muestreo</h2>
+El <strong>muestreo estratificado</strong> se usa cuando:
+<ul>
+  <li>La población objetivo de interés de un investigador es significativamente heterogénea;</li>
+  <li>El investigador quiere destacar subgrupos específicos dentro de su población de interés;</li>
+  <li>El investigador quiere observar las relaciones entre dos o más subgrupos; y,</li>
+<li>Cuando el objetivo de un investigador es crear muestras representativas incluso de los segmentos más pequeños y difíciles de acceder en la población</li>
+  </ul>
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
 <p>La <strong>gráfica de pastel</strong> es un círculo que se divide en partes para representar las categorías. El tamaño de cada "rebanada" varía de acuerdo con el porcentaje que corresponde a cada categoría.</p>
