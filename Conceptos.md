@@ -46,6 +46,10 @@ El <strong>muestreo estratificado</strong> se usa cuando:
   <li>El investigador quiere observar las relaciones entre dos o más subgrupos; y,</li>
 <li>Cuando el objetivo de un investigador es crear muestras representativas incluso de los segmentos más pequeños y difíciles de acceder en la población</li>
   </ul>
+  <p>El <strong>muestreo por conglomerados</strong> es una técnica que aprovecha la 
+existencia de grupos o conglomerados en la población que representan 
+correctamente el total de la población en relación a la característica que 
+queremos medir. </p>
   <a href="https://enciclopediaeconomica.com/muestra-estadistica/">Saber más sobre muestreo</a>
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
