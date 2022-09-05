@@ -42,3 +42,7 @@ Qué tipo de variables son:
   <p>Para estudiar cuál es el candidato presidencial por el cual votarán los ciudadanos en las próximas elecciones, se toma una muestra de 3500 personas de todo el país. La pregunta es la siguiente, ¿por quién votará en las próximas elecciones presidenciales? Determine la población, muestra e individuos.</p>
   
   <p>Un estudiante de estadística quiere conocer si los profesores de su universidad, UNAM, prefieren dictar clases con ropa formal o con ropa informal. Para ello, realiza una encuesta a 120 profesores de la UNAM elegidos de forma aleatoria. Identifique la población, muestra e individuos.</p>
+
+<p>Un profesor desea realizar un análisis estadístico de las notas del examen final de matemáticas de sus alumnos de último año. Por ello, coloca todas las notas obtenidas en Excel y usa las funciones y herramientas estadísticas. La información obtenida, ¿pertenece a la muestra o a la población?</p>
+
+<p>Un conocido fabricante de medicamentos, desea conocer la proporción de personas cuya diabetes tipo 2, puede ser controlada con un nuevo fármaco. Se realiza un estudio en 3500 personas con esta diabetes, y se encontró que el 75% de ellas pudo controlar su diabetes tipo 2 usando el fármaco. Asumiendo que estas 3500 personas son representativas del grupo de pacientes de diabetes tipo 2, identifique la muestra y la población.</p>
