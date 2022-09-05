@@ -166,6 +166,7 @@ medidas de:
 varianza, desviación
 estándar y desviación
   media</li>
+      </ul>
 Explicar el proceso del
 cálculo de las medidas de
 tendencia central,
