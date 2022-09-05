@@ -12,6 +12,17 @@
 <p>Las fuentes de datos se clasifican en <strong>fuentes primarias</strong> y <strong>fuentes secundarias</strong>. Cuando el recolector de datos es quien los usa para el análisis, la <strong>fuente es primaria</strong>. Cuando una organización o individuo han compilado los datos que utiliza otra organización o individuo, la <strong>fuente es secundaria</strong>.</p>
 <p>Los <strong>datos</strong> son los valores observados de las variables.</p>
 <p>La <strong>tabla de resumen</strong> indica la frecuencia, cantidad o porcentaje de objetos en un conjunto de categorías para observar las diferencias que hay entre ellas. Una <strong>tabla de resumen</strong> lista las categorías en una columna y la frecuencia, cantidad o porcentaje en una columna o columnas independientes.</p>
+<dl>
+  <dt>Variable cuantitativa:</dt> <dd><Son variables que se expresan numéricamente.</dd>
+  <dl>
+    <dt>Variable continua:</dt> <dd>Toman un valor infinito de valores entre un intervalo de datos. El tiempo que tarda un corredor en completar los 100 metros lisos.</dd>
+    <dt>Variable discreta:</dt> <dd>Toman un valor finito de valores entre un intervalo de datos. Número de helados vendidos.<dd>
+  </dl>
+  <dt>Variable cualitativa:</dt> <dd>Son variables que se expresan, por norma general, en palabras.<dd>
+  <dl>
+    <dt>Variable ordinal:</dt> <dd>Expresa diferentes niveles y orden.</dd>
+    <dt>Variable nominal:</dt> <dd>Expresa un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</dd>
+  </dl></dl> 
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
 <p>La <strong>gráfica de pastel</strong> es un círculo que se divide en partes para representar las categorías. El tamaño de cada "rebanada" varía de acuerdo con el porcentaje que corresponde a cada categoría.</p>
