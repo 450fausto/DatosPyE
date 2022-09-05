@@ -32,6 +32,13 @@ asegura que:
 <li>Todos los miembros de la población tengan la misma probabilidad de 
   quedar en la muestra</li>
 </ul>
+<p>El <strong>muestreo sistemático</strong> es un tipo de muestreo que es aplicable cuando 
+los elementos de la población sobre la que se realiza el muestreo están 
+ordenados.</p>
+<p>El <strong>muestreo estratificado</strong> es un tipo de muestreo probabilístico mediante el 
+cual se puede ramificar toda una población en múltiples grupos 
+homogéneos no superpuestos (estratos) y elegir aleatoriamente a 
+miembros finales de los diversos estratos para realizar la investigación.</p>
 El <strong>muestreo estratificado</strong> se usa cuando:
 <ul>
   <li>La población objetivo de interés de un investigador es significativamente heterogénea;</li>
