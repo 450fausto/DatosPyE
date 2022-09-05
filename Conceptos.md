@@ -13,7 +13,7 @@
 <p>Los <strong>datos</strong> son los valores observados de las variables.</p>
 <p>La <strong>tabla de resumen</strong> indica la frecuencia, cantidad o porcentaje de objetos en un conjunto de categorías para observar las diferencias que hay entre ellas. Una <strong>tabla de resumen</strong> lista las categorías en una columna y la frecuencia, cantidad o porcentaje en una columna o columnas independientes.</p>
 <dl>
-  <dt>Variable cuantitativa:</dt> <dd><Son variables que se expresan numéricamente.</dd>
+  <dt>Variable cuantitativa:</dt> <dd>Son variables que se expresan numéricamente.</dd>
   <dl>
     <dt>Variable continua:</dt> <dd>Toman un valor infinito de valores entre un intervalo de datos. El tiempo que tarda un corredor en completar los 100 metros lisos.</dd>
     <dt>Variable discreta:</dt> <dd>Toman un valor finito de valores entre un intervalo de datos. Número de helados vendidos.<dd>
