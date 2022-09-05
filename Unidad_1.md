@@ -24,5 +24,20 @@ cuantitativos discretos y
       </ul>
 Clasificar datos cualitativos
 y cuantitativos.</td>
+    <td>Determinar el tipo de
+estadística a emplear a
+partir de los datos.<br>
+Determinar la naturaleza de
+los datos.</td>
+    <td>
+      <ul>
+        Analítico
+        <li>Crítico</li>
+        <li>Respeto</li>
+        <li>Objetivo</li>
+        <li>Sistemático</li>
+        <li>Responsable</li>
+      </ul>
+    </td>
   </tr>
  </table>
