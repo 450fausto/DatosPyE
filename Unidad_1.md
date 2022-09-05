@@ -124,6 +124,7 @@ interpretación de gráficas:
         <li>Pastel</li>
         <li>Barras</li>
         <li>Tallo y hoja</li>
+      </ul>
 Explicar la construcción de
 tablas de distribución y
 gráficas con software.</td>
@@ -147,5 +148,54 @@ profesional.</td>
       <li>Objetivo</li>
       <li>Sistemático</li>
       <li>Responsable</li></td>
+  </tr>
+  <tr>
+    <td>Medidas de
+tendencia
+central,
+localización y
+dispersión</td>
+    <td>Definir los conceptos de
+medidas de:
+      <ul>
+<li>Tendencia central: media,
+  mediana y moda</li>
+<li>Localización: cuartíles,
+  decíles y percentiles</li>
+<li>Dispersión: rango,
+varianza, desviación
+estándar y desviación
+  media</li>
+Explicar el proceso del
+cálculo de las medidas de
+tendencia central,
+localización y dispersión
+para datos agrupados y no
+agrupados y su
+interpretación.<br><br>
+Explicar el cálculo de las
+medidas de tendencia
+central, localización y
+dispersión con software.</td>
+    <td>Determinar las medidas de
+tendencia central,
+localización y dispersión.<br><br>
+Interpretar las medidas de
+tendencia central,
+localización y dispersión.<br><br>
+Obtener las medidas de
+tendencia central,
+localización y dispersión de
+datos relacionados con su
+perfil profesional, en
+software.</td>
+    <td>
+      <ul>
+        <li>Analítico</li>
+        <li>Crítico</li>
+        <li>Respeto</li>
+        <li>Objetivo</li>
+        <li>Sistemático</li>
+        <li>Responsable</li></td>
   </tr>
  </table>
