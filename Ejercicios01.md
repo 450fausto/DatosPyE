@@ -40,3 +40,5 @@ Qué tipo de variables son:
   <li>Cantidad de compras hechas en línea durante un mes</li>
   </ol>
   <p>Para estudiar cuál es el candidato presidencial por el cual votarán los ciudadanos en las próximas elecciones, se toma una muestra de 3500 personas de todo el país. La pregunta es la siguiente, ¿por quién votará en las próximas elecciones presidenciales? Determine la población, muestra e individuos.</p>
+  
+  <p>Un estudiante de estadística quiere conocer si los profesores de su universidad, UNAM, prefieren dictar clases con ropa formal o con ropa informal. Para ello, realiza una encuesta a 120 profesores de la UNAM elegidos de forma aleatoria. Identifique la población, muestra e individuos.</p>
