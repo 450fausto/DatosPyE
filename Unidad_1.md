@@ -40,4 +40,56 @@ los datos.</td>
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>Población,
+muestra y
+muestreo</td>
+    <td>Identificar los conceptos de:
+      <ul>
+        <li>Censo</li>
+        <li>Parámetro</li>
+        <li>Muestreo</li>
+        <li>Estadístico</li>
+      </ul>
+Clasificar las técnicas de
+muestreo:
+      <ol>
+        <li>Probabilístico:</li>
+        <ul>
+          <li>Aleatorio simple</li>
+          <li>Sistemático</li>
+          <li>Estratificado</li>
+          <li>Conglomerado</li>
+        </ul>
+        <li>No probabilístico</li>
+      </ol>
+Identificar el proceso del
+diseño de una muestra:
+      <ul>
+        <li>Tipo de variable</li>
+        <li>Tamaño de la muestra</li>
+        <li>Técnica de muestreo</li>
+      </ul>
+        </td>
+    <td>Determinar las variables de
+estudio.<br>
+Determinar el tamaño de la
+muestra.<br>
+Seleccionar la técnica de
+muestreo.<br>
+Justificar el diseño de la
+muestra.<br>
+Proponer el diseño de
+muestras en situaciones
+relacionadas a su perfil
+profesional.</td>
+    <td>
+      <ul>Analítico
+        <li>Crítico</li>
+        <li>Respeto</li>
+        <li>Objetivo</li>
+        <li>Sistemático</li>
+        <li>Responsable</li></ul>
+    </td>
+  </tr>
  </table>
