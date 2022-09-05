@@ -39,4 +39,4 @@ Qué tipo de variables son:
   <li>Número de correos electrónicos recibidos en una semana</li>
   <li>Cantidad de compras hechas en línea durante un mes</li>
   </ol>
-  
+  <p>Para estudiar cuál es el candidato presidencial por el cual votarán los ciudadanos en las próximas elecciones, se toma una muestra de 3500 personas de todo el país. La pregunta es la siguiente, ¿por quién votará en las próximas elecciones presidenciales? Determine la población, muestra e individuos.</p>
