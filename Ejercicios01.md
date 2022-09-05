@@ -18,3 +18,25 @@ Un fabricante de comida para gatos pleneaba realizar una encuesta para hogares m
   <li>Para cada uno de los reactivos, ¿qué tipo de variable trata?</li>
   </ul>
   
+<p> Se venden tres diferentes bebidas en un restaurante de comida rápida: refrescos, té y café. Explique de qué tipo de variable se trata.</p>
+
+<p>En el restaurante de comida rápida se venden refrescos en tres tamaños: chico, mediano y grande. Explique de qué tipo de variable se trata.</p>
+
+<p>Se mide el tiempo que toma bajar de internet un archivo MP3. Explique de qué tipo de variable se trata. </p>
+
+Qué tipo de variables son:
+<ol>
+  <li>Número de aparatos telefónicos por casa</li>
+  <li>Duración (en minutos) de la llamada de larga distancia prolongada hecha cada mes</li>
+  <li>Si existe en la casa una línea telefónica conectada a un módem de computadora</li>
+  <li>Si hay un fax en la casa</li>
+  <li>Cantidaad de tiempo que pasan de compras en la librería</li>
+  <li>Número de libros de texto comprados</li>
+  <li>Especialidad académica</li>
+  <li>Género</li>
+  <li>Nombre del proveedor de internet</li>
+  <li>Cantidad de tiempo que navega en internet por semana</li>
+  <li>Número de correos electrónicos recibidos en una semana</li>
+  <li>Cantidad de compras hechas en línea durante un mes</li>
+  </ol>
+  
