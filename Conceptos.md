@@ -16,7 +16,7 @@
   <dt>Variable cuantitativa:</dt> <dd>Son variables que se expresan numéricamente.</dd>
   <dl>
     <dt>Variable continua:</dt> <dd>Toman un valor infinito de valores entre un intervalo de datos. El tiempo que tarda un corredor en completar los 100 metros lisos.</dd>
-    <dt>Variable discreta:</dt> <dd>Toman un valor finito de valores entre un intervalo de datos. Número de helados vendidos.<dd>
+    <dt>Variable discreta:</dt> <dd>Toman un valor finito de valores entre un intervalo de datos. Número de helados vendidos.</dd>
   </dl>
   <dt>Variable cualitativa:</dt> <dd>Son variables que se expresan, por norma general, en palabras.<dd>
   <dl>
