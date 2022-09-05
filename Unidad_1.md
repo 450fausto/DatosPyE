@@ -26,7 +26,7 @@ Clasificar datos cualitativos
 y cuantitativos.</td>
     <td>Determinar el tipo de
 estadística a emplear a
-partir de los datos.<br>
+partir de los datos.<br><br>
 Determinar la naturaleza de
 los datos.</td>
     <td>
@@ -72,13 +72,13 @@ diseño de una muestra:
       </ul>
         </td>
     <td>Determinar las variables de
-estudio.<br>
+estudio.<br><br>
 Determinar el tamaño de la
-muestra.<br>
+muestra.<br><br>
 Seleccionar la técnica de
-muestreo.<br>
+muestreo.<br><br>
 Justificar el diseño de la
-muestra.<br>
+muestra.<br><br>
 Proponer el diseño de
 muestras en situaciones
 relacionadas a su perfil
