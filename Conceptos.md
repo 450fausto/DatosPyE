@@ -24,6 +24,14 @@
     <dt>Variable nominal:</dt> <dd>Expresa un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</dd>
   </dl></dl> 
 <h2>Muestreo</h2>
+Una <strong>muestra aleatoria</strong> es elegida de la población mediante un proceso que 
+asegura que:
+<ul>
+<li>Cada muestra aleatoria de un tamaño dado tenga una misma 
+  probabilidad de ser elegida</li>
+<li>Todos los miembros de la población tengan la misma probabilidad de 
+  quedar en la muestra</li>
+</ul>
 El <strong>muestreo estratificado</strong> se usa cuando:
 <ul>
   <li>La población objetivo de interés de un investigador es significativamente heterogénea;</li>
