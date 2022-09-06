@@ -54,7 +54,7 @@ queremos medir. </p>
   <a href="https://enciclopediaeconomica.com/muestra-estadistica/">Saber más sobre muestreo</a>
 <h2>Medidas de posición y tendencia central</h2>
 <dl>
-  <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $\bar{x}$</dd>
+  <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $$\bar{x}$$</dd>
 </dl>
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
