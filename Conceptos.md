@@ -56,6 +56,7 @@ queremos medir. </p>
 <dl>
   <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $$\bar{X}=\frac{1}{n}\sum_{i=1}^{n}X_i$$</dd>
   <dt>Mediana</dt><dd>Es una medida de tendencia central, que divide al conjunto de datos ordenados de la muestra, en dos partes iguales; es decir el 50% de los datos tendrán valores menores o iguales al valor de la mediana y el otro 50% de los datos con valores superiores al valor de la mediana.</dd>
+  <dt>Percentil</dt><dd>Un percentil es una medición en la cual ese porcentaje de los valores totales es el mismo o menor que esa medición: $$f_i=\frac{i-1}{n-1}$$</dd>
 </dl>
 <h2>Gráficas</h2>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
