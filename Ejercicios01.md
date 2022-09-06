@@ -48,5 +48,5 @@ Qué tipo de variables son:
 <p>Un conocido fabricante de medicamentos, desea conocer la proporción de personas cuya diabetes tipo 2, puede ser controlada con un nuevo fármaco. Se realiza un estudio en 3500 personas con esta diabetes, y se encontró que el 75% de ellas pudo controlar su diabetes tipo 2 usando el fármaco. Asumiendo que estas 3500 personas son representativas del grupo de pacientes de diabetes tipo 2, identifique la muestra y la población.</p>
 
 <p> Para el conjunto $X={20, 20, 50, 50, 90}$ ¿Es posible agregar un valor al conjunto tal que la media aumente y la mediana disminuya? </p>
-<p> Propón un conjunto de cinco elementos con $\mu=10$ y $Me=1$ <\p>
-<p> Propón un conjunto de cinco elementos con $\mu=1$ y $Me=10$ <\p>
+<p> Propón un conjunto de cinco elementos con $\mu=10$ y $Me=1$. <\p>
+<p> Propón un conjunto de cinco elementos con $\mu=1$ y $Me=10$. <\p>
