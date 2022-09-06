@@ -22,7 +22,8 @@
   <dl>
     <dt>Variable ordinal:</dt> <dd>Expresa diferentes niveles y orden.</dd>
     <dt>Variable nominal:</dt> <dd>Expresa un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</dd>
-  </dl></dl> 
+  </dl>
+</dl> 
 <h2>Muestreo</h2>
 Una <strong>muestra aleatoria</strong> es elegida de la población mediante un proceso que 
 asegura que:
