@@ -7,4 +7,9 @@
 <h2>Content</h2>
 <p>The dataset contains records of approximately 4,900+ divorces for the 15 years period (2000-2015) in the city of Xalapa, Mexico. The special good thing about this dataset is that it contains divorcees birth dates which are usually considered as being sensitive information and usually not included in the public datasets.</p>
 
-<p>The dataset is originally in Spanish and I did translate all the column headers into English. Files are as follows:</p>
+<h2>Inspiration</h2>
+<p>A potential use-case for this data could be a practice in classification/clustering problems in an attempt to predict a divorce.</p>
+
+<p>Some other data analysis can be applied to this dataset. For instance, I am gonna use this data for the horoscope/zodiac/astrology claims validation/testing.</p>
+
+<p>Please refer to my notebook on it here: https://www.kaggle.com/aagghh/is-astrology-right-testing-the-zodiac-claims</p>
