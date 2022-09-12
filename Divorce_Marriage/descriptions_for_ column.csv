@@ -1,0 +1,42 @@
+Col_names_spanish,Col_names_english,Descriptions_spanish,Descriptions_english
+Fecha de Registro,Divorce_date,Fecha de registro del divorcio,Divorce Record Date
+Tipo,Type_of_divorce,Necesario cuando alguna de las partes no acepta el divorcio; Voluntario cuando ambas partes est√°n de acuerdo,Necessary when one of the parties does not accept the divorce; Voluntary when both parties agree
+Nacionalidad,Nationality_partner_man,Nacionalidad del divorciado,Nationality of the divorced
+F_Naci_Do,DOB_partner_man,Fecha de nacimiento del divorciado,Divorced date of birth
+ LocNaci_Do,Place_of_birth_partner_man,Localidad de nacimiento del divorciado,Place of birth of the divorced person
+MpioNaci_Do,Birth_municipality_of_partner_man,Municipio de nacimiento del divorciado,Municipality of birth of the divorced person
+EFedNaci_Do,Birth_federal_partner_man,Entidad Federativa de nacimiento del divorciado,Federal Entity of birth of the divorced person
+PaisNaci_Do,Birth_country_partner_man,Pa√≠s de nacimiento del divorciado,Country of birth of the divorced person
+Edad,Age_partner_man,Edad del divorciado,Divorced age
+MpioHab_Do,Residence_municipality_partner_man,Municipio del domicilio que habita el divorciado,Municipality of the domicile where the divorced person lives
+EFedHab_Do,Residence_federal_partner_man,Entidad federativa del domicilio que habita el divorciado,Federal entity of the domicile that the divorced person lives
+PaisHab_Do,Residence_country_partner_man,Pa√≠s del domicilio en que habita el divorciado,Pa√ ≠ s of the domicile where the divorced person lives
+ElIngreso,Monthly_income_partner_man_peso,Ingreso mensual del divorciado en pesos,Monthly income of the divorced person in pesos
+Ocupacion_Do,Occupation_partner_man,Ocupaci√≥n del divorciado,Occupation of the divorced person
+LocHabi_Do,Place_of_residence_partner_man,Localidad del domicilio donde habita el divorciado,Place of residence where the divorced person lives
+Nacionalidad2,Nationality_partner_woman,Nacionalidad de la divorciada,Nationality of the divorced
+F_Naci_da,DOB_partner_woman,Fecha de nacimiento de la divorciada,Date of birth of the divorcee
+Fecha de Registro 2,DOB_registration_date_partner_woman,Fecha de registro de nacimiento de la divorciada,Birth registration date of the divorcee
+LocNaci_Da,Place_of_birth_partner_woman,Localidad de nacimiento de la divorciada,Place of birth of the divorced
+MpioNaci_Da,Birth_municipality_of_partner_woman,Municipio de nacimiento de la divorciada,Municipality of birth of the divorced
+EFedNaci_Da,Birth_federal_partner_woman,Entidad de nacimiento de la divorciada,Entity of birth of the divorced
+PaisNaci_Da,Birth_country_partner_woman,Pa√≠s de nacimiento de la divorciada,Pa√ ≠ s of birth of the divorced woman
+Edad2,Age_partner_woman,Edad de la divorciada,Age of the divorced
+LocHabi_Da,Place_of_residence_partner_woman,Localidad del domicilio donde habita la divorciada,Place of residence where the divorced woman lives
+MpioHab_Da,Residence_municipality_partner_woman,Municipio del domicilio que habita la divorciada,Municipality of the domicile where the divorced person lives
+EFedHab_Da,Residence_federal_partner_woman,Entidad federativa del domicilio que habita la divorciada,Federal entity of the domicile that the divorced person lives
+PaisHab_Da,Residence_country_partner_woman,Pa√≠s del domicilio en que habita la divorciada,Pa√ ≠ s of the domicile where the divorced woman lives
+OcupaciÛn_Da,Occupation_partner_woman,Ocupaci√≥n de la divorciada,Occupation of the divorced woman
+EllaIngreso,Monthly_income_partner_woman_peso,Ingreso mensual de la divorciada en pesos,Monthly income of the divorced woman in pesos
+Fecha,Date_of_marriage,Fecha del acta de matrimonio de los divorciados,Date of the marriage certificate of the divorced
+Localidad,Marriage_certificate_place,Localidad en que se levantÛ el acta de matrimonio de los divorciados,Locality in which the marriage certificate of the divorced was drawn up
+Municipio,Marriage_certificate_municipality,Municipio en que se levantÛ el acta de matrimonio de los divorciados,Municipality in which the marriage certificate of the divorced was drawn up
+Entidad Federativa,Marriage_certificate_federal,Entidad federativa en que se levantÛ el acta de matrimonio de los divorciados,Federal entity in which the marriage certificate of the divorced was raised
+ElEscolaridad,Level_of_education_partner_man,Escolaridad del divorciado,Schooling of the divorced
+ElTrabajo,Employment_status_partner_man,Trabajo del divorciado,Divorced job
+EllaEscolaridad,Level_of_education_partner_woman,Escolaridad de la divorciada,Schooling of the divorced
+EllaTrabajo,Employment_status_partner_woman,Trabajo de la divorciada,Work of the divorcee
+Matri_AÒos,Marriage_duration,Duraci√≥n del matrimonio,Duration of marriage
+Matri_Meses,Marriage_duration_months,Duraci√≥n en meses,Duration in months
+Num_Hijos,Num_Children,Hijos durante el matrimonio,Children during marriage
+Custodia,Custody,na,na
