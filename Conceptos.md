@@ -59,10 +59,15 @@ queremos medir. </p>
   <dt>Percentil</dt><dd>Un percentil es una medición en la cual ese porcentaje de los valores totales es el mismo o menor que esa medición: $$f_i=\frac{i-1}{n-1}$$</dd>
 </dl>
 <h2>Gráficas</h2>
-<p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
+
+<h3>Gráficas de pastel</h3>
 <p>La <strong>gráfica de pastel</strong> es un círculo que se divide en partes para representar las categorías. El tamaño de cada "rebanada" varía de acuerdo con el porcentaje que corresponde a cada categoría.</p>
 <img src="http://cdn.exceltotal.com/wp-content/uploads/2012/03/crear-un-grafico-circular-con-subgrafico-01.png" alt="gráfico de pastel">
 <p><em>Si la comparación de categorías es lo más importante, podría utilizar una gráfica de barras. Si lo importante es observar la parte total que está en una categoría particular, debería utilizar la gráfica de pastel.</em></p>
+
+<h3>Gráficas de barras</h3>
+<p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
+
 <p>En un <strong>diagrama de Pareto</strong> las respuestas categorizadas se trazan en orden descendente de acuerdo a sus frecuencias y se combinan con la línea de porcentaje acumulado en la misma gráfica. Este diagrama permite identificar situaciones en las que se da el principio de Pareto.</p>
 <p>El <strong>principio de Pareto</strong> existe cuando la mayoría de los elementos de un conjunto de datos caen en un pequeño número de categorías, y las pocas observaciones restantes se dispersan en un gran número de categorías. A menudo nos referimos a estos dos grupos como lo <em>poco vital</em> (poco pero vital) y lo <em>mucho trivial</em> (mucho pero trivial).</p>
 <img src="https://spcgroup.com.mx/wp-content/uploads/2015/06/pareto.gif" alt="gráfica de Pareto">
