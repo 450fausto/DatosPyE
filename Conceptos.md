@@ -63,7 +63,19 @@ queremos medir. </p>
 <h3>Gráficas de pastel</h3>
 <p>La <strong>gráfica de pastel</strong> es un círculo que se divide en partes para representar las categorías. El tamaño de cada "rebanada" varía de acuerdo con el porcentaje que corresponde a cada categoría.</p>
 <img src="http://cdn.exceltotal.com/wp-content/uploads/2012/03/crear-un-grafico-circular-con-subgrafico-01.png" alt="gráfico de pastel">
-<p><em>Si la comparación de categorías es lo más importante, podría utilizar una gráfica de barras. Si lo importante es observar la parte total que está en una categoría particular, debería utilizar la gráfica de pastel.</em></p><hr>
+<p><em>Si la comparación de categorías es lo más importante, podría utilizar una gráfica de barras. Si lo importante es observar la parte total que está en una categoría particular, debería utilizar la gráfica de pastel.</em></p>
+<h4>Buenas prácticas</h4>
+<ul>
+  <li>Usar gráfica de pastel cuando se quiera representar cada categoría como parte de un todo</li>
+  <li>Usar gráfica de pastel para representar el impacto de una variable dentro de una población o muestra</li>
+</ul>
+<h4>Malas prácticas</h4>
+<ul>
+  <li>3D</li>
+  <li>Usar gráfica de pastel cuando visualmente no se aprecian diferencias entre proporciones</li>
+</ul>
+<p><em>En general, los gráficos de pastel son de los menos prácticos. También son los más mal utilizados y, peor aún, los más explotados.</em><p>
+<hr>
 
 <h3>Gráficas de barras</h3>
 <p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
