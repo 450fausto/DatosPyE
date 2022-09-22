@@ -74,7 +74,7 @@ queremos medir. </p>
   <li>3D</li>
   <li>Usar gráfica de pastel cuando visualmente no se aprecian diferencias entre proporciones</li>
 </ul>
-<p><em>En general, los gráficos de pastel son de los menos prácticos. También son los más mal utilizados y, peor aún, los más explotados.</em><p>
+<p><em>En general, los gráficos de pastel son de los menos prácticos. También son los más mal utilizados y, peor aún, los más explotados.</em>[2]<p>
 <hr>
 
 <h3>Gráficas de barras</h3>
@@ -101,3 +101,6 @@ tabular de los datos en clases con sus respectivas frecuencias de clase se le co
   o <strong>tabla de frecuencias</strong>.</p> 
 <p>A los datos organizados y resumidos como en la distribución de frecuencias anterior se les llama <strong>datos agrupados</strong>.</p>
 
+<p> [1]
+ <br>[2] say it with charts
+  <br>[3] storytelling with data</p>
