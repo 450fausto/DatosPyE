@@ -81,8 +81,9 @@ queremos medir. </p>
 <hr>
 
 <h3>Gráficas de barras</h3>
-<p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/>
+<p>En una <strong>gráfica de barras</strong>, cada barra muestra una categoría, su longitud representa la cantidad, frecuencia o porcentaje de los valores que caen en cada categoría.</p><img src="https://sites.google.com/site/utcvcalidadenelmantenimiento/_/rsrc/1317418702711/estadistica-y-probabilidad/2-1-3-graficas/2-1-3-1-grafica-de-barras/001.jpg", alt="gráfico de barras"/><hr>
 
+<h3>Diagrama de Pareto</h3>
 <p>En un <strong>diagrama de Pareto</strong> las respuestas categorizadas se trazan en orden descendente de acuerdo a sus frecuencias y se combinan con la línea de porcentaje acumulado en la misma gráfica. Este diagrama permite identificar situaciones en las que se da el principio de Pareto.</p>
 <p>El <strong>principio de Pareto</strong> existe cuando la mayoría de los elementos de un conjunto de datos caen en un pequeño número de categorías, y las pocas observaciones restantes se dispersan en un gran número de categorías. A menudo nos referimos a estos dos grupos como lo <em>poco vital</em> (poco pero vital) y lo <em>mucho trivial</em> (mucho pero trivial).</p>
 <img src="https://spcgroup.com.mx/wp-content/uploads/2015/06/pareto.gif" alt="gráfica de Pareto">
