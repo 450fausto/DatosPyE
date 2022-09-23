@@ -68,11 +68,14 @@ queremos medir. </p>
 <ul>
   <li>Usar gráfica de pastel cuando se quiera representar cada categoría como parte de un todo</li>
   <li>Usar gráfica de pastel para representar el impacto de una variable dentro de una población o muestra</li>
+  <li>Salvo puntuales excepciones, no debería representar más de seis categorías</li>
+  <li>Ordenar los componentes de mayor a menor proporción o viceversa (arreglo ordenado)</li>
 </ul>
 <h4>Malas prácticas</h4>
 <ul>
   <li>3D</li>
   <li>Usar gráfica de pastel cuando visualmente no se aprecian diferencias entre proporciones</li>
+  <li>Agregar adornos</li>
 </ul>
 <p><em>En general, los gráficos de pastel son de los menos prácticos. También son los más mal utilizados y, peor aún, los más explotados.</em>[2]<p>
 <hr>
