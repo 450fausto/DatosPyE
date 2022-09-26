@@ -77,7 +77,7 @@ $$Q_k=X_{\frac{k(n+1)}{4}}$$
 <p>Las medidas de resumen como los cuartiles y el rango intercuartil, que no reciben la influencia de valores extremos, se denominan <b>medidas resistentes</b>.</p>
 
 $$ \mu  =  \frac  { \Sigma_{i=1}^{N} X_i}   {N} $$
-$$ \Sigma_{i=1}^{100} i $$
+
 
 <h2>Gráficas</h2>
 
