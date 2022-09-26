@@ -76,7 +76,9 @@ $$Q_k=X_{\frac{k(n+1)}{4}}$$
 <p>El <b>rango intercuartil</b> (también llamado dispersión media) (RIQ o <em>IQR</em> por sus siglas en inglés) es la diferencia entre el tercer y el primer cuartil de un conjunto de datos.</p>
 <p>Las medidas de resumen como los cuartiles y el rango intercuartil, que no reciben la influencia de valores extremos, se denominan <b>medidas resistentes</b>.</p>
 
-$$ \mu  =  \frac  { \Sigma_{i=1}^{N} X_i}   {N} $$
+$$ \mu  =  \frac  { \Sigma_{i=1}^{N} X_i}   {N} (media de la población)$$
+$$ \bar{X}  =  \frac  { \Sigma_{i=1}^{n} X_i}   {n} (media de la muestra)$$
+$$ \sigma^2 = \frac  { \Sigma_{i=1}^{N} (X_i-\mu)^2}   {N} (varianza de la población)$$
 
 
 <h2>Gráficas</h2>
