@@ -58,7 +58,8 @@ queremos medir. </p>
 <p><b>Forma</b>, es el patrón de distribución de los valores desde el menor hasta el mayor.</p>
 
 <dl>
-  <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $$\bar{X}=\frac{1}{n}\sum_{i=1}^{n}X_i$$</dd>
+  <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $$\bar{X}=\frac{1}{n}\sum_{i=1}^{n}X_i$$
+  $$\mu=\frac{1}{N}\sum_{i=1}^{N}X_i$$</dd>
   <dt>Mediana</dt><dd>Es una medida de tendencia central, que divide al conjunto de datos ordenados de la muestra, en dos partes iguales; es decir el 50% de los datos tendrán valores menores o iguales al valor de la mediana y el otro 50% de los datos con valores superiores al valor de la mediana.</dd>
   <dt>Percentil</dt><dd>Un percentil es una medición en la cual ese porcentaje de los valores totales es el mismo o menor que esa medición: $$f_i=\frac{i-1}{n-1}$$</dd>
 </dl>
@@ -75,12 +76,6 @@ $$Q_k=X_{\frac{k(n+1)}{4}}$$
 <p>El <b>rango</b> mide la distribución total del conjunto de datos. Aunque el rango es una medida simple de variación total de los datos, no toma en cuenta cómo se distribuyen los datos entre los valores menor y mayor. De esta manera resulta engañoso utilizar el rango como medida de la variación cuando al menos uno de los valores es extremo.</p>
 <p>El <b>rango intercuartil</b> (también llamado dispersión media) (RIQ o <em>IQR</em> por sus siglas en inglés) es la diferencia entre el tercer y el primer cuartil de un conjunto de datos.</p>
 <p>Las medidas de resumen como los cuartiles y el rango intercuartil, que no reciben la influencia de valores extremos, se denominan <b>medidas resistentes</b>.</p>
-<p>Media de la población:</p>
-$$ \mu  =  \frac  { \sum_{i=1}^{N} X_i}   {N}$$ 
-<!--Media de la muestra:
-$$ \bar{X}  =  \frac  { \Sigma_{i=1}^{n} X_i}   {n} $$
-Varianza de la población:
-$$ \sigma^2 = \frac  { \Sigma_{i=1}^{N} (X_i-\mu)^2}   {N}$$-->
 
 
 <h2>Gráficas</h2>
