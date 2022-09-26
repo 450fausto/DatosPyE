@@ -71,7 +71,11 @@ $$Q_k=X_{\frac{k(n+1)}{4}}$$
   <dt>Regla 2:</dt> <dd>Si el resultado es una fracción de mitad (2.5, 3.5, etc) entonces el cuartil es igual al promedio de los valores clasificados correspondientes</dd>
   <dt>Regla 3:</dt> <dd>Si el resultado no es un número entero ni una fracción de mitad, se redondea al tenero más cercano y se selecciona ese valor clasificado</dd>
 </dl>
-
+<p>El <b>rango</b> es la medida numérica descriptiva más sencilla de la variación en un conjunto de datos. Para calcular el rango basta con restar el valor más pequeño del conjunto al valor más grande del conjunto. </p>
+<p>El <b>rango</b> mide la distribución total del conjunto de datos. Aunque el rango es una medida simple de variación total de los datos, no toma en cuenta cómo se distribuyen los datos entre los valores menor y mayor. De esta manera resulta engañoso utilizar el rango como medida de la variación cuando al menos uno de los valores es extremo.</p>
+<p>El <b>rango intercuartil</b> (también llamado dispersión media) (RIQ o <em>IQR</em> por sus siglas en inglés) es la diferencia entre el tercer y el primer cuartil de un conjunto de datos.</p>
+<p>Las medidas de resumen como los cuartiles y el rango intercuartil, que no reciben la influencia de valores extremos, se denominan <b>medidas resistentes</b>.</p>
+$$ \mu=\frac{\Sigma_{i=1}^{N} X_i}{N} (media de la población)$$
 
 <h2>Gráficas</h2>
 
