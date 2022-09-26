@@ -64,6 +64,9 @@ queremos medir. </p>
 </dl>
 <p>La <b>moda</b> es el valor del conjunto de datos que aparece con mayor frecuencia. Al igual que en la mediana y a diferencia de la media, los valores extremos no afectan a la moda.</p>
 <p>Los <b>cuartiles</b> dividen a un conjunto de datos en cuatro partes iguales: el primer cuartil $Q_1$ separa al 25.0%, que abarca a los valores más pequeños del 75.0%. El segundo cuartil $Q_2$ es la mediana y el tercer cuartil $Q_3$ separa al 25%, que abarca a los valores más grandes.</p>
+<p><em>Para calcular los cuartiles, se utilizan las siguientes reglas para el subíndice:</em></p>
+$$Q_k=X_{\frac{k(n+1)}{4}}$$
+
 
 <h2>Gráficas</h2>
 
