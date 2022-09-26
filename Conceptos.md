@@ -53,11 +53,18 @@ correctamente el total de la población en relación a la característica que
 queremos medir. </p>
   <a href="https://enciclopediaeconomica.com/muestra-estadistica/">Saber más sobre muestreo</a>
 <h2>Medidas de posición y tendencia central</h2>
+<p><b>Tendencia central</b>, es la medida que describe cómo todos los valores de los datos se agrupan en torno a un valor central.</p>
+<p><b>Variación</b>, es la cantidad de disgregación o dispersión de los valores respecto a un valor central. </p>
+<p><b>Forma</b>, es el patrón de distribución de los valores desde el menor hasta el mayor.</p>
+
 <dl>
   <dt>Media</dt> <dd>Es un valor que tiende a ubicarse en el centro de la distribución de los datos, y es considerado un valor representativo para el conjunto de datos cuando los datos presentan poca variabilidad: $$\bar{X}=\frac{1}{n}\sum_{i=1}^{n}X_i$$</dd>
   <dt>Mediana</dt><dd>Es una medida de tendencia central, que divide al conjunto de datos ordenados de la muestra, en dos partes iguales; es decir el 50% de los datos tendrán valores menores o iguales al valor de la mediana y el otro 50% de los datos con valores superiores al valor de la mediana.</dd>
   <dt>Percentil</dt><dd>Un percentil es una medición en la cual ese porcentaje de los valores totales es el mismo o menor que esa medición: $$f_i=\frac{i-1}{n-1}$$</dd>
 </dl>
+<p>La <b>moda</b> es el valor del conjunto de datos que aparece con mayor frecuencia. Al igual que en la mediana y a diferencia de la media, los valores extremos no afectan a la moda.</p>
+<p>Los <b>cuartiles</b> dividen a un conjunto de datos en cuatro partes iguales: el primer cuartil $Q_1$ separa al 25.0%, que abarca a los valores más pequeños del 75.0%. El segundo cuartil $Q_2$ es la mediana y el tercer cuartil $Q_3$ separa al 25%, que abarca a los valores más grandes.</p>
+
 <h2>Gráficas</h2>
 
 <h3>Gráficas de pastel</h3>
