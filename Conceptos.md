@@ -76,7 +76,7 @@ $$Q_k=X_{\frac{k(n+1)}{4}}$$
 <p>El <b>rango</b> mide la distribución total del conjunto de datos. Aunque el rango es una medida simple de variación total de los datos, no toma en cuenta cómo se distribuyen los datos entre los valores menor y mayor. De esta manera resulta engañoso utilizar el rango como medida de la variación cuando al menos uno de los valores es extremo.</p>
 <p>El <b>rango intercuartil</b> (también llamado dispersión media) (RIQ o <em>IQR</em> por sus siglas en inglés) es la diferencia entre el tercer y el primer cuartil de un conjunto de datos.</p>
 <p>Las medidas de resumen como los cuartiles y el rango intercuartil, que no reciben la influencia de valores extremos, se denominan <b>medidas resistentes</b>.</p>
-
+<p>La varianza es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su media: $$\sigma=\frac{1}{N}\sum_{i=1}^{N} (X_1-\mu)^2$$</p>
 
 <h2>Gráficas</h2>
 
