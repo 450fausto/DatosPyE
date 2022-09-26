@@ -66,6 +66,11 @@ queremos medir. </p>
 <p>Los <b>cuartiles</b> dividen a un conjunto de datos en cuatro partes iguales: el primer cuartil $Q_1$ separa al 25.0%, que abarca a los valores más pequeños del 75.0%. El segundo cuartil $Q_2$ es la mediana y el tercer cuartil $Q_3$ separa al 25%, que abarca a los valores más grandes.</p>
 <p><em>Para calcular los cuartiles, se utilizan las siguientes reglas para el subíndice:</em></p>
 $$Q_k=X_{\frac{k(n+1)}{4}}$$
+<dl>
+  <dt>Regla 1:</dt> <dd>Si el resultado es un número entero, entonces el cuartil es igual al valor clasificado</dd>
+  <dt>Regla 2:</dt> <dd>Si el resultado es una fracción de mitad (2.5, 3.5, etc) entonces el cuartil es igual al promedio de los valores clasificados correspondientes</dd>
+  <dt>Regla 3:</dt> <dd>Si el resultado no es un número entero ni una fracción de mitad, se redondea al tenero más cercano y se selecciona ese valor clasificado</dd>
+</dl>
 
 
 <h2>Gráficas</h2>
