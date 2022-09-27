@@ -7,7 +7,7 @@
 <li>¿Por qué el gráfico de barras es la mejor opción para representar los datos de la variable estadística seleccionada?</li>
 <li>¿Qué hipótesis se pueden obtener a partir del gráfico de barras?</li>
   </ol><br><br>
-<li>Realiza un muestreo (puedes proponer alguna de las técnicas de muestreo tratadas) justificando la técnica del muestreo empleada y has un gráfico de barras de la muestra (el 30% de los datos o 100 datos, lo que sea menor). Compara el gráfico de pastel de la muestra con la población o totalidad de los datos:</li>
+<li>Realiza un muestreo (puedes proponer alguna de las técnicas de muestreo tratadas) justificando la técnica del muestreo empleada y has un gráfico de barras de la muestra (el 30% de los datos o 100 datos, lo que sea menor). Compara el gráfico de barras de la muestra con el gráfico de barras de población o totalidad de los datos:</li>
   <ol type="a">
 <li>¿Los gráficos se parecen entre sí? ¿A qué crees que se deba?</li>
   </ol><br><br>
