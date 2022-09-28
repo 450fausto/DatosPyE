@@ -11,6 +11,15 @@
 <p><em>Ni siquiera los métodos estadísticos más complejos producirán una información precisa.</em></p>
 <p>Las fuentes de datos se clasifican en <strong>fuentes primarias</strong> y <strong>fuentes secundarias</strong>. Cuando el recolector de datos es quien los usa para el análisis, la <strong>fuente es primaria</strong>. Cuando una organización o individuo han compilado los datos que utiliza otra organización o individuo, la <strong>fuente es secundaria</strong>.</p>
 <p>Los <strong>datos</strong> son los valores observados de las variables.</p>
+
+<p>Una <b>unidad experimental</b> es el individuo u objeto en el que se mide una
+  variable. Resulta una sola <b>medición</b> o datos cuando una variable se mide en realidad en
+una unidad experimental.</p>
+
+<p>Resultan <b>datos univariados</b> cuando se mide una sola variable en una sola
+  unidad experimental. Resultan <b>datos bivariados</b> cuando se miden dos variables en una sola
+  unidad experimental. Resultan <b>datos multivariados</b> cuando se miden más de dos variables.</p>
+
 <p>La <strong>tabla de resumen</strong> indica la frecuencia, cantidad o porcentaje de objetos en un conjunto de categorías para observar las diferencias que hay entre ellas. Una <strong>tabla de resumen</strong> lista las categorías en una columna y la frecuencia, cantidad o porcentaje en una columna o columnas independientes.</p>
 <dl>
   <dt>Variable cuantitativa:</dt> <dd>Son variables que se expresan numéricamente.</dd>
