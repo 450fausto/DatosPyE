@@ -6,7 +6,9 @@
 <li>Describe brevemente la base de datos utilizada y la variable estadística seleccionada: ¿Para qué se obtuvo la base de datos? ¿Qué datos contiene? </li>
 <li>¿Por qué el histograma es la mejor opción para representar los datos de la variable estadística seleccionada?</li>
 <li>¿Qué hipótesis se pueden obtener a partir del histograma?</li>
+<li>¿Qué número de clases elegiste y por qué? ¿Cuál es la amplitud de cada clase?
   </ol><br><br>
+  
 <li>Realiza un muestreo (puedes proponer alguna de las técnicas de muestreo tratadas) justificando la técnica del muestreo empleada y has un histograma de la muestra (el 30% de los datos o 100 datos, lo que sea menor). Compara el histograma de la muestra con la población o totalidad de los datos:</li>
   <ol type="a">
 <li>¿Los gráficos se parecen entre sí? ¿A qué crees que se deba?</li>
