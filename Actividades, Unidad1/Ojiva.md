@@ -7,7 +7,7 @@
 <li>¿Por qué la ojiva es la mejor opción para representar los datos de la variable estadística seleccionada?</li>
 <li>¿Qué hipótesis se pueden obtener a partir de la ojiva?</li>
   </ol><br><br>
-<li>Realiza un muestreo (puedes proponer alguna de las técnicas de muestreo tratadas) justificando la técnica del muestreo empleada y has una ojiva de la muestra (el 30% de los datos o 100 datos, lo que sea menor). Compara el gráfico de pastel de la muestra con la población o totalidad de los datos:</li>
+<li>Realiza un muestreo (puedes proponer alguna de las técnicas de muestreo tratadas) justificando la técnica del muestreo empleada y has una ojiva de la muestra (el 30% de los datos o 100 datos, lo que sea menor). Compara la ojiva de la muestra con la ojiva de la población o totalidad de los datos:</li>
   <ol type="a">
 <li>¿Los gráficos se parecen entre sí? ¿A qué crees que se deba?</li>
   </ol><br><br>
