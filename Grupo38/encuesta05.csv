@@ -1,5 +1,5 @@
 ﻿Pregunta 1,Pregunta 2,Pregunta 3,Pregunta 4,Tipo de pregunta
-No,Si ,Si,5 a 10 veces,NS
+No,Si,Si,5 a 10 veces,NS
 Si,Si,Si,5 a 10 veces,NS
 Si,No,No,1 a 5 veces,NS
 Si,Si,Si,Mas de 10 veces,NS
@@ -11,24 +11,24 @@ Si,No,No,5 a 10 veces,NS
 Si,Si,Si,1 a 5 veces,NS
 No,Si,Si,Mas de 10 veces,NS
 No,Si,No,1 a 5 veces,S
-No ,Si,Si,5 a 10 veces,S
-No ,Si,No,5 a 10 veces,S
+No,Si,Si,5 a 10 veces,S
+No,Si,No,5 a 10 veces,S
 Si,Si,No,5 a 10 veces,S
-No ,Si,Si,Mas de 10 veces,S
-Si ,Si,Si,Mas de 10 veces,S
+No,Si,Si,Mas de 10 veces,S
+Si,Si,Si,Mas de 10 veces,S
 No,Si,Si,5 a 10 veces,S
 Si,Si,Si,1 a 5 veces,S
-No ,Si,No,1 a 5 veces,S
-No ,Si,Si,1 a 5 veces,S
+No,Si,No,1 a 5 veces,S
+No,Si,Si,1 a 5 veces,S
 No,Si,Si,1 a 5 veces,S
 No,Si,Si,5 a 10 veces,S
-No ,Si,No,Mas de 10 veces,S
+No,Si,No,Mas de 10 veces,S
 No,Si,Si,1 a 5 veces,S
 Si,Si,Si,Mas de 10 veces,S
 Si,Si,No,Mas de 10 veces,S
 Si,Si,No,5 a 10 veces,S
-No ,Si,Si,5 a 10 veces,S
-Si ,Si,Si,1 a 5 veces,S
+No,Si,Si,5 a 10 veces,S
+Si,Si,Si,1 a 5 veces,S
 No,Si,Si,5 a 10 veces,S
 Si,No,No,Mas de 10 veces,NS
 Si,Si,No,1 a 5 veces,NS
