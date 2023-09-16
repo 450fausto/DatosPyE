@@ -1,0 +1,25 @@
+﻿SUJETO,P1,P2,P3,P4,P5,TIPO DE P,,,,,
+1,B),A),B),A),A),SESGADA,,SESGADA ,,,
+2,A),B),B),A),A),SESGADA,,P1,A) MUCHO,B) REGULAR,C) POCO
+3,A),A),B),A),A),SESGADA,,P2,A) SI,"B) NO, PORQUE?",
+4,B),A),A),A),A),SESGADA,,P3,A) 1-2 ¿Qué te gusta?,B) 3,C) 4-5 ¿Qué no te gusta?
+5,A),A),C),B),A),SESGADA,,P4,A) BUENO,"B) MALO, Porque?",
+6,B),A),A),A),A),SESGADA,,P5,A) SATISFECHO,"B) INSATISFECHO, ¿En que?",
+7,A),A),B),A),A),SESGADA,,,,,
+8,B),A),B),A),A),SESGADA,,NO SESGADA ,,,
+9,A),A),B),B),A),SESGADA,,P1,A) MUCHO,B) REGULAR,C) POCO
+10,A),A),B),B),A),SESGADA,,P2,A) BUENA,B) MALA,
+11,B),A),A),B),A),SESGADA,,P3,A) 1-3,B) 4-5,C) 6-10
+12,B),A),B),A),A),SESGADA,,P4,A) BUENA,B) MALA,
+13,B),A),B),A),A),NO SESGADA,,P5,A) ME GUSTAN,B) NO ME GUSTAN,
+14,A),A),C),A),A),NO SESGADA,,,,,
+15,B),A),A),B),A),NO SESGADA,,,,,
+16,A),A),B),B),B),NO SESGADA,,,,,
+17,B),A),A),B),A),NO SESGADA,,,,,
+18,B),A),B),B),A),NO SESGADA,,,,,
+19,B),A),B),A),A),NO SESGADA,,,,,
+20,A),A),C),B),A),NO SESGADA,,,,,
+21,A),A),B),A),A),NO SESGADA,,,,,
+22,B),A),A),B),A),NO SESGADA,,,,,
+23,B),A),B),B),A),NO SESGADA,,,,,
+24,B),A),B),A),B),NO SESGADA,,,,,
