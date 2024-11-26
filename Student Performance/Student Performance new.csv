@@ -1,4 +1,4 @@
-,raza/etnia, nivel educativo de los padres, tipo de comida,curso de preparación para el examen, porcentaje de matemáticas,porcentaje de lectura, porcentaje de escritura, sexo
+,etnia, nivel educativo de los padres, tipo de comida,curso de preparación para el examen, porcentaje de matemáticas,porcentaje de lectura, porcentaje de escritura, sexo
 0,group B,licenciatura,estandar,nada,0.72,0.72,0.74,mujer
 1,group C,algo de universidad,estandar,completado,0.69,0.9,0.88,mujer
 2,group B,mestria,estandar,nada,0.9,0.95,0.93,mujer
