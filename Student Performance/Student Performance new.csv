@@ -1,4 +1,4 @@
-,etnia,nivel_educativo_de_los_padres,tipo_de_comida,curso_de_preparación_para_el_examen,porcentaje_de_matematicas,porcentaje_de_lectura,porcentaje_de_escritura,sexo
+etnia,nivel_educativo_de_los_padres,tipo_de_comida,curso_de_preparación_para_el_examen,porcentaje_de_matematicas,porcentaje_de_lectura,porcentaje_de_escritura,sexo
 0,group_B,licenciatura,estandar,nada,0.72,0.72,0.74,mujer
 1,group_C,algo_de_universidad,estandar,completado,0.69,0.9,0.88,mujer
 2,group_B,maestria,estandar,nada,0.9,0.95,0.93,mujer
