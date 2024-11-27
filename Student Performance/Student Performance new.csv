@@ -1,1001 +1,1001 @@
-,etnia, nivel educativo de los padres, tipo de comida,curso de preparación para el examen, porcentaje de matemáticas,porcentaje de lectura, porcentaje de escritura, sexo
-0,group B,licenciatura,estandar,nada,0.72,0.72,0.74,mujer
-1,group C,algo de universidad,estandar,completado,0.69,0.9,0.88,mujer
-2,group B,mestria,estandar,nada,0.9,0.95,0.93,mujer
-3,group A,tecnico asociado,subsidiado,nada,0.47,0.57,0.44,hombre
-4,group C,algo de universidad,estandar,nada,0.76,0.78,0.75,hombre
-5,group B,tecnico asociado,estandar,nada,0.71,0.83,0.78,mujer
-6,group B,algo de universidad,estandar,completado,0.88,0.95,0.92,mujer
-7,group B,algo de universidad,subsidiado,nada,0.4,0.43,0.39,hombre
-8,group D,preparatoria,subsidiado,completado,0.64,0.64,0.67,hombre
-9,group B,preparatoria,subsidiado,nada,0.38,0.6,0.5,mujer
-10,group C,tecnico asociado,estandar,nada,0.58,0.54,0.52,hombre
-11,group D,tecnico asociado,estandar,nada,0.4,0.52,0.43,hombre
-12,group B,preparatoria,estandar,nada,0.65,0.81,0.73,mujer
-13,group A,algo de universidad,estandar,completado,0.78,0.72,0.7,hombre
-14,group A,mestria,estandar,nada,0.5,0.53,0.58,mujer
-15,group C,some preparatoria,estandar,nada,0.69,0.75,0.78,mujer
-16,group C,preparatoria,estandar,nada,0.88,0.89,0.86,hombre
-17,group B,some preparatoria,subsidiado,nada,0.18,0.32,0.28,mujer
-18,group C,mestria,subsidiado,completado,0.46,0.42,0.46,hombre
-19,group C,tecnico asociado,subsidiado,nada,0.54,0.58,0.61,mujer
-20,group D,preparatoria,estandar,nada,0.66,0.69,0.63,hombre
-21,group B,algo de universidad,subsidiado,completado,0.65,0.75,0.7,mujer
-22,group D,algo de universidad,estandar,nada,0.44,0.54,0.53,hombre
-23,group C,some preparatoria,estandar,nada,0.69,0.73,0.73,mujer
-24,group D,licenciatura,subsidiado,completado,0.74,0.71,0.8,hombre
-25,group A,mestria,subsidiado,nada,0.73,0.74,0.72,hombre
-26,group B,algo de universidad,estandar,nada,0.69,0.54,0.55,hombre
-27,group C,licenciatura,estandar,nada,0.67,0.69,0.75,mujer
-28,group C,preparatoria,estandar,nada,0.7,0.7,0.65,hombre
-29,group D,mestria,estandar,nada,0.62,0.7,0.75,mujer
-30,group D,algo de universidad,estandar,nada,0.69,0.74,0.74,mujer
-31,group B,algo de universidad,estandar,nada,0.63,0.65,0.61,mujer
-32,group E,mestria,subsidiado,nada,0.56,0.72,0.65,mujer
-33,group D,algo de universidad,estandar,nada,0.4,0.42,0.38,hombre
-34,group E,algo de universidad,estandar,nada,0.97,0.87,0.82,hombre
-35,group E,tecnico asociado,estandar,completado,0.81,0.81,0.79,hombre
-36,group D,tecnico asociado,estandar,nada,0.74,0.81,0.83,mujer
-37,group D,some preparatoria,subsidiado,nada,0.5,0.64,0.59,mujer
-38,group D,tecnico asociado,subsidiado,completado,0.75,0.9,0.88,mujer
-39,group B,tecnico asociado,subsidiado,nada,0.57,0.56,0.57,hombre
-40,group C,tecnico asociado,subsidiado,nada,0.55,0.61,0.54,hombre
-41,group C,tecnico asociado,estandar,nada,0.58,0.73,0.68,mujer
-42,group B,tecnico asociado,estandar,nada,0.53,0.58,0.65,mujer
-43,group B,algo de universidad,subsidiado,completado,0.59,0.65,0.66,hombre
-44,group E,tecnico asociado,subsidiado,nada,0.5,0.56,0.54,mujer
-45,group B,tecnico asociado,estandar,nada,0.65,0.54,0.57,hombre
-46,group A,tecnico asociado,estandar,completado,0.55,0.65,0.62,mujer
-47,group C,preparatoria,estandar,nada,0.66,0.71,0.76,mujer
-48,group D,tecnico asociado,subsidiado,completado,0.57,0.74,0.76,mujer
-49,group C,preparatoria,estandar,completado,0.82,0.84,0.82,hombre
-50,group E,algo de universidad,estandar,nada,0.53,0.55,0.48,hombre
-51,group E,tecnico asociado,subsidiado,completado,0.77,0.69,0.68,hombre
-52,group C,algo de universidad,estandar,nada,0.53,0.44,0.42,hombre
-53,group D,preparatoria,estandar,nada,0.88,0.78,0.75,hombre
-54,group C,some preparatoria,subsidiado,completado,0.71,0.84,0.87,mujer
-55,group C,preparatoria,subsidiado,nada,0.33,0.41,0.43,mujer
-56,group E,tecnico asociado,estandar,completado,0.82,0.85,0.86,mujer
-57,group D,tecnico asociado,estandar,nada,0.52,0.55,0.49,hombre
-58,group D,algo de universidad,estandar,completado,0.58,0.59,0.58,hombre
-59,group C,some preparatoria,subsidiado,nada,0.0,0.17,0.1,mujer
-60,group E,licenciatura,subsidiado,completado,0.79,0.74,0.72,hombre
-61,group A,some preparatoria,subsidiado,nada,0.39,0.39,0.34,hombre
-62,group A,tecnico asociado,subsidiado,nada,0.62,0.61,0.55,hombre
-63,group C,tecnico asociado,estandar,nada,0.69,0.8,0.71,mujer
-64,group D,some preparatoria,estandar,nada,0.59,0.58,0.59,mujer
-65,group B,some preparatoria,estandar,nada,0.67,0.64,0.61,hombre
-66,group D,some preparatoria,subsidiado,nada,0.45,0.37,0.37,hombre
-67,group C,algo de universidad,estandar,nada,0.6,0.72,0.74,mujer
-68,group B,tecnico asociado,subsidiado,nada,0.61,0.58,0.56,hombre
-69,group C,tecnico asociado,estandar,nada,0.39,0.64,0.57,mujer
-70,group D,algo de universidad,subsidiado,completado,0.58,0.63,0.73,mujer
-71,group D,algo de universidad,estandar,completado,0.63,0.55,0.63,hombre
-72,group A,tecnico asociado,subsidiado,nada,0.41,0.51,0.48,mujer
-73,group C,some preparatoria,subsidiado,nada,0.61,0.57,0.56,hombre
-74,group C,some preparatoria,estandar,nada,0.49,0.49,0.41,hombre
-75,group B,tecnico asociado,subsidiado,nada,0.44,0.41,0.38,hombre
-76,group E,some preparatoria,estandar,nada,0.3,0.26,0.22,hombre
-77,group A,licenciatura,estandar,completado,0.8,0.78,0.81,hombre
-78,group D,some preparatoria,estandar,completado,0.61,0.74,0.72,mujer
-79,group E,mestria,estandar,nada,0.62,0.68,0.68,mujer
-80,group B,tecnico asociado,estandar,nada,0.47,0.49,0.5,mujer
-81,group B,preparatoria,subsidiado,nada,0.49,0.45,0.45,hombre
-82,group A,algo de universidad,subsidiado,completado,0.5,0.47,0.54,hombre
-83,group E,tecnico asociado,estandar,nada,0.72,0.64,0.63,hombre
-84,group D,preparatoria,subsidiado,nada,0.42,0.39,0.34,hombre
-85,group C,algo de universidad,estandar,nada,0.73,0.8,0.82,mujer
-86,group C,algo de universidad,subsidiado,nada,0.76,0.83,0.88,mujer
-87,group D,tecnico asociado,estandar,nada,0.71,0.71,0.74,mujer
-88,group A,algo de universidad,estandar,nada,0.58,0.7,0.67,mujer
-89,group D,some preparatoria,estandar,nada,0.73,0.86,0.82,mujer
-90,group C,licenciatura,estandar,nada,0.65,0.72,0.74,mujer
-91,group C,preparatoria,subsidiado,nada,0.27,0.34,0.36,hombre
-92,group C,preparatoria,estandar,nada,0.71,0.79,0.71,hombre
-93,group C,tecnico asociado,subsidiado,completado,0.43,0.45,0.5,hombre
-94,group B,algo de universidad,estandar,nada,0.79,0.86,0.92,mujer
-95,group C,tecnico asociado,subsidiado,completado,0.78,0.81,0.82,hombre
-96,group B,some preparatoria,estandar,completado,0.65,0.66,0.62,hombre
-97,group E,algo de universidad,estandar,completado,0.63,0.72,0.7,mujer
-98,group D,algo de universidad,subsidiado,nada,0.58,0.67,0.62,mujer
-99,group D,licenciatura,estandar,nada,0.65,0.67,0.62,mujer
-100,group B,algo de universidad,estandar,nada,0.79,0.67,0.67,hombre
-101,group D,licenciatura,estandar,completado,0.68,0.74,0.74,hombre
-102,group D,tecnico asociado,estandar,nada,0.85,0.91,0.89,mujer
-103,group B,preparatoria,estandar,completado,0.6,0.44,0.47,hombre
-104,group C,algo de universidad,estandar,completado,0.98,0.86,0.9,hombre
-105,group C,algo de universidad,estandar,nada,0.58,0.67,0.72,mujer
-106,group D,mestria,estandar,nada,0.87,1.0,1.0,mujer
-107,group E,tecnico asociado,estandar,completado,0.66,0.63,0.64,hombre
-108,group B,tecnico asociado,subsidiado,nada,0.52,0.76,0.7,mujer
-109,group B,some preparatoria,estandar,nada,0.7,0.64,0.72,mujer
-110,group D,tecnico asociado,subsidiado,completado,0.77,0.89,0.98,mujer
-111,group C,preparatoria,estandar,nada,0.62,0.55,0.49,hombre
-112,group A,tecnico asociado,estandar,nada,0.54,0.53,0.47,hombre
-113,group D,algo de universidad,estandar,nada,0.51,0.58,0.54,mujer
-114,group E,licenciatura,estandar,completado,0.99,1.0,1.0,mujer
-115,group C,preparatoria,estandar,nada,0.84,0.77,0.74,hombre
-116,group B,licenciatura,subsidiado,nada,0.75,0.85,0.82,mujer
-117,group D,licenciatura,estandar,nada,0.78,0.82,0.79,mujer
-118,group D,some preparatoria,estandar,nada,0.51,0.63,0.61,mujer
-119,group C,algo de universidad,estandar,nada,0.55,0.69,0.65,mujer
-120,group C,licenciatura,estandar,completado,0.79,0.92,0.89,mujer
-121,group B,tecnico asociado,estandar,completado,0.91,0.89,0.92,hombre
-122,group C,algo de universidad,estandar,completado,0.88,0.93,0.93,mujer
-123,group D,preparatoria,subsidiado,nada,0.63,0.57,0.56,hombre
-124,group E,algo de universidad,estandar,nada,0.83,0.8,0.73,hombre
-125,group B,preparatoria,estandar,nada,0.87,0.95,0.86,mujer
-126,group B,some preparatoria,estandar,nada,0.72,0.68,0.67,hombre
-127,group D,algo de universidad,estandar,completado,0.65,0.77,0.74,hombre
-128,group D,mestria,estandar,nada,0.82,0.82,0.74,hombre
-129,group A,licenciatura,estandar,nada,0.51,0.49,0.51,mujer
-130,group D,mestria,estandar,nada,0.89,0.84,0.82,hombre
-131,group C,some preparatoria,subsidiado,completado,0.53,0.37,0.4,hombre
-132,group E,algo de universidad,subsidiado,completado,0.87,0.74,0.7,hombre
-133,group C,algo de universidad,estandar,completado,0.75,0.81,0.84,mujer
-134,group D,licenciatura,subsidiado,completado,0.74,0.79,0.75,hombre
-135,group C,licenciatura,estandar,nada,0.58,0.55,0.48,hombre
-136,group B,some preparatoria,estandar,completado,0.51,0.54,0.41,hombre
-137,group E,preparatoria,estandar,nada,0.7,0.55,0.56,hombre
-138,group C,tecnico asociado,estandar,nada,0.59,0.66,0.67,mujer
-139,group D,algo de universidad,estandar,completado,0.71,0.61,0.69,hombre
-140,group D,some preparatoria,estandar,nada,0.76,0.72,0.71,mujer
-141,group C,algo de universidad,subsidiado,nada,0.59,0.62,0.64,mujer
-142,group E,algo de universidad,subsidiado,completado,0.42,0.55,0.54,mujer
-143,group A,preparatoria,estandar,nada,0.57,0.43,0.47,hombre
-144,group D,algo de universidad,estandar,nada,0.88,0.73,0.78,hombre
-145,group C,algo de universidad,subsidiado,nada,0.22,0.39,0.33,mujer
-146,group B,some preparatoria,estandar,nada,0.88,0.84,0.75,hombre
-147,group C,tecnico asociado,subsidiado,nada,0.73,0.68,0.66,hombre
-148,group D,licenciatura,estandar,completado,0.68,0.75,0.81,mujer
-149,group E,tecnico asociado,subsidiado,completado,1.0,1.0,0.93,hombre
-150,group A,some preparatoria,estandar,completado,0.62,0.67,0.69,hombre
-151,group A,licenciatura,estandar,nada,0.77,0.67,0.68,hombre
-152,group B,tecnico asociado,estandar,completado,0.59,0.7,0.66,mujer
-153,group D,licenciatura,estandar,nada,0.54,0.49,0.47,hombre
-154,group D,some preparatoria,estandar,nada,0.62,0.67,0.61,hombre
-155,group C,algo de universidad,estandar,completado,0.7,0.89,0.88,mujer
-156,group E,preparatoria,subsidiado,completado,0.66,0.74,0.78,mujer
-157,group B,algo de universidad,subsidiado,nada,0.6,0.6,0.6,hombre
-158,group B,tecnico asociado,estandar,completado,0.61,0.86,0.87,mujer
-159,group D,tecnico asociado,subsidiado,nada,0.66,0.62,0.64,hombre
-160,group B,tecnico asociado,subsidiado,completado,0.82,0.78,0.74,hombre
-161,group E,algo de universidad,subsidiado,completado,0.75,0.88,0.85,mujer
-162,group B,mestria,subsidiado,nada,0.49,0.53,0.52,hombre
-163,group C,preparatoria,estandar,nada,0.52,0.53,0.49,hombre
-164,group E,mestria,estandar,nada,0.81,0.92,0.91,mujer
-165,group C,licenciatura,estandar,completado,0.96,1.0,1.0,mujer
-166,group C,preparatoria,subsidiado,completado,0.53,0.51,0.51,hombre
-167,group B,mestria,subsidiado,completado,0.58,0.76,0.78,mujer
-168,group B,preparatoria,estandar,completado,0.68,0.83,0.78,mujer
-169,group C,algo de universidad,subsidiado,completado,0.67,0.75,0.7,mujer
-170,group A,preparatoria,estandar,completado,0.72,0.73,0.74,hombre
-171,group E,some preparatoria,estandar,nada,0.94,0.88,0.78,hombre
-172,group D,algo de universidad,estandar,nada,0.79,0.86,0.81,mujer
-173,group C,tecnico asociado,estandar,nada,0.63,0.67,0.7,mujer
-174,group C,licenciatura,subsidiado,completado,0.43,0.51,0.54,mujer
-175,group C,mestria,estandar,completado,0.81,0.91,0.87,mujer
-176,group B,preparatoria,subsidiado,completado,0.46,0.54,0.58,mujer
-177,group C,tecnico asociado,estandar,completado,0.71,0.77,0.77,mujer
-178,group B,mestria,subsidiado,completado,0.52,0.7,0.62,mujer
-179,group D,some preparatoria,estandar,completado,0.97,1.0,1.0,mujer
-180,group C,mestria,subsidiado,completado,0.62,0.68,0.75,hombre
-181,group C,algo de universidad,subsidiado,nada,0.46,0.64,0.66,mujer
-182,group E,preparatoria,estandar,nada,0.5,0.5,0.47,mujer
-183,group D,tecnico asociado,estandar,nada,0.65,0.69,0.7,mujer
-184,group C,some preparatoria,subsidiado,completado,0.45,0.52,0.49,hombre
-185,group C,tecnico asociado,subsidiado,completado,0.65,0.67,0.65,hombre
-186,group E,preparatoria,estandar,nada,0.8,0.76,0.65,hombre
-187,group D,some preparatoria,estandar,completado,0.62,0.66,0.68,hombre
-188,group B,some preparatoria,subsidiado,nada,0.48,0.52,0.45,hombre
-189,group C,licenciatura,estandar,nada,0.77,0.88,0.87,mujer
-190,group E,tecnico asociado,estandar,nada,0.66,0.65,0.69,mujer
-191,group D,algo de universidad,estandar,completado,0.76,0.83,0.79,hombre
-192,group B,some preparatoria,estandar,nada,0.62,0.64,0.66,mujer
-193,group D,algo de universidad,estandar,completado,0.77,0.62,0.62,hombre
-194,group C,mestria,estandar,completado,0.69,0.84,0.85,mujer
-195,group D,tecnico asociado,estandar,nada,0.61,0.55,0.52,hombre
-196,group C,some preparatoria,subsidiado,completado,0.59,0.69,0.65,hombre
-197,group E,preparatoria,subsidiado,nada,0.55,0.56,0.51,hombre
-198,group B,algo de universidad,subsidiado,nada,0.45,0.53,0.55,mujer
-199,group B,licenciatura,subsidiado,nada,0.78,0.79,0.76,mujer
-200,group C,tecnico asociado,estandar,completado,0.67,0.84,0.86,mujer
-201,group D,algo de universidad,subsidiado,nada,0.65,0.81,0.77,mujer
-202,group C,tecnico asociado,estandar,nada,0.69,0.77,0.69,hombre
-203,group B,tecnico asociado,estandar,nada,0.57,0.69,0.68,mujer
-204,group C,algo de universidad,estandar,nada,0.59,0.41,0.42,hombre
-205,group D,some preparatoria,estandar,completado,0.74,0.71,0.78,hombre
-206,group E,licenciatura,estandar,nada,0.82,0.62,0.62,hombre
-207,group E,preparatoria,estandar,completado,0.81,0.8,0.76,hombre
-208,group B,algo de universidad,subsidiado,nada,0.74,0.81,0.76,mujer
-209,group B,algo de universidad,subsidiado,nada,0.58,0.61,0.66,mujer
-210,group D,some preparatoria,subsidiado,completado,0.8,0.79,0.79,hombre
-211,group C,algo de universidad,subsidiado,nada,0.35,0.28,0.27,hombre
-212,group C,preparatoria,subsidiado,nada,0.42,0.62,0.6,mujer
-213,group C,tecnico asociado,subsidiado,completado,0.6,0.51,0.56,hombre
-214,group E,preparatoria,estandar,completado,0.87,0.91,0.81,hombre
-215,group B,some preparatoria,estandar,completado,0.84,0.83,0.75,hombre
-216,group E,tecnico asociado,subsidiado,completado,0.83,0.86,0.88,mujer
-217,group C,preparatoria,subsidiado,nada,0.34,0.42,0.39,mujer
-218,group B,preparatoria,subsidiado,nada,0.66,0.77,0.7,hombre
-219,group B,some preparatoria,estandar,completado,0.61,0.56,0.56,hombre
-220,group D,preparatoria,estandar,completado,0.56,0.68,0.74,mujer
-221,group B,tecnico asociado,estandar,nada,0.87,0.85,0.73,hombre
-222,group C,some preparatoria,subsidiado,nada,0.55,0.65,0.62,mujer
-223,group D,some preparatoria,estandar,nada,0.86,0.8,0.75,hombre
-224,group B,tecnico asociado,estandar,completado,0.52,0.66,0.73,mujer
-225,group E,mestria,subsidiado,nada,0.45,0.56,0.54,mujer
-226,group C,algo de universidad,estandar,nada,0.72,0.72,0.71,mujer
-227,group D,preparatoria,estandar,nada,0.57,0.5,0.54,hombre
-228,group A,some preparatoria,subsidiado,nada,0.68,0.72,0.64,hombre
-229,group C,algo de universidad,estandar,completado,0.88,0.95,0.94,mujer
-230,group D,algo de universidad,estandar,nada,0.76,0.64,0.66,hombre
-231,group C,tecnico asociado,estandar,nada,0.46,0.43,0.42,hombre
-232,group B,licenciatura,estandar,nada,0.67,0.86,0.83,mujer
-233,group E,some preparatoria,estandar,nada,0.92,0.87,0.78,hombre
-234,group C,licenciatura,estandar,completado,0.83,0.82,0.84,hombre
-235,group D,tecnico asociado,estandar,nada,0.8,0.75,0.77,hombre
-236,group D,licenciatura,subsidiado,nada,0.63,0.66,0.67,hombre
-237,group D,some preparatoria,estandar,completado,0.64,0.6,0.74,mujer
-238,group B,algo de universidad,estandar,nada,0.54,0.52,0.51,hombre
-239,group C,tecnico asociado,estandar,nada,0.84,0.8,0.8,hombre
-240,group D,preparatoria,subsidiado,completado,0.73,0.68,0.66,hombre
-241,group E,licenciatura,estandar,nada,0.8,0.83,0.83,mujer
-242,group D,preparatoria,estandar,nada,0.56,0.52,0.55,mujer
-243,group E,algo de universidad,estandar,nada,0.59,0.51,0.43,hombre
-244,group D,some preparatoria,estandar,nada,0.75,0.74,0.69,hombre
-245,group C,tecnico asociado,estandar,nada,0.85,0.76,0.71,hombre
-246,group E,tecnico asociado,estandar,nada,0.89,0.76,0.74,hombre
-247,group B,preparatoria,estandar,completado,0.58,0.7,0.68,mujer
-248,group B,preparatoria,estandar,nada,0.65,0.64,0.62,mujer
-249,group C,preparatoria,estandar,nada,0.68,0.6,0.53,hombre
-250,group A,some preparatoria,estandar,completado,0.47,0.49,0.49,hombre
-251,group D,algo de universidad,subsidiado,nada,0.71,0.83,0.83,mujer
-252,group B,some preparatoria,estandar,completado,0.6,0.7,0.7,mujer
-253,group D,mestria,estandar,nada,0.8,0.8,0.72,hombre
-254,group D,preparatoria,estandar,nada,0.54,0.52,0.52,hombre
-255,group E,algo de universidad,estandar,nada,0.62,0.73,0.7,mujer
-256,group C,tecnico asociado,subsidiado,nada,0.64,0.73,0.68,mujer
-257,group C,tecnico asociado,estandar,completado,0.78,0.77,0.77,hombre
-258,group B,algo de universidad,estandar,nada,0.7,0.75,0.78,mujer
-259,group C,mestria,subsidiado,completado,0.65,0.81,0.81,mujer
-260,group C,some preparatoria,subsidiado,completado,0.64,0.79,0.77,mujer
-261,group C,algo de universidad,estandar,completado,0.79,0.79,0.78,hombre
-262,group C,some preparatoria,subsidiado,nada,0.44,0.5,0.51,mujer
-263,group E,preparatoria,estandar,nada,0.99,0.93,0.9,mujer
-264,group D,preparatoria,estandar,nada,0.76,0.73,0.68,hombre
-265,group D,some preparatoria,subsidiado,nada,0.59,0.42,0.41,hombre
-266,group C,licenciatura,estandar,nada,0.63,0.75,0.81,mujer
-267,group D,preparatoria,estandar,nada,0.69,0.72,0.77,mujer
-268,group D,tecnico asociado,estandar,completado,0.88,0.92,0.95,mujer
-269,group E,algo de universidad,subsidiado,nada,0.71,0.76,0.7,mujer
-270,group C,licenciatura,estandar,nada,0.69,0.63,0.61,hombre
-271,group C,algo de universidad,estandar,nada,0.58,0.49,0.42,hombre
-272,group D,tecnico asociado,subsidiado,nada,0.47,0.53,0.58,mujer
-273,group D,algo de universidad,estandar,nada,0.65,0.7,0.71,mujer
-274,group B,algo de universidad,estandar,completado,0.88,0.85,0.76,hombre
-275,group C,licenciatura,estandar,nada,0.83,0.78,0.73,hombre
-276,group C,some preparatoria,estandar,completado,0.85,0.92,0.93,mujer
-277,group E,preparatoria,estandar,completado,0.59,0.63,0.75,mujer
-278,group C,some preparatoria,subsidiado,nada,0.65,0.86,0.8,mujer
-279,group B,licenciatura,subsidiado,nada,0.73,0.56,0.57,hombre
-280,group D,preparatoria,estandar,nada,0.53,0.52,0.42,hombre
-281,group D,preparatoria,estandar,nada,0.45,0.48,0.46,hombre
-282,group D,licenciatura,subsidiado,nada,0.73,0.79,0.84,mujer
-283,group D,algo de universidad,subsidiado,completado,0.7,0.78,0.78,mujer
-284,group B,some preparatoria,estandar,nada,0.37,0.46,0.46,mujer
-285,group B,tecnico asociado,estandar,completado,0.81,0.82,0.82,hombre
-286,group E,tecnico asociado,estandar,completado,0.97,0.82,0.88,hombre
-287,group B,some preparatoria,estandar,nada,0.67,0.89,0.82,mujer
-288,group B,licenciatura,subsidiado,nada,0.88,0.75,0.76,hombre
-289,group E,some preparatoria,estandar,completado,0.77,0.76,0.77,hombre
-290,group C,tecnico asociado,estandar,nada,0.76,0.7,0.68,hombre
-291,group D,some preparatoria,estandar,nada,0.86,0.73,0.7,hombre
-292,group C,some preparatoria,estandar,completado,0.63,0.6,0.57,hombre
-293,group E,licenciatura,estandar,nada,0.65,0.73,0.75,mujer
-294,group D,preparatoria,subsidiado,completado,0.78,0.77,0.8,hombre
-295,group B,tecnico asociado,subsidiado,nada,0.67,0.62,0.6,hombre
-296,group A,some preparatoria,estandar,completado,0.46,0.41,0.43,hombre
-297,group E,tecnico asociado,estandar,completado,0.71,0.74,0.68,hombre
-298,group C,preparatoria,subsidiado,completado,0.4,0.46,0.5,hombre
-299,group D,tecnico asociado,subsidiado,nada,0.9,0.87,0.75,hombre
-300,group A,algo de universidad,subsidiado,completado,0.81,0.78,0.81,hombre
-301,group D,some preparatoria,subsidiado,nada,0.56,0.54,0.52,hombre
-302,group C,tecnico asociado,estandar,completado,0.67,0.84,0.81,mujer
-303,group B,tecnico asociado,estandar,nada,0.8,0.76,0.64,hombre
-304,group C,tecnico asociado,estandar,completado,0.74,0.75,0.83,mujer
-305,group A,algo de universidad,estandar,nada,0.69,0.67,0.69,hombre
-306,group E,algo de universidad,estandar,completado,0.99,0.87,0.81,hombre
-307,group C,some preparatoria,estandar,nada,0.51,0.52,0.44,hombre
-308,group B,tecnico asociado,subsidiado,nada,0.53,0.71,0.67,mujer
-309,group D,preparatoria,subsidiado,nada,0.49,0.57,0.52,mujer
-310,group B,tecnico asociado,estandar,nada,0.73,0.76,0.8,mujer
-311,group B,licenciatura,estandar,nada,0.66,0.6,0.57,hombre
-312,group D,licenciatura,estandar,completado,0.67,0.61,0.68,hombre
-313,group C,tecnico asociado,subsidiado,completado,0.68,0.67,0.69,mujer
-314,group C,licenciatura,estandar,completado,0.59,0.64,0.75,mujer
-315,group C,preparatoria,estandar,nada,0.71,0.66,0.65,hombre
-316,group D,mestria,estandar,completado,0.77,0.82,0.91,mujer
-317,group C,tecnico asociado,estandar,nada,0.83,0.72,0.78,hombre
-318,group B,licenciatura,estandar,nada,0.63,0.71,0.69,hombre
-319,group D,tecnico asociado,subsidiado,nada,0.56,0.65,0.63,mujer
-320,group C,preparatoria,subsidiado,completado,0.67,0.79,0.84,mujer
-321,group E,preparatoria,estandar,nada,0.75,0.86,0.79,mujer
-322,group C,algo de universidad,estandar,nada,0.71,0.81,0.8,mujer
-323,group C,some preparatoria,subsidiado,nada,0.43,0.53,0.53,mujer
-324,group C,preparatoria,subsidiado,nada,0.41,0.46,0.43,mujer
-325,group C,algo de universidad,estandar,nada,0.82,0.9,0.94,mujer
-326,group C,algo de universidad,estandar,nada,0.61,0.61,0.62,hombre
-327,group A,algo de universidad,subsidiado,nada,0.28,0.23,0.19,hombre
-328,group C,tecnico asociado,estandar,completado,0.82,0.75,0.77,hombre
-329,group B,some preparatoria,estandar,nada,0.41,0.55,0.51,mujer
-330,group C,preparatoria,estandar,nada,0.71,0.6,0.61,hombre
-331,group C,tecnico asociado,estandar,nada,0.47,0.37,0.35,hombre
-332,group E,tecnico asociado,estandar,completado,0.62,0.56,0.53,hombre
-333,group B,tecnico asociado,estandar,nada,0.9,0.78,0.81,hombre
-334,group C,licenciatura,estandar,nada,0.83,0.93,0.95,mujer
-335,group B,algo de universidad,subsidiado,nada,0.61,0.68,0.66,mujer
-336,group D,some preparatoria,estandar,completado,0.76,0.7,0.69,hombre
-337,group C,tecnico asociado,estandar,nada,0.49,0.51,0.43,hombre
-338,group B,some preparatoria,subsidiado,nada,0.24,0.38,0.27,mujer
-339,group D,some preparatoria,subsidiado,completado,0.35,0.55,0.6,mujer
-340,group C,preparatoria,subsidiado,nada,0.58,0.61,0.52,hombre
-341,group C,preparatoria,estandar,nada,0.61,0.73,0.63,mujer
-342,group B,preparatoria,estandar,completado,0.69,0.76,0.74,mujer
-343,group D,tecnico asociado,estandar,completado,0.67,0.72,0.67,hombre
-344,group D,algo de universidad,estandar,nada,0.79,0.73,0.67,hombre
-345,group C,preparatoria,estandar,nada,0.72,0.8,0.75,mujer
-346,group B,algo de universidad,estandar,nada,0.62,0.61,0.57,hombre
-347,group C,licenciatura,estandar,completado,0.77,0.94,0.95,mujer
-348,group D,preparatoria,subsidiado,nada,0.75,0.74,0.66,hombre
-349,group E,tecnico asociado,estandar,nada,0.87,0.74,0.76,hombre
-350,group B,licenciatura,estandar,nada,0.52,0.65,0.69,mujer
-351,group E,algo de universidad,estandar,nada,0.66,0.57,0.52,hombre
-352,group C,algo de universidad,estandar,completado,0.63,0.78,0.8,mujer
-353,group C,tecnico asociado,estandar,nada,0.46,0.58,0.57,mujer
-354,group C,algo de universidad,estandar,nada,0.59,0.71,0.7,mujer
-355,group B,licenciatura,estandar,nada,0.61,0.72,0.7,mujer
-356,group A,tecnico asociado,estandar,nada,0.63,0.61,0.61,hombre
-357,group C,algo de universidad,subsidiado,completado,0.42,0.66,0.69,mujer
-358,group D,algo de universidad,subsidiado,nada,0.59,0.62,0.61,hombre
-359,group D,algo de universidad,estandar,nada,0.8,0.9,0.89,mujer
-360,group B,preparatoria,estandar,nada,0.58,0.62,0.59,mujer
-361,group B,some preparatoria,estandar,completado,0.85,0.84,0.78,hombre
-362,group C,algo de universidad,estandar,nada,0.52,0.58,0.58,mujer
-363,group D,some preparatoria,subsidiado,nada,0.27,0.34,0.32,mujer
-364,group C,algo de universidad,estandar,nada,0.59,0.6,0.58,hombre
-365,group A,licenciatura,subsidiado,completado,0.49,0.58,0.6,hombre
-366,group C,preparatoria,estandar,completado,0.69,0.58,0.53,hombre
-367,group C,licenciatura,subsidiado,nada,0.61,0.66,0.61,hombre
-368,group A,some preparatoria,subsidiado,nada,0.44,0.64,0.58,mujer
-369,group D,some preparatoria,estandar,nada,0.73,0.84,0.85,mujer
-370,group E,algo de universidad,estandar,nada,0.84,0.77,0.71,hombre
-371,group C,algo de universidad,subsidiado,completado,0.45,0.73,0.7,mujer
-372,group D,some preparatoria,estandar,nada,0.74,0.74,0.72,hombre
-373,group D,algo de universidad,estandar,completado,0.82,0.97,0.96,mujer
-374,group D,licenciatura,estandar,nada,0.59,0.7,0.73,mujer
-375,group E,tecnico asociado,subsidiado,nada,0.46,0.43,0.41,hombre
-376,group D,some preparatoria,estandar,nada,0.8,0.9,0.82,mujer
-377,group D,mestria,subsidiado,completado,0.85,0.95,1.0,mujer
-378,group A,some preparatoria,estandar,nada,0.71,0.83,0.77,mujer
-379,group A,licenciatura,estandar,nada,0.66,0.64,0.62,hombre
-380,group B,tecnico asociado,estandar,nada,0.8,0.86,0.83,mujer
-381,group C,tecnico asociado,estandar,completado,0.87,1.0,0.95,hombre
-382,group C,mestria,subsidiado,nada,0.79,0.81,0.71,hombre
-383,group E,some preparatoria,subsidiado,nada,0.38,0.49,0.45,mujer
-384,group A,some preparatoria,subsidiado,nada,0.38,0.43,0.43,mujer
-385,group E,algo de universidad,estandar,nada,0.67,0.76,0.75,mujer
-386,group E,licenciatura,estandar,nada,0.64,0.73,0.7,mujer
-387,group C,tecnico asociado,subsidiado,nada,0.57,0.78,0.67,mujer
-388,group D,preparatoria,estandar,nada,0.62,0.64,0.64,mujer
-389,group D,mestria,estandar,nada,0.73,0.7,0.75,hombre
-390,group E,some preparatoria,subsidiado,completado,0.73,0.67,0.59,hombre
-391,group D,algo de universidad,estandar,nada,0.77,0.68,0.77,mujer
-392,group E,algo de universidad,estandar,nada,0.76,0.67,0.67,hombre
-393,group C,tecnico asociado,estandar,completado,0.57,0.54,0.56,hombre
-394,group C,some preparatoria,estandar,completado,0.65,0.74,0.77,mujer
-395,group A,preparatoria,subsidiado,nada,0.48,0.45,0.41,hombre
-396,group B,preparatoria,subsidiado,nada,0.5,0.67,0.63,mujer
-397,group C,tecnico asociado,estandar,nada,0.85,0.89,0.95,mujer
-398,group B,some preparatoria,estandar,nada,0.74,0.63,0.57,hombre
-399,group D,some preparatoria,estandar,nada,0.6,0.59,0.54,hombre
-400,group C,some preparatoria,estandar,completado,0.59,0.54,0.67,mujer
-401,group A,algo de universidad,estandar,nada,0.53,0.43,0.43,hombre
-402,group A,algo de universidad,subsidiado,nada,0.49,0.65,0.55,mujer
-403,group D,preparatoria,estandar,completado,0.88,0.99,1.0,mujer
-404,group C,preparatoria,estandar,nada,0.54,0.59,0.62,mujer
-405,group C,some preparatoria,estandar,nada,0.63,0.73,0.68,mujer
-406,group B,tecnico asociado,estandar,completado,0.65,0.65,0.63,hombre
-407,group B,tecnico asociado,estandar,nada,0.82,0.8,0.77,mujer
-408,group D,preparatoria,subsidiado,completado,0.52,0.57,0.56,mujer
-409,group D,tecnico asociado,estandar,completado,0.87,0.84,0.85,hombre
-410,group D,mestria,estandar,completado,0.7,0.71,0.74,mujer
-411,group E,algo de universidad,estandar,completado,0.84,0.83,0.78,hombre
-412,group D,tecnico asociado,estandar,nada,0.71,0.66,0.6,hombre
-413,group B,some preparatoria,estandar,completado,0.63,0.67,0.67,hombre
-414,group C,licenciatura,subsidiado,completado,0.51,0.72,0.79,mujer
-415,group E,preparatoria,estandar,nada,0.84,0.73,0.69,hombre
-416,group C,licenciatura,estandar,completado,0.71,0.74,0.68,hombre
-417,group C,tecnico asociado,estandar,nada,0.74,0.73,0.67,hombre
-418,group D,algo de universidad,estandar,nada,0.68,0.59,0.62,hombre
-419,group E,preparatoria,subsidiado,completado,0.57,0.56,0.54,hombre
-420,group C,tecnico asociado,subsidiado,completado,0.82,0.93,0.93,mujer
-421,group D,preparatoria,estandar,completado,0.57,0.58,0.64,mujer
-422,group D,mestria,subsidiado,completado,0.47,0.58,0.67,mujer
-423,group A,some preparatoria,estandar,completado,0.59,0.85,0.8,mujer
-424,group B,algo de universidad,subsidiado,nada,0.41,0.39,0.34,hombre
-425,group C,algo de universidad,subsidiado,nada,0.62,0.67,0.62,mujer
-426,group C,licenciatura,estandar,nada,0.86,0.83,0.86,hombre
-427,group C,some preparatoria,subsidiado,nada,0.69,0.71,0.65,hombre
-428,group A,some preparatoria,subsidiado,nada,0.65,0.59,0.53,hombre
-429,group C,some preparatoria,subsidiado,nada,0.68,0.63,0.54,hombre
-430,group C,tecnico asociado,subsidiado,nada,0.64,0.66,0.59,hombre
-431,group C,preparatoria,estandar,nada,0.61,0.72,0.7,mujer
-432,group C,preparatoria,estandar,nada,0.61,0.56,0.55,hombre
-433,group A,some preparatoria,subsidiado,nada,0.47,0.59,0.5,mujer
-434,group C,some preparatoria,estandar,nada,0.73,0.66,0.66,hombre
-435,group C,algo de universidad,subsidiado,completado,0.5,0.48,0.53,hombre
-436,group D,tecnico asociado,estandar,nada,0.75,0.68,0.64,hombre
-437,group D,tecnico asociado,subsidiado,nada,0.75,0.66,0.73,hombre
-438,group C,preparatoria,estandar,nada,0.7,0.56,0.51,hombre
-439,group D,some preparatoria,estandar,completado,0.89,0.88,0.82,hombre
-440,group C,algo de universidad,estandar,completado,0.67,0.81,0.79,mujer
-441,group D,preparatoria,estandar,nada,0.78,0.81,0.8,mujer
-442,group A,some preparatoria,subsidiado,nada,0.59,0.73,0.69,mujer
-443,group B,tecnico asociado,estandar,nada,0.73,0.83,0.76,mujer
-444,group A,some preparatoria,subsidiado,nada,0.79,0.82,0.73,hombre
-445,group C,some preparatoria,estandar,completado,0.67,0.74,0.77,mujer
-446,group D,algo de universidad,subsidiado,nada,0.69,0.66,0.6,hombre
-447,group C,preparatoria,estandar,completado,0.86,0.81,0.8,hombre
-448,group B,preparatoria,estandar,nada,0.47,0.46,0.42,hombre
-449,group B,tecnico asociado,estandar,nada,0.81,0.73,0.72,hombre
-450,group C,algo de universidad,subsidiado,completado,0.64,0.85,0.85,mujer
-451,group E,algo de universidad,estandar,nada,1.0,0.92,0.97,mujer
-452,group C,tecnico asociado,subsidiado,nada,0.65,0.77,0.74,mujer
-453,group C,algo de universidad,subsidiado,nada,0.65,0.58,0.49,hombre
-454,group C,tecnico asociado,subsidiado,nada,0.53,0.61,0.62,mujer
-455,group C,licenciatura,subsidiado,nada,0.37,0.56,0.47,hombre
-456,group D,licenciatura,estandar,nada,0.79,0.89,0.89,mujer
-457,group D,tecnico asociado,subsidiado,nada,0.53,0.54,0.48,hombre
-458,group E,licenciatura,estandar,nada,1.0,1.0,1.0,mujer
-459,group B,preparatoria,estandar,completado,0.72,0.65,0.68,hombre
-460,group C,licenciatura,subsidiado,nada,0.53,0.58,0.55,hombre
-461,group B,algo de universidad,subsidiado,nada,0.54,0.54,0.45,hombre
-462,group E,algo de universidad,estandar,nada,0.71,0.7,0.76,mujer
-463,group C,algo de universidad,subsidiado,nada,0.77,0.9,0.91,mujer
-464,group A,licenciatura,estandar,completado,0.75,0.58,0.62,hombre
-465,group C,algo de universidad,estandar,nada,0.84,0.87,0.91,mujer
-466,group D,tecnico asociado,subsidiado,nada,0.26,0.31,0.38,mujer
-467,group A,preparatoria,subsidiado,completado,0.72,0.67,0.65,hombre
-468,group A,preparatoria,subsidiado,completado,0.77,0.88,0.85,mujer
-469,group C,algo de universidad,estandar,nada,0.91,0.74,0.76,hombre
-470,group C,tecnico asociado,estandar,completado,0.83,0.85,0.9,mujer
-471,group C,preparatoria,estandar,nada,0.63,0.69,0.74,mujer
-472,group C,tecnico asociado,estandar,completado,0.68,0.86,0.84,mujer
-473,group D,some preparatoria,estandar,nada,0.59,0.67,0.61,mujer
-474,group B,tecnico asociado,estandar,completado,0.9,0.9,0.91,mujer
-475,group D,licenciatura,estandar,completado,0.71,0.76,0.83,mujer
-476,group E,licenciatura,estandar,completado,0.76,0.62,0.66,hombre
-477,group D,tecnico asociado,estandar,nada,0.8,0.68,0.72,hombre
-478,group D,mestria,estandar,nada,0.55,0.64,0.7,mujer
-479,group E,tecnico asociado,estandar,nada,0.76,0.71,0.67,hombre
-480,group B,preparatoria,estandar,completado,0.73,0.71,0.68,hombre
-481,group D,tecnico asociado,subsidiado,nada,0.52,0.59,0.56,mujer
-482,group C,algo de universidad,subsidiado,nada,0.68,0.68,0.61,hombre
-483,group A,preparatoria,estandar,nada,0.59,0.52,0.46,hombre
-484,group B,tecnico asociado,estandar,nada,0.49,0.52,0.54,mujer
-485,group C,preparatoria,estandar,nada,0.7,0.74,0.71,hombre
-486,group D,algo de universidad,subsidiado,nada,0.61,0.47,0.56,hombre
-487,group C,tecnico asociado,subsidiado,nada,0.6,0.75,0.74,mujer
-488,group B,some preparatoria,estandar,completado,0.64,0.53,0.57,hombre
-489,group A,tecnico asociado,subsidiado,completado,0.79,0.82,0.82,hombre
-490,group A,tecnico asociado,subsidiado,nada,0.65,0.85,0.76,mujer
-491,group C,tecnico asociado,estandar,nada,0.64,0.64,0.7,mujer
-492,group C,algo de universidad,estandar,nada,0.83,0.83,0.9,mujer
-493,group C,licenciatura,estandar,nada,0.81,0.88,0.9,mujer
-494,group B,preparatoria,estandar,nada,0.54,0.64,0.68,mujer
-495,group D,preparatoria,estandar,completado,0.68,0.64,0.66,hombre
-496,group C,algo de universidad,estandar,nada,0.54,0.48,0.52,mujer
-497,group D,algo de universidad,subsidiado,completado,0.59,0.78,0.76,mujer
-498,group B,some preparatoria,estandar,nada,0.66,0.69,0.68,mujer
-499,group E,algo de universidad,estandar,nada,0.76,0.71,0.72,hombre
-500,group D,mestria,estandar,nada,0.74,0.79,0.82,mujer
-501,group B,tecnico asociado,estandar,completado,0.94,0.87,0.92,mujer
-502,group C,algo de universidad,subsidiado,nada,0.63,0.61,0.54,hombre
-503,group E,tecnico asociado,estandar,completado,0.95,0.89,0.92,mujer
-504,group D,mestria,subsidiado,nada,0.4,0.59,0.54,mujer
-505,group B,some preparatoria,estandar,nada,0.82,0.82,0.8,mujer
-506,group A,preparatoria,estandar,nada,0.68,0.7,0.66,hombre
-507,group B,licenciatura,subsidiado,nada,0.55,0.59,0.54,hombre
-508,group C,mestria,estandar,nada,0.79,0.78,0.77,hombre
-509,group C,licenciatura,estandar,nada,0.86,0.92,0.87,mujer
-510,group D,algo de universidad,estandar,nada,0.76,0.71,0.73,hombre
-511,group A,some preparatoria,estandar,nada,0.64,0.5,0.43,hombre
-512,group D,some preparatoria,subsidiado,nada,0.62,0.49,0.52,hombre
-513,group B,some preparatoria,estandar,completado,0.54,0.61,0.62,mujer
-514,group B,mestria,subsidiado,completado,0.77,0.97,0.94,mujer
-515,group C,some preparatoria,estandar,completado,0.76,0.87,0.85,mujer
-516,group D,algo de universidad,estandar,nada,0.74,0.89,0.84,mujer
-517,group E,algo de universidad,estandar,completado,0.66,0.74,0.73,mujer
-518,group D,some preparatoria,estandar,completado,0.66,0.78,0.78,mujer
-519,group B,preparatoria,subsidiado,completado,0.67,0.78,0.79,mujer
-520,group D,algo de universidad,estandar,nada,0.71,0.49,0.52,hombre
-521,group C,tecnico asociado,estandar,nada,0.91,0.86,0.84,mujer
-522,group D,licenciatura,estandar,nada,0.69,0.58,0.57,hombre
-523,group C,mestria,subsidiado,nada,0.54,0.59,0.5,hombre
-524,group C,preparatoria,estandar,completado,0.53,0.52,0.49,hombre
-525,group E,algo de universidad,estandar,nada,0.68,0.6,0.59,hombre
-526,group C,some preparatoria,subsidiado,completado,0.56,0.61,0.6,hombre
-527,group C,preparatoria,subsidiado,nada,0.36,0.53,0.43,mujer
-528,group D,licenciatura,subsidiado,nada,0.29,0.41,0.47,mujer
-529,group C,tecnico asociado,estandar,nada,0.62,0.74,0.7,mujer
-530,group C,tecnico asociado,estandar,completado,0.68,0.67,0.73,mujer
-531,group C,some preparatoria,estandar,nada,0.47,0.54,0.53,mujer
-532,group E,tecnico asociado,estandar,completado,0.62,0.61,0.58,hombre
-533,group E,tecnico asociado,estandar,completado,0.79,0.88,0.94,mujer
-534,group B,preparatoria,estandar,completado,0.73,0.69,0.68,hombre
-535,group C,licenciatura,subsidiado,completado,0.66,0.83,0.83,mujer
-536,group C,tecnico asociado,estandar,completado,0.51,0.6,0.58,hombre
-537,group D,preparatoria,estandar,nada,0.51,0.66,0.62,mujer
-538,group E,licenciatura,estandar,completado,0.85,0.66,0.71,hombre
-539,group A,tecnico asociado,estandar,completado,0.97,0.92,0.86,hombre
-540,group C,preparatoria,estandar,completado,0.75,0.69,0.68,hombre
-541,group D,tecnico asociado,subsidiado,completado,0.79,0.82,0.8,hombre
-542,group C,tecnico asociado,estandar,nada,0.81,0.77,0.79,mujer
-543,group D,tecnico asociado,estandar,nada,0.82,0.95,0.89,mujer
-544,group D,mestria,estandar,nada,0.64,0.63,0.66,mujer
-545,group E,some preparatoria,subsidiado,completado,0.78,0.83,0.8,hombre
-546,group A,some preparatoria,estandar,completado,0.92,1.0,0.97,mujer
-547,group C,preparatoria,estandar,completado,0.72,0.67,0.64,hombre
-548,group C,preparatoria,subsidiado,nada,0.62,0.67,0.64,mujer
-549,group C,mestria,estandar,nada,0.79,0.72,0.69,hombre
-550,group C,some preparatoria,subsidiado,nada,0.79,0.76,0.65,hombre
-551,group B,licenciatura,subsidiado,completado,0.87,0.9,0.88,hombre
-552,group B,tecnico asociado,estandar,nada,0.4,0.48,0.5,mujer
-553,group D,algo de universidad,subsidiado,nada,0.77,0.62,0.64,hombre
-554,group E,tecnico asociado,estandar,nada,0.53,0.45,0.4,hombre
-555,group C,algo de universidad,subsidiado,nada,0.32,0.39,0.33,mujer
-556,group C,tecnico asociado,estandar,completado,0.55,0.72,0.79,mujer
-557,group C,mestria,subsidiado,nada,0.61,0.67,0.66,hombre
-558,group B,tecnico asociado,subsidiado,nada,0.53,0.7,0.7,mujer
-559,group D,some preparatoria,estandar,nada,0.73,0.66,0.62,hombre
-560,group D,algo de universidad,estandar,completado,0.74,0.75,0.79,mujer
-561,group C,algo de universidad,estandar,nada,0.63,0.74,0.74,mujer
-562,group C,licenciatura,estandar,completado,0.96,0.9,0.92,hombre
-563,group D,algo de universidad,subsidiado,completado,0.63,0.8,0.8,mujer
-564,group B,licenciatura,subsidiado,nada,0.48,0.51,0.46,hombre
-565,group B,tecnico asociado,estandar,nada,0.48,0.43,0.45,hombre
-566,group E,licenciatura,subsidiado,completado,0.92,1.0,1.0,mujer
-567,group D,mestria,subsidiado,completado,0.61,0.71,0.78,mujer
-568,group B,preparatoria,subsidiado,nada,0.63,0.48,0.47,hombre
-569,group D,licenciatura,subsidiado,nada,0.68,0.68,0.67,hombre
-570,group B,algo de universidad,estandar,completado,0.71,0.75,0.7,hombre
-571,group A,licenciatura,estandar,nada,0.91,0.96,0.92,hombre
-572,group C,algo de universidad,estandar,nada,0.53,0.62,0.56,mujer
-573,group C,preparatoria,subsidiado,completado,0.5,0.66,0.64,mujer
-574,group E,preparatoria,estandar,nada,0.74,0.81,0.71,mujer
-575,group A,tecnico asociado,subsidiado,completado,0.4,0.55,0.53,hombre
-576,group A,algo de universidad,estandar,completado,0.61,0.51,0.52,hombre
-577,group B,preparatoria,estandar,nada,0.81,0.91,0.89,mujer
-578,group B,algo de universidad,subsidiado,completado,0.48,0.56,0.58,mujer
-579,group D,mestria,estandar,nada,0.53,0.61,0.68,mujer
-580,group D,some preparatoria,estandar,nada,0.81,0.97,0.96,mujer
-581,group E,some preparatoria,estandar,nada,0.77,0.79,0.8,mujer
-582,group D,licenciatura,subsidiado,nada,0.63,0.73,0.78,mujer
-583,group D,tecnico asociado,estandar,completado,0.73,0.75,0.8,mujer
-584,group D,algo de universidad,estandar,nada,0.69,0.77,0.77,mujer
-585,group C,tecnico asociado,estandar,nada,0.65,0.76,0.76,mujer
-586,group A,preparatoria,estandar,nada,0.55,0.73,0.73,mujer
-587,group C,licenciatura,subsidiado,nada,0.44,0.63,0.62,mujer
-588,group C,algo de universidad,estandar,nada,0.54,0.64,0.65,mujer
-589,group A,some preparatoria,estandar,nada,0.48,0.66,0.65,mujer
-590,group C,algo de universidad,subsidiado,nada,0.58,0.57,0.54,hombre
-591,group A,some preparatoria,estandar,nada,0.71,0.62,0.5,hombre
-592,group E,licenciatura,estandar,nada,0.68,0.68,0.64,hombre
-593,group E,preparatoria,estandar,nada,0.74,0.76,0.73,mujer
-594,group C,licenciatura,estandar,completado,0.92,1.0,0.99,mujer
-595,group C,licenciatura,estandar,completado,0.56,0.79,0.72,mujer
-596,group B,preparatoria,subsidiado,nada,0.3,0.24,0.15,hombre
-597,group A,some preparatoria,estandar,nada,0.53,0.54,0.48,hombre
-598,group D,preparatoria,estandar,nada,0.69,0.77,0.73,mujer
-599,group D,some preparatoria,estandar,nada,0.65,0.82,0.81,mujer
-600,group D,mestria,estandar,nada,0.54,0.6,0.63,mujer
-601,group C,preparatoria,estandar,nada,0.29,0.29,0.3,mujer
-602,group E,algo de universidad,estandar,nada,0.76,0.78,0.8,mujer
-603,group D,preparatoria,subsidiado,nada,0.6,0.57,0.51,hombre
-604,group D,mestria,subsidiado,completado,0.84,0.89,0.9,hombre
-605,group C,some preparatoria,estandar,nada,0.75,0.72,0.62,hombre
-606,group C,tecnico asociado,estandar,nada,0.85,0.84,0.82,mujer
-607,group C,mestria,subsidiado,nada,0.4,0.58,0.54,mujer
-608,group E,algo de universidad,estandar,nada,0.61,0.64,0.62,mujer
-609,group B,tecnico asociado,estandar,nada,0.58,0.63,0.65,mujer
-610,group D,algo de universidad,subsidiado,completado,0.69,0.6,0.63,hombre
-611,group C,algo de universidad,estandar,nada,0.58,0.59,0.66,mujer
-612,group C,licenciatura,estandar,completado,0.94,0.9,0.91,hombre
-613,group C,tecnico asociado,estandar,nada,0.65,0.77,0.74,mujer
-614,group A,tecnico asociado,estandar,nada,0.82,0.93,0.93,mujer
-615,group C,preparatoria,estandar,nada,0.6,0.68,0.72,mujer
-616,group E,licenciatura,estandar,nada,0.37,0.45,0.38,mujer
-617,group D,licenciatura,estandar,nada,0.88,0.78,0.83,hombre
-618,group D,mestria,estandar,nada,0.95,0.81,0.84,hombre
-619,group C,tecnico asociado,subsidiado,completado,0.65,0.73,0.68,hombre
-620,group C,preparatoria,subsidiado,nada,0.35,0.61,0.54,mujer
-621,group B,licenciatura,subsidiado,nada,0.62,0.63,0.56,hombre
-622,group C,preparatoria,subsidiado,completado,0.58,0.51,0.52,hombre
-623,group A,algo de universidad,estandar,completado,1.0,0.96,0.86,hombre
-624,group E,licenciatura,subsidiado,nada,0.61,0.58,0.62,mujer
-625,group D,algo de universidad,estandar,completado,1.0,0.97,0.99,hombre
-626,group B,tecnico asociado,subsidiado,completado,0.69,0.7,0.63,hombre
-627,group D,tecnico asociado,estandar,nada,0.61,0.48,0.46,hombre
-628,group D,algo de universidad,subsidiado,nada,0.49,0.57,0.46,hombre
-629,group C,some preparatoria,estandar,completado,0.44,0.51,0.55,mujer
-630,group D,algo de universidad,estandar,nada,0.67,0.64,0.7,hombre
-631,group B,preparatoria,estandar,nada,0.79,0.6,0.65,hombre
-632,group B,licenciatura,estandar,completado,0.66,0.74,0.81,mujer
-633,group C,preparatoria,estandar,nada,0.75,0.88,0.85,mujer
-634,group D,some preparatoria,estandar,nada,0.84,0.84,0.8,hombre
-635,group A,preparatoria,estandar,nada,0.71,0.74,0.64,hombre
-636,group B,preparatoria,subsidiado,completado,0.67,0.8,0.81,mujer
-637,group D,some preparatoria,estandar,completado,0.8,0.92,0.88,mujer
-638,group E,algo de universidad,estandar,nada,0.86,0.76,0.74,hombre
-639,group D,tecnico asociado,estandar,nada,0.76,0.74,0.73,mujer
-640,group D,preparatoria,estandar,nada,0.41,0.52,0.51,hombre
-641,group D,tecnico asociado,subsidiado,completado,0.74,0.88,0.9,mujer
-642,group B,some preparatoria,subsidiado,nada,0.72,0.81,0.79,mujer
-643,group E,preparatoria,estandar,completado,0.74,0.79,0.8,mujer
-644,group B,preparatoria,estandar,nada,0.7,0.65,0.6,hombre
-645,group B,licenciatura,estandar,completado,0.65,0.81,0.81,mujer
-646,group D,tecnico asociado,estandar,nada,0.59,0.7,0.65,mujer
-647,group E,preparatoria,subsidiado,nada,0.64,0.62,0.68,mujer
-648,group B,preparatoria,estandar,nada,0.5,0.53,0.55,mujer
-649,group D,algo de universidad,estandar,completado,0.69,0.79,0.81,mujer
-650,group C,some preparatoria,subsidiado,completado,0.51,0.56,0.53,hombre
-651,group A,preparatoria,estandar,completado,0.68,0.8,0.76,mujer
-652,group D,algo de universidad,estandar,completado,0.85,0.86,0.98,mujer
-653,group A,tecnico asociado,estandar,completado,0.65,0.7,0.74,mujer
-654,group B,some preparatoria,estandar,nada,0.73,0.79,0.79,mujer
-655,group B,algo de universidad,estandar,nada,0.62,0.67,0.67,mujer
-656,group C,tecnico asociado,subsidiado,nada,0.77,0.67,0.64,hombre
-657,group D,some preparatoria,estandar,nada,0.69,0.66,0.61,hombre
-658,group D,tecnico asociado,subsidiado,nada,0.43,0.6,0.58,mujer
-659,group D,tecnico asociado,estandar,nada,0.9,0.87,0.85,hombre
-660,group C,algo de universidad,subsidiado,nada,0.74,0.77,0.73,hombre
-661,group C,some preparatoria,estandar,nada,0.73,0.66,0.63,hombre
-662,group D,algo de universidad,subsidiado,nada,0.55,0.71,0.69,mujer
-663,group C,preparatoria,estandar,nada,0.65,0.69,0.67,mujer
-664,group D,tecnico asociado,estandar,nada,0.8,0.63,0.63,hombre
-665,group C,some preparatoria,subsidiado,completado,0.5,0.6,0.6,mujer
-666,group C,algo de universidad,subsidiado,completado,0.63,0.73,0.71,mujer
-667,group B,licenciatura,subsidiado,nada,0.77,0.85,0.87,mujer
-668,group C,algo de universidad,estandar,nada,0.73,0.74,0.61,hombre
-669,group D,tecnico asociado,estandar,completado,0.81,0.72,0.77,hombre
-670,group C,preparatoria,subsidiado,nada,0.66,0.76,0.68,mujer
-671,group D,tecnico asociado,subsidiado,nada,0.52,0.57,0.5,hombre
-672,group C,algo de universidad,estandar,nada,0.69,0.78,0.76,mujer
-673,group C,tecnico asociado,estandar,completado,0.65,0.84,0.84,mujer
-674,group D,preparatoria,estandar,completado,0.69,0.77,0.78,mujer
-675,group B,algo de universidad,estandar,completado,0.5,0.64,0.66,mujer
-676,group E,algo de universidad,estandar,completado,0.73,0.78,0.76,mujer
-677,group C,some preparatoria,estandar,completado,0.7,0.82,0.76,mujer
-678,group D,tecnico asociado,subsidiado,nada,0.81,0.75,0.78,hombre
-679,group D,algo de universidad,subsidiado,nada,0.63,0.61,0.6,hombre
-680,group D,preparatoria,estandar,nada,0.67,0.72,0.74,mujer
-681,group B,preparatoria,estandar,nada,0.6,0.68,0.6,hombre
-682,group B,preparatoria,estandar,nada,0.62,0.55,0.54,hombre
-683,group C,some preparatoria,subsidiado,completado,0.29,0.4,0.44,mujer
-684,group B,algo de universidad,estandar,completado,0.62,0.66,0.68,hombre
-685,group E,mestria,estandar,completado,0.94,0.99,1.0,mujer
-686,group E,algo de universidad,estandar,completado,0.85,0.75,0.68,hombre
-687,group D,tecnico asociado,subsidiado,nada,0.77,0.78,0.73,hombre
-688,group A,preparatoria,subsidiado,nada,0.53,0.58,0.44,hombre
-689,group E,algo de universidad,subsidiado,nada,0.93,0.9,0.83,hombre
-690,group C,tecnico asociado,estandar,nada,0.49,0.53,0.53,mujer
-691,group E,tecnico asociado,subsidiado,nada,0.73,0.76,0.78,mujer
-692,group C,licenciatura,subsidiado,completado,0.66,0.74,0.81,mujer
-693,group D,tecnico asociado,estandar,nada,0.77,0.77,0.73,mujer
-694,group C,some preparatoria,estandar,nada,0.49,0.63,0.56,mujer
-695,group D,algo de universidad,subsidiado,nada,0.79,0.89,0.86,mujer
-696,group C,tecnico asociado,estandar,completado,0.75,0.82,0.9,mujer
-697,group A,licenciatura,estandar,nada,0.59,0.72,0.7,mujer
-698,group D,tecnico asociado,estandar,completado,0.57,0.78,0.79,mujer
-699,group C,preparatoria,subsidiado,nada,0.66,0.66,0.59,hombre
-700,group E,licenciatura,estandar,completado,0.79,0.81,0.82,mujer
-701,group B,some preparatoria,estandar,nada,0.57,0.67,0.72,mujer
-702,group A,licenciatura,estandar,completado,0.87,0.84,0.87,hombre
-703,group D,algo de universidad,estandar,nada,0.63,0.64,0.67,mujer
-704,group B,some preparatoria,subsidiado,completado,0.59,0.63,0.64,mujer
-705,group A,licenciatura,subsidiado,nada,0.62,0.72,0.65,hombre
-706,group D,preparatoria,estandar,nada,0.46,0.34,0.36,hombre
-707,group C,algo de universidad,estandar,nada,0.66,0.59,0.52,hombre
-708,group D,preparatoria,estandar,nada,0.89,0.87,0.79,hombre
-709,group D,tecnico asociado,subsidiado,completado,0.42,0.61,0.58,mujer
-710,group C,algo de universidad,estandar,completado,0.93,0.84,0.9,hombre
-711,group E,some preparatoria,estandar,completado,0.8,0.85,0.85,mujer
-712,group D,algo de universidad,estandar,nada,0.98,1.0,0.99,mujer
-713,group D,mestria,estandar,nada,0.81,0.81,0.84,hombre
-714,group B,some preparatoria,estandar,completado,0.6,0.7,0.74,mujer
-715,group B,tecnico asociado,subsidiado,completado,0.76,0.94,0.87,mujer
-716,group C,tecnico asociado,estandar,completado,0.73,0.78,0.72,hombre
-717,group C,tecnico asociado,estandar,completado,0.96,0.96,0.99,mujer
-718,group C,preparatoria,estandar,nada,0.76,0.76,0.74,mujer
-719,group E,tecnico asociado,subsidiado,completado,0.91,0.73,0.8,hombre
-720,group C,algo de universidad,subsidiado,nada,0.62,0.72,0.7,mujer
-721,group D,some preparatoria,subsidiado,completado,0.55,0.59,0.59,hombre
-722,group B,some preparatoria,subsidiado,completado,0.74,0.9,0.88,mujer
-723,group C,preparatoria,estandar,nada,0.5,0.48,0.42,hombre
-724,group B,algo de universidad,estandar,nada,0.47,0.43,0.41,hombre
-725,group E,algo de universidad,estandar,completado,0.81,0.74,0.71,hombre
-726,group E,tecnico asociado,estandar,completado,0.65,0.75,0.77,mujer
-727,group E,some preparatoria,estandar,completado,0.68,0.51,0.57,hombre
-728,group D,preparatoria,subsidiado,nada,0.73,0.92,0.84,mujer
-729,group C,algo de universidad,estandar,nada,0.53,0.39,0.37,hombre
-730,group B,tecnico asociado,subsidiado,completado,0.68,0.77,0.8,mujer
-731,group A,some preparatoria,subsidiado,nada,0.55,0.46,0.43,hombre
-732,group C,algo de universidad,estandar,completado,0.87,0.89,0.94,mujer
-733,group D,some preparatoria,estandar,nada,0.55,0.47,0.44,hombre
-734,group E,algo de universidad,subsidiado,nada,0.53,0.58,0.57,mujer
-735,group C,mestria,estandar,nada,0.67,0.57,0.59,hombre
-736,group C,tecnico asociado,estandar,nada,0.92,0.79,0.84,hombre
-737,group B,algo de universidad,subsidiado,completado,0.53,0.66,0.73,mujer
-738,group D,tecnico asociado,estandar,nada,0.81,0.71,0.73,hombre
-739,group C,preparatoria,subsidiado,nada,0.61,0.6,0.55,hombre
-740,group D,licenciatura,estandar,nada,0.8,0.73,0.72,hombre
-741,group A,tecnico asociado,subsidiado,nada,0.37,0.57,0.56,mujer
-742,group C,preparatoria,estandar,nada,0.81,0.84,0.82,mujer
-743,group C,tecnico asociado,estandar,completado,0.59,0.73,0.72,mujer
-744,group B,algo de universidad,subsidiado,nada,0.55,0.55,0.47,hombre
-745,group D,tecnico asociado,estandar,nada,0.72,0.79,0.74,hombre
-746,group D,preparatoria,estandar,nada,0.69,0.75,0.71,hombre
-747,group C,algo de universidad,estandar,nada,0.69,0.64,0.68,hombre
-748,group C,licenciatura,subsidiado,nada,0.5,0.6,0.59,mujer
-749,group B,algo de universidad,estandar,completado,0.87,0.84,0.86,hombre
-750,group D,some preparatoria,estandar,completado,0.71,0.69,0.68,hombre
-751,group E,algo de universidad,estandar,nada,0.68,0.72,0.65,hombre
-752,group C,mestria,subsidiado,completado,0.79,0.77,0.75,hombre
-753,group C,some preparatoria,estandar,completado,0.77,0.9,0.85,mujer
-754,group C,tecnico asociado,subsidiado,nada,0.58,0.55,0.53,hombre
-755,group E,tecnico asociado,estandar,nada,0.84,0.95,0.92,mujer
-756,group D,algo de universidad,estandar,nada,0.55,0.58,0.52,hombre
-757,group E,licenciatura,subsidiado,completado,0.7,0.68,0.72,hombre
-758,group D,algo de universidad,subsidiado,completado,0.52,0.59,0.65,mujer
-759,group B,algo de universidad,estandar,completado,0.69,0.77,0.77,hombre
-760,group C,preparatoria,subsidiado,nada,0.53,0.72,0.64,mujer
-761,group D,some preparatoria,estandar,nada,0.48,0.58,0.54,mujer
-762,group D,some preparatoria,estandar,completado,0.78,0.81,0.86,hombre
-763,group B,preparatoria,estandar,nada,0.62,0.62,0.63,mujer
-764,group D,algo de universidad,estandar,nada,0.6,0.63,0.59,hombre
-765,group B,preparatoria,estandar,nada,0.74,0.72,0.72,mujer
-766,group C,preparatoria,estandar,completado,0.58,0.75,0.77,mujer
-767,group B,preparatoria,estandar,completado,0.76,0.62,0.6,hombre
-768,group D,some preparatoria,estandar,nada,0.68,0.71,0.75,mujer
-769,group A,algo de universidad,subsidiado,nada,0.58,0.6,0.57,hombre
-770,group B,preparatoria,estandar,nada,0.52,0.48,0.49,hombre
-771,group D,licenciatura,estandar,nada,0.75,0.73,0.74,hombre
-772,group B,some preparatoria,subsidiado,completado,0.52,0.67,0.72,mujer
-773,group C,licenciatura,subsidiado,nada,0.62,0.78,0.79,mujer
-774,group B,algo de universidad,estandar,nada,0.66,0.65,0.6,hombre
-775,group B,some preparatoria,subsidiado,nada,0.49,0.58,0.55,mujer
-776,group B,preparatoria,estandar,nada,0.66,0.72,0.7,mujer
-777,group C,algo de universidad,subsidiado,nada,0.35,0.44,0.43,mujer
-778,group A,algo de universidad,estandar,completado,0.72,0.79,0.82,mujer
-779,group E,tecnico asociado,estandar,completado,0.94,0.85,0.82,hombre
-780,group D,tecnico asociado,subsidiado,nada,0.46,0.56,0.57,mujer
-781,group B,mestria,estandar,nada,0.77,0.9,0.84,mujer
-782,group B,preparatoria,subsidiado,completado,0.76,0.85,0.82,mujer
-783,group C,tecnico asociado,estandar,completado,0.52,0.59,0.62,mujer
-784,group C,licenciatura,estandar,completado,0.91,0.81,0.79,hombre
-785,group B,some preparatoria,estandar,completado,0.32,0.51,0.44,mujer
-786,group E,some preparatoria,subsidiado,nada,0.72,0.79,0.77,mujer
-787,group B,algo de universidad,estandar,nada,0.19,0.38,0.32,mujer
-788,group C,tecnico asociado,subsidiado,nada,0.68,0.65,0.61,hombre
-789,group C,mestria,subsidiado,nada,0.52,0.65,0.61,mujer
-790,group B,preparatoria,estandar,nada,0.48,0.62,0.6,mujer
-791,group D,algo de universidad,subsidiado,nada,0.6,0.66,0.7,mujer
-792,group D,preparatoria,subsidiado,nada,0.66,0.74,0.69,hombre
-793,group E,some preparatoria,estandar,completado,0.89,0.84,0.77,hombre
-794,group B,preparatoria,estandar,nada,0.42,0.52,0.51,mujer
-795,group E,tecnico asociado,subsidiado,completado,0.57,0.68,0.73,mujer
-796,group D,preparatoria,estandar,nada,0.7,0.7,0.7,hombre
-797,group E,tecnico asociado,subsidiado,nada,0.7,0.84,0.81,mujer
-798,group E,algo de universidad,estandar,nada,0.69,0.6,0.54,hombre
-799,group C,tecnico asociado,estandar,nada,0.52,0.55,0.57,mujer
-800,group C,some preparatoria,estandar,completado,0.67,0.73,0.68,hombre
-801,group C,some preparatoria,estandar,completado,0.76,0.8,0.73,hombre
-802,group E,tecnico asociado,estandar,nada,0.87,0.94,0.95,mujer
-803,group B,algo de universidad,estandar,nada,0.82,0.85,0.87,mujer
-804,group C,algo de universidad,estandar,nada,0.73,0.76,0.78,mujer
-805,group A,algo de universidad,subsidiado,nada,0.75,0.81,0.74,hombre
-806,group D,algo de universidad,subsidiado,nada,0.64,0.74,0.75,mujer
-807,group E,preparatoria,subsidiado,nada,0.41,0.45,0.4,mujer
-808,group C,preparatoria,estandar,nada,0.9,0.75,0.69,hombre
-809,group B,licenciatura,estandar,nada,0.59,0.54,0.51,hombre
-810,group A,some preparatoria,estandar,nada,0.51,0.31,0.36,hombre
-811,group A,preparatoria,subsidiado,nada,0.45,0.47,0.49,hombre
-812,group C,mestria,estandar,completado,0.54,0.64,0.67,mujer
-813,group E,some preparatoria,estandar,completado,0.87,0.84,0.76,hombre
-814,group C,preparatoria,estandar,nada,0.72,0.8,0.83,mujer
-815,group B,some preparatoria,estandar,completado,0.94,0.86,0.87,hombre
-816,group A,licenciatura,estandar,nada,0.45,0.59,0.64,mujer
-817,group D,licenciatura,subsidiado,completado,0.61,0.7,0.76,hombre
-818,group B,preparatoria,subsidiado,nada,0.6,0.72,0.68,mujer
-819,group C,some preparatoria,estandar,nada,0.77,0.91,0.88,mujer
-820,group A,some preparatoria,estandar,completado,0.85,0.9,0.92,mujer
-821,group D,licenciatura,subsidiado,nada,0.78,0.9,0.93,mujer
-822,group E,algo de universidad,subsidiado,completado,0.49,0.52,0.51,hombre
-823,group B,preparatoria,subsidiado,nada,0.71,0.87,0.82,mujer
-824,group C,some preparatoria,subsidiado,nada,0.48,0.58,0.52,mujer
-825,group C,preparatoria,estandar,nada,0.62,0.67,0.58,hombre
-826,group C,tecnico asociado,subsidiado,completado,0.56,0.68,0.7,mujer
-827,group C,some preparatoria,estandar,nada,0.65,0.69,0.76,mujer
-828,group D,some preparatoria,subsidiado,completado,0.69,0.86,0.81,mujer
-829,group B,some preparatoria,estandar,nada,0.68,0.54,0.53,hombre
-830,group A,algo de universidad,subsidiado,nada,0.61,0.6,0.57,mujer
-831,group C,licenciatura,subsidiado,completado,0.74,0.86,0.89,mujer
-832,group A,licenciatura,estandar,nada,0.64,0.6,0.58,hombre
-833,group B,preparatoria,estandar,completado,0.77,0.82,0.89,mujer
-834,group B,algo de universidad,estandar,nada,0.58,0.5,0.45,hombre
-835,group C,preparatoria,estandar,completado,0.6,0.64,0.74,mujer
-836,group E,preparatoria,estandar,nada,0.73,0.64,0.57,hombre
-837,group A,preparatoria,estandar,completado,0.75,0.82,0.79,mujer
-838,group B,tecnico asociado,subsidiado,completado,0.58,0.57,0.53,hombre
-839,group C,tecnico asociado,estandar,nada,0.66,0.77,0.73,mujer
-840,group D,preparatoria,subsidiado,nada,0.39,0.52,0.46,mujer
-841,group C,some preparatoria,estandar,nada,0.64,0.58,0.51,hombre
-842,group B,preparatoria,subsidiado,completado,0.23,0.44,0.36,mujer
-843,group B,algo de universidad,subsidiado,completado,0.74,0.77,0.76,hombre
-844,group D,some preparatoria,subsidiado,completado,0.4,0.65,0.64,mujer
-845,group E,mestria,estandar,nada,0.9,0.85,0.84,hombre
-846,group C,mestria,estandar,completado,0.91,0.85,0.85,hombre
-847,group D,preparatoria,estandar,nada,0.64,0.54,0.5,hombre
-848,group C,preparatoria,estandar,nada,0.59,0.72,0.68,mujer
-849,group D,tecnico asociado,estandar,nada,0.8,0.75,0.69,hombre
-850,group C,mestria,estandar,nada,0.71,0.67,0.67,hombre
-851,group A,preparatoria,estandar,nada,0.61,0.68,0.63,mujer
-852,group E,algo de universidad,estandar,nada,0.87,0.85,0.93,mujer
-853,group E,some preparatoria,estandar,nada,0.82,0.67,0.61,hombre
-854,group C,some preparatoria,estandar,nada,0.62,0.64,0.55,hombre
-855,group B,licenciatura,estandar,nada,0.97,0.97,0.96,mujer
-856,group B,algo de universidad,subsidiado,nada,0.75,0.68,0.65,hombre
-857,group C,licenciatura,estandar,nada,0.65,0.79,0.81,mujer
-858,group B,preparatoria,estandar,completado,0.52,0.49,0.46,hombre
-859,group C,tecnico asociado,subsidiado,nada,0.87,0.73,0.72,hombre
-860,group C,tecnico asociado,estandar,nada,0.53,0.62,0.53,mujer
-861,group E,mestria,subsidiado,nada,0.81,0.86,0.87,mujer
-862,group D,licenciatura,subsidiado,completado,0.39,0.42,0.38,hombre
-863,group C,algo de universidad,estandar,completado,0.71,0.71,0.8,mujer
-864,group C,tecnico asociado,estandar,nada,0.97,0.93,0.91,hombre
-865,group D,algo de universidad,estandar,completado,0.82,0.82,0.88,hombre
-866,group C,preparatoria,subsidiado,nada,0.59,0.53,0.52,hombre
-867,group B,tecnico asociado,estandar,nada,0.61,0.42,0.41,hombre
-868,group E,tecnico asociado,subsidiado,completado,0.78,0.74,0.72,hombre
-869,group C,tecnico asociado,subsidiado,nada,0.49,0.51,0.51,hombre
-870,group B,preparatoria,estandar,nada,0.59,0.58,0.47,hombre
-871,group C,algo de universidad,estandar,completado,0.7,0.72,0.76,mujer
-872,group B,tecnico asociado,estandar,completado,0.82,0.84,0.78,hombre
-873,group E,tecnico asociado,subsidiado,nada,0.9,0.9,0.82,hombre
-874,group C,licenciatura,subsidiado,nada,0.43,0.62,0.61,mujer
-875,group C,algo de universidad,subsidiado,nada,0.8,0.64,0.66,hombre
-876,group D,algo de universidad,estandar,nada,0.81,0.82,0.84,hombre
-877,group C,some preparatoria,estandar,nada,0.57,0.61,0.54,hombre
-878,group D,some preparatoria,estandar,nada,0.59,0.72,0.8,mujer
-879,group D,tecnico asociado,estandar,nada,0.64,0.76,0.74,mujer
-880,group C,licenciatura,estandar,completado,0.63,0.64,0.66,hombre
-881,group E,licenciatura,estandar,completado,0.71,0.7,0.7,mujer
-882,group B,preparatoria,subsidiado,nada,0.64,0.73,0.71,mujer
-883,group D,licenciatura,subsidiado,nada,0.55,0.46,0.44,hombre
-884,group E,tecnico asociado,estandar,nada,0.51,0.51,0.54,mujer
-885,group C,tecnico asociado,estandar,completado,0.62,0.76,0.8,mujer
-886,group E,tecnico asociado,estandar,completado,0.93,1.0,0.95,mujer
-887,group C,preparatoria,subsidiado,nada,0.54,0.72,0.59,hombre
-888,group D,algo de universidad,subsidiado,nada,0.69,0.65,0.74,mujer
-889,group D,preparatoria,subsidiado,nada,0.44,0.51,0.48,hombre
-890,group E,algo de universidad,estandar,completado,0.86,0.85,0.91,mujer
-891,group E,tecnico asociado,estandar,nada,0.85,0.92,0.85,mujer
-892,group A,mestria,subsidiado,nada,0.5,0.67,0.73,mujer
-893,group D,some preparatoria,estandar,completado,0.88,0.74,0.75,hombre
-894,group E,tecnico asociado,estandar,nada,0.59,0.62,0.69,mujer
-895,group E,some preparatoria,subsidiado,nada,0.32,0.34,0.38,mujer
-896,group B,preparatoria,subsidiado,nada,0.36,0.29,0.27,hombre
-897,group B,some preparatoria,subsidiado,completado,0.63,0.78,0.79,mujer
-898,group D,tecnico asociado,estandar,completado,0.67,0.54,0.63,hombre
-899,group D,some preparatoria,estandar,completado,0.65,0.78,0.82,mujer
-900,group D,mestria,estandar,nada,0.85,0.84,0.89,hombre
-901,group C,mestria,estandar,nada,0.73,0.78,0.74,mujer
-902,group A,preparatoria,subsidiado,completado,0.34,0.48,0.41,mujer
-903,group D,licenciatura,subsidiado,completado,0.93,1.0,1.0,mujer
-904,group D,some preparatoria,subsidiado,nada,0.67,0.84,0.84,mujer
-905,group D,algo de universidad,estandar,nada,0.88,0.77,0.77,hombre
-906,group B,preparatoria,estandar,nada,0.57,0.48,0.51,hombre
-907,group D,algo de universidad,estandar,completado,0.79,0.84,0.91,mujer
-908,group C,licenciatura,subsidiado,nada,0.67,0.75,0.72,mujer
-909,group E,licenciatura,estandar,completado,0.7,0.64,0.7,hombre
-910,group D,licenciatura,subsidiado,nada,0.5,0.42,0.48,hombre
-911,group A,algo de universidad,estandar,nada,0.69,0.84,0.82,mujer
-912,group C,licenciatura,estandar,completado,0.52,0.61,0.66,mujer
-913,group C,licenciatura,subsidiado,completado,0.47,0.62,0.66,mujer
-914,group B,tecnico asociado,subsidiado,nada,0.46,0.61,0.55,mujer
-915,group E,algo de universidad,estandar,nada,0.68,0.7,0.66,mujer
-916,group E,licenciatura,estandar,completado,1.0,1.0,1.0,hombre
-917,group C,preparatoria,estandar,nada,0.44,0.61,0.52,mujer
-918,group C,tecnico asociado,estandar,completado,0.57,0.77,0.8,mujer
-919,group B,algo de universidad,estandar,completado,0.91,0.96,0.91,hombre
-920,group D,preparatoria,subsidiado,nada,0.69,0.7,0.67,hombre
-921,group C,preparatoria,subsidiado,nada,0.35,0.53,0.46,mujer
-922,group D,preparatoria,estandar,nada,0.72,0.66,0.66,hombre
-923,group B,tecnico asociado,subsidiado,nada,0.54,0.65,0.65,mujer
-924,group D,preparatoria,subsidiado,nada,0.74,0.7,0.69,hombre
-925,group E,some preparatoria,estandar,completado,0.74,0.64,0.6,hombre
-926,group E,tecnico asociado,subsidiado,nada,0.64,0.56,0.52,hombre
-927,group D,preparatoria,subsidiado,completado,0.65,0.61,0.71,mujer
-928,group E,tecnico asociado,subsidiado,completado,0.46,0.43,0.44,hombre
-929,group C,some preparatoria,subsidiado,nada,0.48,0.56,0.51,mujer
-930,group C,algo de universidad,subsidiado,completado,0.67,0.74,0.7,hombre
-931,group D,algo de universidad,subsidiado,nada,0.62,0.57,0.62,hombre
-932,group D,tecnico asociado,subsidiado,completado,0.61,0.71,0.73,hombre
-933,group C,licenciatura,subsidiado,completado,0.7,0.75,0.74,hombre
-934,group C,tecnico asociado,estandar,completado,0.98,0.87,0.9,hombre
-935,group D,algo de universidad,subsidiado,nada,0.7,0.63,0.58,hombre
-936,group A,tecnico asociado,estandar,nada,0.67,0.57,0.53,hombre
-937,group E,preparatoria,subsidiado,nada,0.57,0.58,0.57,mujer
-938,group D,algo de universidad,estandar,completado,0.85,0.81,0.85,hombre
-939,group D,some preparatoria,estandar,completado,0.77,0.68,0.69,hombre
-940,group C,mestria,subsidiado,completado,0.72,0.66,0.72,hombre
-941,group D,mestria,estandar,nada,0.78,0.91,0.96,mujer
-942,group C,preparatoria,estandar,nada,0.81,0.66,0.64,hombre
-943,group A,some preparatoria,subsidiado,completado,0.61,0.62,0.61,hombre
-944,group B,preparatoria,estandar,nada,0.58,0.68,0.61,mujer
-945,group C,tecnico asociado,estandar,nada,0.54,0.61,0.58,mujer
-946,group B,preparatoria,estandar,nada,0.82,0.82,0.8,hombre
-947,group D,algo de universidad,subsidiado,nada,0.49,0.58,0.6,mujer
-948,group B,some preparatoria,subsidiado,completado,0.49,0.5,0.52,hombre
-949,group E,preparatoria,subsidiado,completado,0.57,0.75,0.73,mujer
-950,group E,preparatoria,estandar,nada,0.94,0.73,0.71,hombre
-951,group D,algo de universidad,estandar,completado,0.75,0.77,0.83,mujer
-952,group E,some preparatoria,subsidiado,nada,0.74,0.74,0.72,mujer
-953,group C,preparatoria,estandar,completado,0.58,0.52,0.54,hombre
-954,group C,algo de universidad,estandar,nada,0.62,0.69,0.69,mujer
-955,group E,tecnico asociado,estandar,nada,0.72,0.57,0.62,hombre
-956,group C,algo de universidad,estandar,nada,0.84,0.87,0.81,hombre
-957,group D,mestria,estandar,nada,0.92,1.0,1.0,mujer
-958,group D,preparatoria,estandar,nada,0.45,0.63,0.59,mujer
-959,group C,preparatoria,estandar,nada,0.75,0.81,0.71,hombre
-960,group A,algo de universidad,estandar,nada,0.56,0.58,0.64,mujer
-961,group D,some preparatoria,subsidiado,nada,0.48,0.54,0.53,mujer
-962,group E,tecnico asociado,estandar,nada,1.0,1.0,1.0,mujer
-963,group C,some preparatoria,subsidiado,completado,0.65,0.76,0.75,mujer
-964,group D,algo de universidad,estandar,nada,0.72,0.57,0.58,hombre
-965,group D,algo de universidad,estandar,nada,0.62,0.7,0.72,mujer
-966,group A,some preparatoria,estandar,completado,0.66,0.68,0.64,hombre
-967,group C,algo de universidad,estandar,nada,0.63,0.63,0.6,hombre
-968,group E,tecnico asociado,estandar,nada,0.68,0.76,0.67,mujer
-969,group B,licenciatura,estandar,nada,0.75,0.84,0.8,mujer
-970,group D,licenciatura,estandar,nada,0.89,1.0,1.0,mujer
-971,group C,some preparatoria,estandar,completado,0.78,0.72,0.69,hombre
-972,group A,preparatoria,subsidiado,completado,0.53,0.5,0.6,mujer
-973,group D,algo de universidad,subsidiado,nada,0.49,0.65,0.61,mujer
-974,group A,algo de universidad,estandar,nada,0.54,0.63,0.67,mujer
-975,group C,algo de universidad,estandar,completado,0.64,0.82,0.77,mujer
-976,group B,algo de universidad,subsidiado,completado,0.6,0.62,0.6,hombre
-977,group C,tecnico asociado,estandar,nada,0.62,0.65,0.58,hombre
-978,group D,preparatoria,estandar,completado,0.55,0.41,0.48,hombre
-979,group C,tecnico asociado,estandar,nada,0.91,0.95,0.94,mujer
-980,group B,preparatoria,subsidiado,nada,0.08,0.24,0.23,mujer
-981,group D,some preparatoria,estandar,nada,0.81,0.78,0.78,hombre
-982,group B,some preparatoria,estandar,completado,0.79,0.85,0.86,hombre
-983,group A,algo de universidad,estandar,completado,0.78,0.87,0.91,mujer
-984,group C,some preparatoria,estandar,nada,0.74,0.75,0.82,mujer
-985,group A,preparatoria,estandar,nada,0.57,0.51,0.54,hombre
-986,group C,tecnico asociado,estandar,nada,0.4,0.59,0.51,mujer
-987,group E,some preparatoria,estandar,completado,0.81,0.75,0.76,hombre
-988,group A,some preparatoria,subsidiado,nada,0.44,0.45,0.45,mujer
-989,group D,algo de universidad,subsidiado,completado,0.67,0.86,0.83,mujer
-990,group E,preparatoria,subsidiado,completado,0.86,0.81,0.75,hombre
-991,group B,some preparatoria,estandar,completado,0.65,0.82,0.78,mujer
-992,group D,tecnico asociado,subsidiado,nada,0.55,0.76,0.76,mujer
-993,group D,licenciatura,subsidiado,nada,0.62,0.72,0.74,mujer
-994,group A,preparatoria,estandar,nada,0.63,0.63,0.62,hombre
-995,group E,mestria,estandar,completado,0.88,0.99,0.95,mujer
-996,group C,preparatoria,subsidiado,nada,0.62,0.55,0.55,hombre
-997,group C,preparatoria,subsidiado,completado,0.59,0.71,0.65,mujer
-998,group D,algo de universidad,estandar,completado,0.68,0.78,0.77,mujer
-999,group D,algo de universidad,subsidiado,nada,0.77,0.86,0.86,mujer
+,etnia,nivel_educativo_de_los_padres,tipo_de_comida,curso_de_preparación_para_el_examen,porcentaje_de_matemáticas,porcentaje_de_lectura,porcentaje_de_escritura,sexo
+0,group_B,licenciatura,estandar,nada,0.72,0.72,0.74,mujer
+1,group_C,algo_de_universidad,estandar,completado,0.69,0.9,0.88,mujer
+2,group_B,mestria,estandar,nada,0.9,0.95,0.93,mujer
+3,group_A,tecnico_asociado,subsidiado,nada,0.47,0.57,0.44,hombre
+4,group_C,algo_de_universidad,estandar,nada,0.76,0.78,0.75,hombre
+5,group_B,tecnico_asociado,estandar,nada,0.71,0.83,0.78,mujer
+6,group_B,algo_de_universidad,estandar,completado,0.88,0.95,0.92,mujer
+7,group_B,algo_de_universidad,subsidiado,nada,0.4,0.43,0.39,hombre
+8,group_D,preparatoria,subsidiado,completado,0.64,0.64,0.67,hombre
+9,group_B,preparatoria,subsidiado,nada,0.38,0.6,0.5,mujer
+10,group_C,tecnico_asociado,estandar,nada,0.58,0.54,0.52,hombre
+11,group_D,tecnico_asociado,estandar,nada,0.4,0.52,0.43,hombre
+12,group_B,preparatoria,estandar,nada,0.65,0.81,0.73,mujer
+13,group_A,algo_de_universidad,estandar,completado,0.78,0.72,0.7,hombre
+14,group_A,mestria,estandar,nada,0.5,0.53,0.58,mujer
+15,group_C,algo_de_preparatoria,estandar,nada,0.69,0.75,0.78,mujer
+16,group_C,preparatoria,estandar,nada,0.88,0.89,0.86,hombre
+17,group_B,algo_de_preparatoria,subsidiado,nada,0.18,0.32,0.28,mujer
+18,group_C,mestria,subsidiado,completado,0.46,0.42,0.46,hombre
+19,group_C,tecnico_asociado,subsidiado,nada,0.54,0.58,0.61,mujer
+20,group_D,preparatoria,estandar,nada,0.66,0.69,0.63,hombre
+21,group_B,algo_de_universidad,subsidiado,completado,0.65,0.75,0.7,mujer
+22,group_D,algo_de_universidad,estandar,nada,0.44,0.54,0.53,hombre
+23,group_C,algo_de_preparatoria,estandar,nada,0.69,0.73,0.73,mujer
+24,group_D,licenciatura,subsidiado,completado,0.74,0.71,0.8,hombre
+25,group_A,mestria,subsidiado,nada,0.73,0.74,0.72,hombre
+26,group_B,algo_de_universidad,estandar,nada,0.69,0.54,0.55,hombre
+27,group_C,licenciatura,estandar,nada,0.67,0.69,0.75,mujer
+28,group_C,preparatoria,estandar,nada,0.7,0.7,0.65,hombre
+29,group_D,mestria,estandar,nada,0.62,0.7,0.75,mujer
+30,group_D,algo_de_universidad,estandar,nada,0.69,0.74,0.74,mujer
+31,group_B,algo_de_universidad,estandar,nada,0.63,0.65,0.61,mujer
+32,group_E,mestria,subsidiado,nada,0.56,0.72,0.65,mujer
+33,group_D,algo_de_universidad,estandar,nada,0.4,0.42,0.38,hombre
+34,group_E,algo_de_universidad,estandar,nada,0.97,0.87,0.82,hombre
+35,group_E,tecnico_asociado,estandar,completado,0.81,0.81,0.79,hombre
+36,group_D,tecnico_asociado,estandar,nada,0.74,0.81,0.83,mujer
+37,group_D,algo_de_preparatoria,subsidiado,nada,0.5,0.64,0.59,mujer
+38,group_D,tecnico_asociado,subsidiado,completado,0.75,0.9,0.88,mujer
+39,group_B,tecnico_asociado,subsidiado,nada,0.57,0.56,0.57,hombre
+40,group_C,tecnico_asociado,subsidiado,nada,0.55,0.61,0.54,hombre
+41,group_C,tecnico_asociado,estandar,nada,0.58,0.73,0.68,mujer
+42,group_B,tecnico_asociado,estandar,nada,0.53,0.58,0.65,mujer
+43,group_B,algo_de_universidad,subsidiado,completado,0.59,0.65,0.66,hombre
+44,group_E,tecnico_asociado,subsidiado,nada,0.5,0.56,0.54,mujer
+45,group_B,tecnico_asociado,estandar,nada,0.65,0.54,0.57,hombre
+46,group_A,tecnico_asociado,estandar,completado,0.55,0.65,0.62,mujer
+47,group_C,preparatoria,estandar,nada,0.66,0.71,0.76,mujer
+48,group_D,tecnico_asociado,subsidiado,completado,0.57,0.74,0.76,mujer
+49,group_C,preparatoria,estandar,completado,0.82,0.84,0.82,hombre
+50,group_E,algo_de_universidad,estandar,nada,0.53,0.55,0.48,hombre
+51,group_E,tecnico_asociado,subsidiado,completado,0.77,0.69,0.68,hombre
+52,group_C,algo_de_universidad,estandar,nada,0.53,0.44,0.42,hombre
+53,group_D,preparatoria,estandar,nada,0.88,0.78,0.75,hombre
+54,group_C,algo_de_preparatoria,subsidiado,completado,0.71,0.84,0.87,mujer
+55,group_C,preparatoria,subsidiado,nada,0.33,0.41,0.43,mujer
+56,group_E,tecnico_asociado,estandar,completado,0.82,0.85,0.86,mujer
+57,group_D,tecnico_asociado,estandar,nada,0.52,0.55,0.49,hombre
+58,group_D,algo_de_universidad,estandar,completado,0.58,0.59,0.58,hombre
+59,group_C,algo_de_preparatoria,subsidiado,nada,0.0,0.17,0.1,mujer
+60,group_E,licenciatura,subsidiado,completado,0.79,0.74,0.72,hombre
+61,group_A,algo_de_preparatoria,subsidiado,nada,0.39,0.39,0.34,hombre
+62,group_A,tecnico_asociado,subsidiado,nada,0.62,0.61,0.55,hombre
+63,group_C,tecnico_asociado,estandar,nada,0.69,0.8,0.71,mujer
+64,group_D,algo_de_preparatoria,estandar,nada,0.59,0.58,0.59,mujer
+65,group_B,algo_de_preparatoria,estandar,nada,0.67,0.64,0.61,hombre
+66,group_D,algo_de_preparatoria,subsidiado,nada,0.45,0.37,0.37,hombre
+67,group_C,algo_de_universidad,estandar,nada,0.6,0.72,0.74,mujer
+68,group_B,tecnico_asociado,subsidiado,nada,0.61,0.58,0.56,hombre
+69,group_C,tecnico_asociado,estandar,nada,0.39,0.64,0.57,mujer
+70,group_D,algo_de_universidad,subsidiado,completado,0.58,0.63,0.73,mujer
+71,group_D,algo_de_universidad,estandar,completado,0.63,0.55,0.63,hombre
+72,group_A,tecnico_asociado,subsidiado,nada,0.41,0.51,0.48,mujer
+73,group_C,algo_de_preparatoria,subsidiado,nada,0.61,0.57,0.56,hombre
+74,group_C,algo_de_preparatoria,estandar,nada,0.49,0.49,0.41,hombre
+75,group_B,tecnico_asociado,subsidiado,nada,0.44,0.41,0.38,hombre
+76,group_E,algo_de_preparatoria,estandar,nada,0.3,0.26,0.22,hombre
+77,group_A,licenciatura,estandar,completado,0.8,0.78,0.81,hombre
+78,group_D,algo_de_preparatoria,estandar,completado,0.61,0.74,0.72,mujer
+79,group_E,mestria,estandar,nada,0.62,0.68,0.68,mujer
+80,group_B,tecnico_asociado,estandar,nada,0.47,0.49,0.5,mujer
+81,group_B,preparatoria,subsidiado,nada,0.49,0.45,0.45,hombre
+82,group_A,algo_de_universidad,subsidiado,completado,0.5,0.47,0.54,hombre
+83,group_E,tecnico_asociado,estandar,nada,0.72,0.64,0.63,hombre
+84,group_D,preparatoria,subsidiado,nada,0.42,0.39,0.34,hombre
+85,group_C,algo_de_universidad,estandar,nada,0.73,0.8,0.82,mujer
+86,group_C,algo_de_universidad,subsidiado,nada,0.76,0.83,0.88,mujer
+87,group_D,tecnico_asociado,estandar,nada,0.71,0.71,0.74,mujer
+88,group_A,algo_de_universidad,estandar,nada,0.58,0.7,0.67,mujer
+89,group_D,algo_de_preparatoria,estandar,nada,0.73,0.86,0.82,mujer
+90,group_C,licenciatura,estandar,nada,0.65,0.72,0.74,mujer
+91,group_C,preparatoria,subsidiado,nada,0.27,0.34,0.36,hombre
+92,group_C,preparatoria,estandar,nada,0.71,0.79,0.71,hombre
+93,group_C,tecnico_asociado,subsidiado,completado,0.43,0.45,0.5,hombre
+94,group_B,algo_de_universidad,estandar,nada,0.79,0.86,0.92,mujer
+95,group_C,tecnico_asociado,subsidiado,completado,0.78,0.81,0.82,hombre
+96,group_B,algo_de_preparatoria,estandar,completado,0.65,0.66,0.62,hombre
+97,group_E,algo_de_universidad,estandar,completado,0.63,0.72,0.7,mujer
+98,group_D,algo_de_universidad,subsidiado,nada,0.58,0.67,0.62,mujer
+99,group_D,licenciatura,estandar,nada,0.65,0.67,0.62,mujer
+100,group_B,algo_de_universidad,estandar,nada,0.79,0.67,0.67,hombre
+101,group_D,licenciatura,estandar,completado,0.68,0.74,0.74,hombre
+102,group_D,tecnico_asociado,estandar,nada,0.85,0.91,0.89,mujer
+103,group_B,preparatoria,estandar,completado,0.6,0.44,0.47,hombre
+104,group_C,algo_de_universidad,estandar,completado,0.98,0.86,0.9,hombre
+105,group_C,algo_de_universidad,estandar,nada,0.58,0.67,0.72,mujer
+106,group_D,mestria,estandar,nada,0.87,1.0,1.0,mujer
+107,group_E,tecnico_asociado,estandar,completado,0.66,0.63,0.64,hombre
+108,group_B,tecnico_asociado,subsidiado,nada,0.52,0.76,0.7,mujer
+109,group_B,algo_de_preparatoria,estandar,nada,0.7,0.64,0.72,mujer
+110,group_D,tecnico_asociado,subsidiado,completado,0.77,0.89,0.98,mujer
+111,group_C,preparatoria,estandar,nada,0.62,0.55,0.49,hombre
+112,group_A,tecnico_asociado,estandar,nada,0.54,0.53,0.47,hombre
+113,group_D,algo_de_universidad,estandar,nada,0.51,0.58,0.54,mujer
+114,group_E,licenciatura,estandar,completado,0.99,1.0,1.0,mujer
+115,group_C,preparatoria,estandar,nada,0.84,0.77,0.74,hombre
+116,group_B,licenciatura,subsidiado,nada,0.75,0.85,0.82,mujer
+117,group_D,licenciatura,estandar,nada,0.78,0.82,0.79,mujer
+118,group_D,algo_de_preparatoria,estandar,nada,0.51,0.63,0.61,mujer
+119,group_C,algo_de_universidad,estandar,nada,0.55,0.69,0.65,mujer
+120,group_C,licenciatura,estandar,completado,0.79,0.92,0.89,mujer
+121,group_B,tecnico_asociado,estandar,completado,0.91,0.89,0.92,hombre
+122,group_C,algo_de_universidad,estandar,completado,0.88,0.93,0.93,mujer
+123,group_D,preparatoria,subsidiado,nada,0.63,0.57,0.56,hombre
+124,group_E,algo_de_universidad,estandar,nada,0.83,0.8,0.73,hombre
+125,group_B,preparatoria,estandar,nada,0.87,0.95,0.86,mujer
+126,group_B,algo_de_preparatoria,estandar,nada,0.72,0.68,0.67,hombre
+127,group_D,algo_de_universidad,estandar,completado,0.65,0.77,0.74,hombre
+128,group_D,mestria,estandar,nada,0.82,0.82,0.74,hombre
+129,group_A,licenciatura,estandar,nada,0.51,0.49,0.51,mujer
+130,group_D,mestria,estandar,nada,0.89,0.84,0.82,hombre
+131,group_C,algo_de_preparatoria,subsidiado,completado,0.53,0.37,0.4,hombre
+132,group_E,algo_de_universidad,subsidiado,completado,0.87,0.74,0.7,hombre
+133,group_C,algo_de_universidad,estandar,completado,0.75,0.81,0.84,mujer
+134,group_D,licenciatura,subsidiado,completado,0.74,0.79,0.75,hombre
+135,group_C,licenciatura,estandar,nada,0.58,0.55,0.48,hombre
+136,group_B,algo_de_preparatoria,estandar,completado,0.51,0.54,0.41,hombre
+137,group_E,preparatoria,estandar,nada,0.7,0.55,0.56,hombre
+138,group_C,tecnico_asociado,estandar,nada,0.59,0.66,0.67,mujer
+139,group_D,algo_de_universidad,estandar,completado,0.71,0.61,0.69,hombre
+140,group_D,algo_de_preparatoria,estandar,nada,0.76,0.72,0.71,mujer
+141,group_C,algo_de_universidad,subsidiado,nada,0.59,0.62,0.64,mujer
+142,group_E,algo_de_universidad,subsidiado,completado,0.42,0.55,0.54,mujer
+143,group_A,preparatoria,estandar,nada,0.57,0.43,0.47,hombre
+144,group_D,algo_de_universidad,estandar,nada,0.88,0.73,0.78,hombre
+145,group_C,algo_de_universidad,subsidiado,nada,0.22,0.39,0.33,mujer
+146,group_B,algo_de_preparatoria,estandar,nada,0.88,0.84,0.75,hombre
+147,group_C,tecnico_asociado,subsidiado,nada,0.73,0.68,0.66,hombre
+148,group_D,licenciatura,estandar,completado,0.68,0.75,0.81,mujer
+149,group_E,tecnico_asociado,subsidiado,completado,1.0,1.0,0.93,hombre
+150,group_A,algo_de_preparatoria,estandar,completado,0.62,0.67,0.69,hombre
+151,group_A,licenciatura,estandar,nada,0.77,0.67,0.68,hombre
+152,group_B,tecnico_asociado,estandar,completado,0.59,0.7,0.66,mujer
+153,group_D,licenciatura,estandar,nada,0.54,0.49,0.47,hombre
+154,group_D,algo_de_preparatoria,estandar,nada,0.62,0.67,0.61,hombre
+155,group_C,algo_de_universidad,estandar,completado,0.7,0.89,0.88,mujer
+156,group_E,preparatoria,subsidiado,completado,0.66,0.74,0.78,mujer
+157,group_B,algo_de_universidad,subsidiado,nada,0.6,0.6,0.6,hombre
+158,group_B,tecnico_asociado,estandar,completado,0.61,0.86,0.87,mujer
+159,group_D,tecnico_asociado,subsidiado,nada,0.66,0.62,0.64,hombre
+160,group_B,tecnico_asociado,subsidiado,completado,0.82,0.78,0.74,hombre
+161,group_E,algo_de_universidad,subsidiado,completado,0.75,0.88,0.85,mujer
+162,group_B,mestria,subsidiado,nada,0.49,0.53,0.52,hombre
+163,group_C,preparatoria,estandar,nada,0.52,0.53,0.49,hombre
+164,group_E,mestria,estandar,nada,0.81,0.92,0.91,mujer
+165,group_C,licenciatura,estandar,completado,0.96,1.0,1.0,mujer
+166,group_C,preparatoria,subsidiado,completado,0.53,0.51,0.51,hombre
+167,group_B,mestria,subsidiado,completado,0.58,0.76,0.78,mujer
+168,group_B,preparatoria,estandar,completado,0.68,0.83,0.78,mujer
+169,group_C,algo_de_universidad,subsidiado,completado,0.67,0.75,0.7,mujer
+170,group_A,preparatoria,estandar,completado,0.72,0.73,0.74,hombre
+171,group_E,algo_de_preparatoria,estandar,nada,0.94,0.88,0.78,hombre
+172,group_D,algo_de_universidad,estandar,nada,0.79,0.86,0.81,mujer
+173,group_C,tecnico_asociado,estandar,nada,0.63,0.67,0.7,mujer
+174,group_C,licenciatura,subsidiado,completado,0.43,0.51,0.54,mujer
+175,group_C,mestria,estandar,completado,0.81,0.91,0.87,mujer
+176,group_B,preparatoria,subsidiado,completado,0.46,0.54,0.58,mujer
+177,group_C,tecnico_asociado,estandar,completado,0.71,0.77,0.77,mujer
+178,group_B,mestria,subsidiado,completado,0.52,0.7,0.62,mujer
+179,group_D,algo_de_preparatoria,estandar,completado,0.97,1.0,1.0,mujer
+180,group_C,mestria,subsidiado,completado,0.62,0.68,0.75,hombre
+181,group_C,algo_de_universidad,subsidiado,nada,0.46,0.64,0.66,mujer
+182,group_E,preparatoria,estandar,nada,0.5,0.5,0.47,mujer
+183,group_D,tecnico_asociado,estandar,nada,0.65,0.69,0.7,mujer
+184,group_C,algo_de_preparatoria,subsidiado,completado,0.45,0.52,0.49,hombre
+185,group_C,tecnico_asociado,subsidiado,completado,0.65,0.67,0.65,hombre
+186,group_E,preparatoria,estandar,nada,0.8,0.76,0.65,hombre
+187,group_D,algo_de_preparatoria,estandar,completado,0.62,0.66,0.68,hombre
+188,group_B,algo_de_preparatoria,subsidiado,nada,0.48,0.52,0.45,hombre
+189,group_C,licenciatura,estandar,nada,0.77,0.88,0.87,mujer
+190,group_E,tecnico_asociado,estandar,nada,0.66,0.65,0.69,mujer
+191,group_D,algo_de_universidad,estandar,completado,0.76,0.83,0.79,hombre
+192,group_B,algo_de_preparatoria,estandar,nada,0.62,0.64,0.66,mujer
+193,group_D,algo_de_universidad,estandar,completado,0.77,0.62,0.62,hombre
+194,group_C,mestria,estandar,completado,0.69,0.84,0.85,mujer
+195,group_D,tecnico_asociado,estandar,nada,0.61,0.55,0.52,hombre
+196,group_C,algo_de_preparatoria,subsidiado,completado,0.59,0.69,0.65,hombre
+197,group_E,preparatoria,subsidiado,nada,0.55,0.56,0.51,hombre
+198,group_B,algo_de_universidad,subsidiado,nada,0.45,0.53,0.55,mujer
+199,group_B,licenciatura,subsidiado,nada,0.78,0.79,0.76,mujer
+200,group_C,tecnico_asociado,estandar,completado,0.67,0.84,0.86,mujer
+201,group_D,algo_de_universidad,subsidiado,nada,0.65,0.81,0.77,mujer
+202,group_C,tecnico_asociado,estandar,nada,0.69,0.77,0.69,hombre
+203,group_B,tecnico_asociado,estandar,nada,0.57,0.69,0.68,mujer
+204,group_C,algo_de_universidad,estandar,nada,0.59,0.41,0.42,hombre
+205,group_D,algo_de_preparatoria,estandar,completado,0.74,0.71,0.78,hombre
+206,group_E,licenciatura,estandar,nada,0.82,0.62,0.62,hombre
+207,group_E,preparatoria,estandar,completado,0.81,0.8,0.76,hombre
+208,group_B,algo_de_universidad,subsidiado,nada,0.74,0.81,0.76,mujer
+209,group_B,algo_de_universidad,subsidiado,nada,0.58,0.61,0.66,mujer
+210,group_D,algo_de_preparatoria,subsidiado,completado,0.8,0.79,0.79,hombre
+211,group_C,algo_de_universidad,subsidiado,nada,0.35,0.28,0.27,hombre
+212,group_C,preparatoria,subsidiado,nada,0.42,0.62,0.6,mujer
+213,group_C,tecnico_asociado,subsidiado,completado,0.6,0.51,0.56,hombre
+214,group_E,preparatoria,estandar,completado,0.87,0.91,0.81,hombre
+215,group_B,algo_de_preparatoria,estandar,completado,0.84,0.83,0.75,hombre
+216,group_E,tecnico_asociado,subsidiado,completado,0.83,0.86,0.88,mujer
+217,group_C,preparatoria,subsidiado,nada,0.34,0.42,0.39,mujer
+218,group_B,preparatoria,subsidiado,nada,0.66,0.77,0.7,hombre
+219,group_B,algo_de_preparatoria,estandar,completado,0.61,0.56,0.56,hombre
+220,group_D,preparatoria,estandar,completado,0.56,0.68,0.74,mujer
+221,group_B,tecnico_asociado,estandar,nada,0.87,0.85,0.73,hombre
+222,group_C,algo_de_preparatoria,subsidiado,nada,0.55,0.65,0.62,mujer
+223,group_D,algo_de_preparatoria,estandar,nada,0.86,0.8,0.75,hombre
+224,group_B,tecnico_asociado,estandar,completado,0.52,0.66,0.73,mujer
+225,group_E,mestria,subsidiado,nada,0.45,0.56,0.54,mujer
+226,group_C,algo_de_universidad,estandar,nada,0.72,0.72,0.71,mujer
+227,group_D,preparatoria,estandar,nada,0.57,0.5,0.54,hombre
+228,group_A,algo_de_preparatoria,subsidiado,nada,0.68,0.72,0.64,hombre
+229,group_C,algo_de_universidad,estandar,completado,0.88,0.95,0.94,mujer
+230,group_D,algo_de_universidad,estandar,nada,0.76,0.64,0.66,hombre
+231,group_C,tecnico_asociado,estandar,nada,0.46,0.43,0.42,hombre
+232,group_B,licenciatura,estandar,nada,0.67,0.86,0.83,mujer
+233,group_E,algo_de_preparatoria,estandar,nada,0.92,0.87,0.78,hombre
+234,group_C,licenciatura,estandar,completado,0.83,0.82,0.84,hombre
+235,group_D,tecnico_asociado,estandar,nada,0.8,0.75,0.77,hombre
+236,group_D,licenciatura,subsidiado,nada,0.63,0.66,0.67,hombre
+237,group_D,algo_de_preparatoria,estandar,completado,0.64,0.6,0.74,mujer
+238,group_B,algo_de_universidad,estandar,nada,0.54,0.52,0.51,hombre
+239,group_C,tecnico_asociado,estandar,nada,0.84,0.8,0.8,hombre
+240,group_D,preparatoria,subsidiado,completado,0.73,0.68,0.66,hombre
+241,group_E,licenciatura,estandar,nada,0.8,0.83,0.83,mujer
+242,group_D,preparatoria,estandar,nada,0.56,0.52,0.55,mujer
+243,group_E,algo_de_universidad,estandar,nada,0.59,0.51,0.43,hombre
+244,group_D,algo_de_preparatoria,estandar,nada,0.75,0.74,0.69,hombre
+245,group_C,tecnico_asociado,estandar,nada,0.85,0.76,0.71,hombre
+246,group_E,tecnico_asociado,estandar,nada,0.89,0.76,0.74,hombre
+247,group_B,preparatoria,estandar,completado,0.58,0.7,0.68,mujer
+248,group_B,preparatoria,estandar,nada,0.65,0.64,0.62,mujer
+249,group_C,preparatoria,estandar,nada,0.68,0.6,0.53,hombre
+250,group_A,algo_de_preparatoria,estandar,completado,0.47,0.49,0.49,hombre
+251,group_D,algo_de_universidad,subsidiado,nada,0.71,0.83,0.83,mujer
+252,group_B,algo_de_preparatoria,estandar,completado,0.6,0.7,0.7,mujer
+253,group_D,mestria,estandar,nada,0.8,0.8,0.72,hombre
+254,group_D,preparatoria,estandar,nada,0.54,0.52,0.52,hombre
+255,group_E,algo_de_universidad,estandar,nada,0.62,0.73,0.7,mujer
+256,group_C,tecnico_asociado,subsidiado,nada,0.64,0.73,0.68,mujer
+257,group_C,tecnico_asociado,estandar,completado,0.78,0.77,0.77,hombre
+258,group_B,algo_de_universidad,estandar,nada,0.7,0.75,0.78,mujer
+259,group_C,mestria,subsidiado,completado,0.65,0.81,0.81,mujer
+260,group_C,algo_de_preparatoria,subsidiado,completado,0.64,0.79,0.77,mujer
+261,group_C,algo_de_universidad,estandar,completado,0.79,0.79,0.78,hombre
+262,group_C,algo_de_preparatoria,subsidiado,nada,0.44,0.5,0.51,mujer
+263,group_E,preparatoria,estandar,nada,0.99,0.93,0.9,mujer
+264,group_D,preparatoria,estandar,nada,0.76,0.73,0.68,hombre
+265,group_D,algo_de_preparatoria,subsidiado,nada,0.59,0.42,0.41,hombre
+266,group_C,licenciatura,estandar,nada,0.63,0.75,0.81,mujer
+267,group_D,preparatoria,estandar,nada,0.69,0.72,0.77,mujer
+268,group_D,tecnico_asociado,estandar,completado,0.88,0.92,0.95,mujer
+269,group_E,algo_de_universidad,subsidiado,nada,0.71,0.76,0.7,mujer
+270,group_C,licenciatura,estandar,nada,0.69,0.63,0.61,hombre
+271,group_C,algo_de_universidad,estandar,nada,0.58,0.49,0.42,hombre
+272,group_D,tecnico_asociado,subsidiado,nada,0.47,0.53,0.58,mujer
+273,group_D,algo_de_universidad,estandar,nada,0.65,0.7,0.71,mujer
+274,group_B,algo_de_universidad,estandar,completado,0.88,0.85,0.76,hombre
+275,group_C,licenciatura,estandar,nada,0.83,0.78,0.73,hombre
+276,group_C,algo_de_preparatoria,estandar,completado,0.85,0.92,0.93,mujer
+277,group_E,preparatoria,estandar,completado,0.59,0.63,0.75,mujer
+278,group_C,algo_de_preparatoria,subsidiado,nada,0.65,0.86,0.8,mujer
+279,group_B,licenciatura,subsidiado,nada,0.73,0.56,0.57,hombre
+280,group_D,preparatoria,estandar,nada,0.53,0.52,0.42,hombre
+281,group_D,preparatoria,estandar,nada,0.45,0.48,0.46,hombre
+282,group_D,licenciatura,subsidiado,nada,0.73,0.79,0.84,mujer
+283,group_D,algo_de_universidad,subsidiado,completado,0.7,0.78,0.78,mujer
+284,group_B,algo_de_preparatoria,estandar,nada,0.37,0.46,0.46,mujer
+285,group_B,tecnico_asociado,estandar,completado,0.81,0.82,0.82,hombre
+286,group_E,tecnico_asociado,estandar,completado,0.97,0.82,0.88,hombre
+287,group_B,algo_de_preparatoria,estandar,nada,0.67,0.89,0.82,mujer
+288,group_B,licenciatura,subsidiado,nada,0.88,0.75,0.76,hombre
+289,group_E,algo_de_preparatoria,estandar,completado,0.77,0.76,0.77,hombre
+290,group_C,tecnico_asociado,estandar,nada,0.76,0.7,0.68,hombre
+291,group_D,algo_de_preparatoria,estandar,nada,0.86,0.73,0.7,hombre
+292,group_C,algo_de_preparatoria,estandar,completado,0.63,0.6,0.57,hombre
+293,group_E,licenciatura,estandar,nada,0.65,0.73,0.75,mujer
+294,group_D,preparatoria,subsidiado,completado,0.78,0.77,0.8,hombre
+295,group_B,tecnico_asociado,subsidiado,nada,0.67,0.62,0.6,hombre
+296,group_A,algo_de_preparatoria,estandar,completado,0.46,0.41,0.43,hombre
+297,group_E,tecnico_asociado,estandar,completado,0.71,0.74,0.68,hombre
+298,group_C,preparatoria,subsidiado,completado,0.4,0.46,0.5,hombre
+299,group_D,tecnico_asociado,subsidiado,nada,0.9,0.87,0.75,hombre
+300,group_A,algo_de_universidad,subsidiado,completado,0.81,0.78,0.81,hombre
+301,group_D,algo_de_preparatoria,subsidiado,nada,0.56,0.54,0.52,hombre
+302,group_C,tecnico_asociado,estandar,completado,0.67,0.84,0.81,mujer
+303,group_B,tecnico_asociado,estandar,nada,0.8,0.76,0.64,hombre
+304,group_C,tecnico_asociado,estandar,completado,0.74,0.75,0.83,mujer
+305,group_A,algo_de_universidad,estandar,nada,0.69,0.67,0.69,hombre
+306,group_E,algo_de_universidad,estandar,completado,0.99,0.87,0.81,hombre
+307,group_C,algo_de_preparatoria,estandar,nada,0.51,0.52,0.44,hombre
+308,group_B,tecnico_asociado,subsidiado,nada,0.53,0.71,0.67,mujer
+309,group_D,preparatoria,subsidiado,nada,0.49,0.57,0.52,mujer
+310,group_B,tecnico_asociado,estandar,nada,0.73,0.76,0.8,mujer
+311,group_B,licenciatura,estandar,nada,0.66,0.6,0.57,hombre
+312,group_D,licenciatura,estandar,completado,0.67,0.61,0.68,hombre
+313,group_C,tecnico_asociado,subsidiado,completado,0.68,0.67,0.69,mujer
+314,group_C,licenciatura,estandar,completado,0.59,0.64,0.75,mujer
+315,group_C,preparatoria,estandar,nada,0.71,0.66,0.65,hombre
+316,group_D,mestria,estandar,completado,0.77,0.82,0.91,mujer
+317,group_C,tecnico_asociado,estandar,nada,0.83,0.72,0.78,hombre
+318,group_B,licenciatura,estandar,nada,0.63,0.71,0.69,hombre
+319,group_D,tecnico_asociado,subsidiado,nada,0.56,0.65,0.63,mujer
+320,group_C,preparatoria,subsidiado,completado,0.67,0.79,0.84,mujer
+321,group_E,preparatoria,estandar,nada,0.75,0.86,0.79,mujer
+322,group_C,algo_de_universidad,estandar,nada,0.71,0.81,0.8,mujer
+323,group_C,algo_de_preparatoria,subsidiado,nada,0.43,0.53,0.53,mujer
+324,group_C,preparatoria,subsidiado,nada,0.41,0.46,0.43,mujer
+325,group_C,algo_de_universidad,estandar,nada,0.82,0.9,0.94,mujer
+326,group_C,algo_de_universidad,estandar,nada,0.61,0.61,0.62,hombre
+327,group_A,algo_de_universidad,subsidiado,nada,0.28,0.23,0.19,hombre
+328,group_C,tecnico_asociado,estandar,completado,0.82,0.75,0.77,hombre
+329,group_B,algo_de_preparatoria,estandar,nada,0.41,0.55,0.51,mujer
+330,group_C,preparatoria,estandar,nada,0.71,0.6,0.61,hombre
+331,group_C,tecnico_asociado,estandar,nada,0.47,0.37,0.35,hombre
+332,group_E,tecnico_asociado,estandar,completado,0.62,0.56,0.53,hombre
+333,group_B,tecnico_asociado,estandar,nada,0.9,0.78,0.81,hombre
+334,group_C,licenciatura,estandar,nada,0.83,0.93,0.95,mujer
+335,group_B,algo_de_universidad,subsidiado,nada,0.61,0.68,0.66,mujer
+336,group_D,algo_de_preparatoria,estandar,completado,0.76,0.7,0.69,hombre
+337,group_C,tecnico_asociado,estandar,nada,0.49,0.51,0.43,hombre
+338,group_B,algo_de_preparatoria,subsidiado,nada,0.24,0.38,0.27,mujer
+339,group_D,algo_de_preparatoria,subsidiado,completado,0.35,0.55,0.6,mujer
+340,group_C,preparatoria,subsidiado,nada,0.58,0.61,0.52,hombre
+341,group_C,preparatoria,estandar,nada,0.61,0.73,0.63,mujer
+342,group_B,preparatoria,estandar,completado,0.69,0.76,0.74,mujer
+343,group_D,tecnico_asociado,estandar,completado,0.67,0.72,0.67,hombre
+344,group_D,algo_de_universidad,estandar,nada,0.79,0.73,0.67,hombre
+345,group_C,preparatoria,estandar,nada,0.72,0.8,0.75,mujer
+346,group_B,algo_de_universidad,estandar,nada,0.62,0.61,0.57,hombre
+347,group_C,licenciatura,estandar,completado,0.77,0.94,0.95,mujer
+348,group_D,preparatoria,subsidiado,nada,0.75,0.74,0.66,hombre
+349,group_E,tecnico_asociado,estandar,nada,0.87,0.74,0.76,hombre
+350,group_B,licenciatura,estandar,nada,0.52,0.65,0.69,mujer
+351,group_E,algo_de_universidad,estandar,nada,0.66,0.57,0.52,hombre
+352,group_C,algo_de_universidad,estandar,completado,0.63,0.78,0.8,mujer
+353,group_C,tecnico_asociado,estandar,nada,0.46,0.58,0.57,mujer
+354,group_C,algo_de_universidad,estandar,nada,0.59,0.71,0.7,mujer
+355,group_B,licenciatura,estandar,nada,0.61,0.72,0.7,mujer
+356,group_A,tecnico_asociado,estandar,nada,0.63,0.61,0.61,hombre
+357,group_C,algo_de_universidad,subsidiado,completado,0.42,0.66,0.69,mujer
+358,group_D,algo_de_universidad,subsidiado,nada,0.59,0.62,0.61,hombre
+359,group_D,algo_de_universidad,estandar,nada,0.8,0.9,0.89,mujer
+360,group_B,preparatoria,estandar,nada,0.58,0.62,0.59,mujer
+361,group_B,algo_de_preparatoria,estandar,completado,0.85,0.84,0.78,hombre
+362,group_C,algo_de_universidad,estandar,nada,0.52,0.58,0.58,mujer
+363,group_D,algo_de_preparatoria,subsidiado,nada,0.27,0.34,0.32,mujer
+364,group_C,algo_de_universidad,estandar,nada,0.59,0.6,0.58,hombre
+365,group_A,licenciatura,subsidiado,completado,0.49,0.58,0.6,hombre
+366,group_C,preparatoria,estandar,completado,0.69,0.58,0.53,hombre
+367,group_C,licenciatura,subsidiado,nada,0.61,0.66,0.61,hombre
+368,group_A,algo_de_preparatoria,subsidiado,nada,0.44,0.64,0.58,mujer
+369,group_D,algo_de_preparatoria,estandar,nada,0.73,0.84,0.85,mujer
+370,group_E,algo_de_universidad,estandar,nada,0.84,0.77,0.71,hombre
+371,group_C,algo_de_universidad,subsidiado,completado,0.45,0.73,0.7,mujer
+372,group_D,algo_de_preparatoria,estandar,nada,0.74,0.74,0.72,hombre
+373,group_D,algo_de_universidad,estandar,completado,0.82,0.97,0.96,mujer
+374,group_D,licenciatura,estandar,nada,0.59,0.7,0.73,mujer
+375,group_E,tecnico_asociado,subsidiado,nada,0.46,0.43,0.41,hombre
+376,group_D,algo_de_preparatoria,estandar,nada,0.8,0.9,0.82,mujer
+377,group_D,mestria,subsidiado,completado,0.85,0.95,1.0,mujer
+378,group_A,algo_de_preparatoria,estandar,nada,0.71,0.83,0.77,mujer
+379,group_A,licenciatura,estandar,nada,0.66,0.64,0.62,hombre
+380,group_B,tecnico_asociado,estandar,nada,0.8,0.86,0.83,mujer
+381,group_C,tecnico_asociado,estandar,completado,0.87,1.0,0.95,hombre
+382,group_C,mestria,subsidiado,nada,0.79,0.81,0.71,hombre
+383,group_E,algo_de_preparatoria,subsidiado,nada,0.38,0.49,0.45,mujer
+384,group_A,algo_de_preparatoria,subsidiado,nada,0.38,0.43,0.43,mujer
+385,group_E,algo_de_universidad,estandar,nada,0.67,0.76,0.75,mujer
+386,group_E,licenciatura,estandar,nada,0.64,0.73,0.7,mujer
+387,group_C,tecnico_asociado,subsidiado,nada,0.57,0.78,0.67,mujer
+388,group_D,preparatoria,estandar,nada,0.62,0.64,0.64,mujer
+389,group_D,mestria,estandar,nada,0.73,0.7,0.75,hombre
+390,group_E,algo_de_preparatoria,subsidiado,completado,0.73,0.67,0.59,hombre
+391,group_D,algo_de_universidad,estandar,nada,0.77,0.68,0.77,mujer
+392,group_E,algo_de_universidad,estandar,nada,0.76,0.67,0.67,hombre
+393,group_C,tecnico_asociado,estandar,completado,0.57,0.54,0.56,hombre
+394,group_C,algo_de_preparatoria,estandar,completado,0.65,0.74,0.77,mujer
+395,group_A,preparatoria,subsidiado,nada,0.48,0.45,0.41,hombre
+396,group_B,preparatoria,subsidiado,nada,0.5,0.67,0.63,mujer
+397,group_C,tecnico_asociado,estandar,nada,0.85,0.89,0.95,mujer
+398,group_B,algo_de_preparatoria,estandar,nada,0.74,0.63,0.57,hombre
+399,group_D,algo_de_preparatoria,estandar,nada,0.6,0.59,0.54,hombre
+400,group_C,algo_de_preparatoria,estandar,completado,0.59,0.54,0.67,mujer
+401,group_A,algo_de_universidad,estandar,nada,0.53,0.43,0.43,hombre
+402,group_A,algo_de_universidad,subsidiado,nada,0.49,0.65,0.55,mujer
+403,group_D,preparatoria,estandar,completado,0.88,0.99,1.0,mujer
+404,group_C,preparatoria,estandar,nada,0.54,0.59,0.62,mujer
+405,group_C,algo_de_preparatoria,estandar,nada,0.63,0.73,0.68,mujer
+406,group_B,tecnico_asociado,estandar,completado,0.65,0.65,0.63,hombre
+407,group_B,tecnico_asociado,estandar,nada,0.82,0.8,0.77,mujer
+408,group_D,preparatoria,subsidiado,completado,0.52,0.57,0.56,mujer
+409,group_D,tecnico_asociado,estandar,completado,0.87,0.84,0.85,hombre
+410,group_D,mestria,estandar,completado,0.7,0.71,0.74,mujer
+411,group_E,algo_de_universidad,estandar,completado,0.84,0.83,0.78,hombre
+412,group_D,tecnico_asociado,estandar,nada,0.71,0.66,0.6,hombre
+413,group_B,algo_de_preparatoria,estandar,completado,0.63,0.67,0.67,hombre
+414,group_C,licenciatura,subsidiado,completado,0.51,0.72,0.79,mujer
+415,group_E,preparatoria,estandar,nada,0.84,0.73,0.69,hombre
+416,group_C,licenciatura,estandar,completado,0.71,0.74,0.68,hombre
+417,group_C,tecnico_asociado,estandar,nada,0.74,0.73,0.67,hombre
+418,group_D,algo_de_universidad,estandar,nada,0.68,0.59,0.62,hombre
+419,group_E,preparatoria,subsidiado,completado,0.57,0.56,0.54,hombre
+420,group_C,tecnico_asociado,subsidiado,completado,0.82,0.93,0.93,mujer
+421,group_D,preparatoria,estandar,completado,0.57,0.58,0.64,mujer
+422,group_D,mestria,subsidiado,completado,0.47,0.58,0.67,mujer
+423,group_A,algo_de_preparatoria,estandar,completado,0.59,0.85,0.8,mujer
+424,group_B,algo_de_universidad,subsidiado,nada,0.41,0.39,0.34,hombre
+425,group_C,algo_de_universidad,subsidiado,nada,0.62,0.67,0.62,mujer
+426,group_C,licenciatura,estandar,nada,0.86,0.83,0.86,hombre
+427,group_C,algo_de_preparatoria,subsidiado,nada,0.69,0.71,0.65,hombre
+428,group_A,algo_de_preparatoria,subsidiado,nada,0.65,0.59,0.53,hombre
+429,group_C,algo_de_preparatoria,subsidiado,nada,0.68,0.63,0.54,hombre
+430,group_C,tecnico_asociado,subsidiado,nada,0.64,0.66,0.59,hombre
+431,group_C,preparatoria,estandar,nada,0.61,0.72,0.7,mujer
+432,group_C,preparatoria,estandar,nada,0.61,0.56,0.55,hombre
+433,group_A,algo_de_preparatoria,subsidiado,nada,0.47,0.59,0.5,mujer
+434,group_C,algo_de_preparatoria,estandar,nada,0.73,0.66,0.66,hombre
+435,group_C,algo_de_universidad,subsidiado,completado,0.5,0.48,0.53,hombre
+436,group_D,tecnico_asociado,estandar,nada,0.75,0.68,0.64,hombre
+437,group_D,tecnico_asociado,subsidiado,nada,0.75,0.66,0.73,hombre
+438,group_C,preparatoria,estandar,nada,0.7,0.56,0.51,hombre
+439,group_D,algo_de_preparatoria,estandar,completado,0.89,0.88,0.82,hombre
+440,group_C,algo_de_universidad,estandar,completado,0.67,0.81,0.79,mujer
+441,group_D,preparatoria,estandar,nada,0.78,0.81,0.8,mujer
+442,group_A,algo_de_preparatoria,subsidiado,nada,0.59,0.73,0.69,mujer
+443,group_B,tecnico_asociado,estandar,nada,0.73,0.83,0.76,mujer
+444,group_A,algo_de_preparatoria,subsidiado,nada,0.79,0.82,0.73,hombre
+445,group_C,algo_de_preparatoria,estandar,completado,0.67,0.74,0.77,mujer
+446,group_D,algo_de_universidad,subsidiado,nada,0.69,0.66,0.6,hombre
+447,group_C,preparatoria,estandar,completado,0.86,0.81,0.8,hombre
+448,group_B,preparatoria,estandar,nada,0.47,0.46,0.42,hombre
+449,group_B,tecnico_asociado,estandar,nada,0.81,0.73,0.72,hombre
+450,group_C,algo_de_universidad,subsidiado,completado,0.64,0.85,0.85,mujer
+451,group_E,algo_de_universidad,estandar,nada,1.0,0.92,0.97,mujer
+452,group_C,tecnico_asociado,subsidiado,nada,0.65,0.77,0.74,mujer
+453,group_C,algo_de_universidad,subsidiado,nada,0.65,0.58,0.49,hombre
+454,group_C,tecnico_asociado,subsidiado,nada,0.53,0.61,0.62,mujer
+455,group_C,licenciatura,subsidiado,nada,0.37,0.56,0.47,hombre
+456,group_D,licenciatura,estandar,nada,0.79,0.89,0.89,mujer
+457,group_D,tecnico_asociado,subsidiado,nada,0.53,0.54,0.48,hombre
+458,group_E,licenciatura,estandar,nada,1.0,1.0,1.0,mujer
+459,group_B,preparatoria,estandar,completado,0.72,0.65,0.68,hombre
+460,group_C,licenciatura,subsidiado,nada,0.53,0.58,0.55,hombre
+461,group_B,algo_de_universidad,subsidiado,nada,0.54,0.54,0.45,hombre
+462,group_E,algo_de_universidad,estandar,nada,0.71,0.7,0.76,mujer
+463,group_C,algo_de_universidad,subsidiado,nada,0.77,0.9,0.91,mujer
+464,group_A,licenciatura,estandar,completado,0.75,0.58,0.62,hombre
+465,group_C,algo_de_universidad,estandar,nada,0.84,0.87,0.91,mujer
+466,group_D,tecnico_asociado,subsidiado,nada,0.26,0.31,0.38,mujer
+467,group_A,preparatoria,subsidiado,completado,0.72,0.67,0.65,hombre
+468,group_A,preparatoria,subsidiado,completado,0.77,0.88,0.85,mujer
+469,group_C,algo_de_universidad,estandar,nada,0.91,0.74,0.76,hombre
+470,group_C,tecnico_asociado,estandar,completado,0.83,0.85,0.9,mujer
+471,group_C,preparatoria,estandar,nada,0.63,0.69,0.74,mujer
+472,group_C,tecnico_asociado,estandar,completado,0.68,0.86,0.84,mujer
+473,group_D,algo_de_preparatoria,estandar,nada,0.59,0.67,0.61,mujer
+474,group_B,tecnico_asociado,estandar,completado,0.9,0.9,0.91,mujer
+475,group_D,licenciatura,estandar,completado,0.71,0.76,0.83,mujer
+476,group_E,licenciatura,estandar,completado,0.76,0.62,0.66,hombre
+477,group_D,tecnico_asociado,estandar,nada,0.8,0.68,0.72,hombre
+478,group_D,mestria,estandar,nada,0.55,0.64,0.7,mujer
+479,group_E,tecnico_asociado,estandar,nada,0.76,0.71,0.67,hombre
+480,group_B,preparatoria,estandar,completado,0.73,0.71,0.68,hombre
+481,group_D,tecnico_asociado,subsidiado,nada,0.52,0.59,0.56,mujer
+482,group_C,algo_de_universidad,subsidiado,nada,0.68,0.68,0.61,hombre
+483,group_A,preparatoria,estandar,nada,0.59,0.52,0.46,hombre
+484,group_B,tecnico_asociado,estandar,nada,0.49,0.52,0.54,mujer
+485,group_C,preparatoria,estandar,nada,0.7,0.74,0.71,hombre
+486,group_D,algo_de_universidad,subsidiado,nada,0.61,0.47,0.56,hombre
+487,group_C,tecnico_asociado,subsidiado,nada,0.6,0.75,0.74,mujer
+488,group_B,algo_de_preparatoria,estandar,completado,0.64,0.53,0.57,hombre
+489,group_A,tecnico_asociado,subsidiado,completado,0.79,0.82,0.82,hombre
+490,group_A,tecnico_asociado,subsidiado,nada,0.65,0.85,0.76,mujer
+491,group_C,tecnico_asociado,estandar,nada,0.64,0.64,0.7,mujer
+492,group_C,algo_de_universidad,estandar,nada,0.83,0.83,0.9,mujer
+493,group_C,licenciatura,estandar,nada,0.81,0.88,0.9,mujer
+494,group_B,preparatoria,estandar,nada,0.54,0.64,0.68,mujer
+495,group_D,preparatoria,estandar,completado,0.68,0.64,0.66,hombre
+496,group_C,algo_de_universidad,estandar,nada,0.54,0.48,0.52,mujer
+497,group_D,algo_de_universidad,subsidiado,completado,0.59,0.78,0.76,mujer
+498,group_B,algo_de_preparatoria,estandar,nada,0.66,0.69,0.68,mujer
+499,group_E,algo_de_universidad,estandar,nada,0.76,0.71,0.72,hombre
+500,group_D,mestria,estandar,nada,0.74,0.79,0.82,mujer
+501,group_B,tecnico_asociado,estandar,completado,0.94,0.87,0.92,mujer
+502,group_C,algo_de_universidad,subsidiado,nada,0.63,0.61,0.54,hombre
+503,group_E,tecnico_asociado,estandar,completado,0.95,0.89,0.92,mujer
+504,group_D,mestria,subsidiado,nada,0.4,0.59,0.54,mujer
+505,group_B,algo_de_preparatoria,estandar,nada,0.82,0.82,0.8,mujer
+506,group_A,preparatoria,estandar,nada,0.68,0.7,0.66,hombre
+507,group_B,licenciatura,subsidiado,nada,0.55,0.59,0.54,hombre
+508,group_C,mestria,estandar,nada,0.79,0.78,0.77,hombre
+509,group_C,licenciatura,estandar,nada,0.86,0.92,0.87,mujer
+510,group_D,algo_de_universidad,estandar,nada,0.76,0.71,0.73,hombre
+511,group_A,algo_de_preparatoria,estandar,nada,0.64,0.5,0.43,hombre
+512,group_D,algo_de_preparatoria,subsidiado,nada,0.62,0.49,0.52,hombre
+513,group_B,algo_de_preparatoria,estandar,completado,0.54,0.61,0.62,mujer
+514,group_B,mestria,subsidiado,completado,0.77,0.97,0.94,mujer
+515,group_C,algo_de_preparatoria,estandar,completado,0.76,0.87,0.85,mujer
+516,group_D,algo_de_universidad,estandar,nada,0.74,0.89,0.84,mujer
+517,group_E,algo_de_universidad,estandar,completado,0.66,0.74,0.73,mujer
+518,group_D,algo_de_preparatoria,estandar,completado,0.66,0.78,0.78,mujer
+519,group_B,preparatoria,subsidiado,completado,0.67,0.78,0.79,mujer
+520,group_D,algo_de_universidad,estandar,nada,0.71,0.49,0.52,hombre
+521,group_C,tecnico_asociado,estandar,nada,0.91,0.86,0.84,mujer
+522,group_D,licenciatura,estandar,nada,0.69,0.58,0.57,hombre
+523,group_C,mestria,subsidiado,nada,0.54,0.59,0.5,hombre
+524,group_C,preparatoria,estandar,completado,0.53,0.52,0.49,hombre
+525,group_E,algo_de_universidad,estandar,nada,0.68,0.6,0.59,hombre
+526,group_C,algo_de_preparatoria,subsidiado,completado,0.56,0.61,0.6,hombre
+527,group_C,preparatoria,subsidiado,nada,0.36,0.53,0.43,mujer
+528,group_D,licenciatura,subsidiado,nada,0.29,0.41,0.47,mujer
+529,group_C,tecnico_asociado,estandar,nada,0.62,0.74,0.7,mujer
+530,group_C,tecnico_asociado,estandar,completado,0.68,0.67,0.73,mujer
+531,group_C,algo_de_preparatoria,estandar,nada,0.47,0.54,0.53,mujer
+532,group_E,tecnico_asociado,estandar,completado,0.62,0.61,0.58,hombre
+533,group_E,tecnico_asociado,estandar,completado,0.79,0.88,0.94,mujer
+534,group_B,preparatoria,estandar,completado,0.73,0.69,0.68,hombre
+535,group_C,licenciatura,subsidiado,completado,0.66,0.83,0.83,mujer
+536,group_C,tecnico_asociado,estandar,completado,0.51,0.6,0.58,hombre
+537,group_D,preparatoria,estandar,nada,0.51,0.66,0.62,mujer
+538,group_E,licenciatura,estandar,completado,0.85,0.66,0.71,hombre
+539,group_A,tecnico_asociado,estandar,completado,0.97,0.92,0.86,hombre
+540,group_C,preparatoria,estandar,completado,0.75,0.69,0.68,hombre
+541,group_D,tecnico_asociado,subsidiado,completado,0.79,0.82,0.8,hombre
+542,group_C,tecnico_asociado,estandar,nada,0.81,0.77,0.79,mujer
+543,group_D,tecnico_asociado,estandar,nada,0.82,0.95,0.89,mujer
+544,group_D,mestria,estandar,nada,0.64,0.63,0.66,mujer
+545,group_E,algo_de_preparatoria,subsidiado,completado,0.78,0.83,0.8,hombre
+546,group_A,algo_de_preparatoria,estandar,completado,0.92,1.0,0.97,mujer
+547,group_C,preparatoria,estandar,completado,0.72,0.67,0.64,hombre
+548,group_C,preparatoria,subsidiado,nada,0.62,0.67,0.64,mujer
+549,group_C,mestria,estandar,nada,0.79,0.72,0.69,hombre
+550,group_C,algo_de_preparatoria,subsidiado,nada,0.79,0.76,0.65,hombre
+551,group_B,licenciatura,subsidiado,completado,0.87,0.9,0.88,hombre
+552,group_B,tecnico_asociado,estandar,nada,0.4,0.48,0.5,mujer
+553,group_D,algo_de_universidad,subsidiado,nada,0.77,0.62,0.64,hombre
+554,group_E,tecnico_asociado,estandar,nada,0.53,0.45,0.4,hombre
+555,group_C,algo_de_universidad,subsidiado,nada,0.32,0.39,0.33,mujer
+556,group_C,tecnico_asociado,estandar,completado,0.55,0.72,0.79,mujer
+557,group_C,mestria,subsidiado,nada,0.61,0.67,0.66,hombre
+558,group_B,tecnico_asociado,subsidiado,nada,0.53,0.7,0.7,mujer
+559,group_D,algo_de_preparatoria,estandar,nada,0.73,0.66,0.62,hombre
+560,group_D,algo_de_universidad,estandar,completado,0.74,0.75,0.79,mujer
+561,group_C,algo_de_universidad,estandar,nada,0.63,0.74,0.74,mujer
+562,group_C,licenciatura,estandar,completado,0.96,0.9,0.92,hombre
+563,group_D,algo_de_universidad,subsidiado,completado,0.63,0.8,0.8,mujer
+564,group_B,licenciatura,subsidiado,nada,0.48,0.51,0.46,hombre
+565,group_B,tecnico_asociado,estandar,nada,0.48,0.43,0.45,hombre
+566,group_E,licenciatura,subsidiado,completado,0.92,1.0,1.0,mujer
+567,group_D,mestria,subsidiado,completado,0.61,0.71,0.78,mujer
+568,group_B,preparatoria,subsidiado,nada,0.63,0.48,0.47,hombre
+569,group_D,licenciatura,subsidiado,nada,0.68,0.68,0.67,hombre
+570,group_B,algo_de_universidad,estandar,completado,0.71,0.75,0.7,hombre
+571,group_A,licenciatura,estandar,nada,0.91,0.96,0.92,hombre
+572,group_C,algo_de_universidad,estandar,nada,0.53,0.62,0.56,mujer
+573,group_C,preparatoria,subsidiado,completado,0.5,0.66,0.64,mujer
+574,group_E,preparatoria,estandar,nada,0.74,0.81,0.71,mujer
+575,group_A,tecnico_asociado,subsidiado,completado,0.4,0.55,0.53,hombre
+576,group_A,algo_de_universidad,estandar,completado,0.61,0.51,0.52,hombre
+577,group_B,preparatoria,estandar,nada,0.81,0.91,0.89,mujer
+578,group_B,algo_de_universidad,subsidiado,completado,0.48,0.56,0.58,mujer
+579,group_D,mestria,estandar,nada,0.53,0.61,0.68,mujer
+580,group_D,algo_de_preparatoria,estandar,nada,0.81,0.97,0.96,mujer
+581,group_E,algo_de_preparatoria,estandar,nada,0.77,0.79,0.8,mujer
+582,group_D,licenciatura,subsidiado,nada,0.63,0.73,0.78,mujer
+583,group_D,tecnico_asociado,estandar,completado,0.73,0.75,0.8,mujer
+584,group_D,algo_de_universidad,estandar,nada,0.69,0.77,0.77,mujer
+585,group_C,tecnico_asociado,estandar,nada,0.65,0.76,0.76,mujer
+586,group_A,preparatoria,estandar,nada,0.55,0.73,0.73,mujer
+587,group_C,licenciatura,subsidiado,nada,0.44,0.63,0.62,mujer
+588,group_C,algo_de_universidad,estandar,nada,0.54,0.64,0.65,mujer
+589,group_A,algo_de_preparatoria,estandar,nada,0.48,0.66,0.65,mujer
+590,group_C,algo_de_universidad,subsidiado,nada,0.58,0.57,0.54,hombre
+591,group_A,algo_de_preparatoria,estandar,nada,0.71,0.62,0.5,hombre
+592,group_E,licenciatura,estandar,nada,0.68,0.68,0.64,hombre
+593,group_E,preparatoria,estandar,nada,0.74,0.76,0.73,mujer
+594,group_C,licenciatura,estandar,completado,0.92,1.0,0.99,mujer
+595,group_C,licenciatura,estandar,completado,0.56,0.79,0.72,mujer
+596,group_B,preparatoria,subsidiado,nada,0.3,0.24,0.15,hombre
+597,group_A,algo_de_preparatoria,estandar,nada,0.53,0.54,0.48,hombre
+598,group_D,preparatoria,estandar,nada,0.69,0.77,0.73,mujer
+599,group_D,algo_de_preparatoria,estandar,nada,0.65,0.82,0.81,mujer
+600,group_D,mestria,estandar,nada,0.54,0.6,0.63,mujer
+601,group_C,preparatoria,estandar,nada,0.29,0.29,0.3,mujer
+602,group_E,algo_de_universidad,estandar,nada,0.76,0.78,0.8,mujer
+603,group_D,preparatoria,subsidiado,nada,0.6,0.57,0.51,hombre
+604,group_D,mestria,subsidiado,completado,0.84,0.89,0.9,hombre
+605,group_C,algo_de_preparatoria,estandar,nada,0.75,0.72,0.62,hombre
+606,group_C,tecnico_asociado,estandar,nada,0.85,0.84,0.82,mujer
+607,group_C,mestria,subsidiado,nada,0.4,0.58,0.54,mujer
+608,group_E,algo_de_universidad,estandar,nada,0.61,0.64,0.62,mujer
+609,group_B,tecnico_asociado,estandar,nada,0.58,0.63,0.65,mujer
+610,group_D,algo_de_universidad,subsidiado,completado,0.69,0.6,0.63,hombre
+611,group_C,algo_de_universidad,estandar,nada,0.58,0.59,0.66,mujer
+612,group_C,licenciatura,estandar,completado,0.94,0.9,0.91,hombre
+613,group_C,tecnico_asociado,estandar,nada,0.65,0.77,0.74,mujer
+614,group_A,tecnico_asociado,estandar,nada,0.82,0.93,0.93,mujer
+615,group_C,preparatoria,estandar,nada,0.6,0.68,0.72,mujer
+616,group_E,licenciatura,estandar,nada,0.37,0.45,0.38,mujer
+617,group_D,licenciatura,estandar,nada,0.88,0.78,0.83,hombre
+618,group_D,mestria,estandar,nada,0.95,0.81,0.84,hombre
+619,group_C,tecnico_asociado,subsidiado,completado,0.65,0.73,0.68,hombre
+620,group_C,preparatoria,subsidiado,nada,0.35,0.61,0.54,mujer
+621,group_B,licenciatura,subsidiado,nada,0.62,0.63,0.56,hombre
+622,group_C,preparatoria,subsidiado,completado,0.58,0.51,0.52,hombre
+623,group_A,algo_de_universidad,estandar,completado,1.0,0.96,0.86,hombre
+624,group_E,licenciatura,subsidiado,nada,0.61,0.58,0.62,mujer
+625,group_D,algo_de_universidad,estandar,completado,1.0,0.97,0.99,hombre
+626,group_B,tecnico_asociado,subsidiado,completado,0.69,0.7,0.63,hombre
+627,group_D,tecnico_asociado,estandar,nada,0.61,0.48,0.46,hombre
+628,group_D,algo_de_universidad,subsidiado,nada,0.49,0.57,0.46,hombre
+629,group_C,algo_de_preparatoria,estandar,completado,0.44,0.51,0.55,mujer
+630,group_D,algo_de_universidad,estandar,nada,0.67,0.64,0.7,hombre
+631,group_B,preparatoria,estandar,nada,0.79,0.6,0.65,hombre
+632,group_B,licenciatura,estandar,completado,0.66,0.74,0.81,mujer
+633,group_C,preparatoria,estandar,nada,0.75,0.88,0.85,mujer
+634,group_D,algo_de_preparatoria,estandar,nada,0.84,0.84,0.8,hombre
+635,group_A,preparatoria,estandar,nada,0.71,0.74,0.64,hombre
+636,group_B,preparatoria,subsidiado,completado,0.67,0.8,0.81,mujer
+637,group_D,algo_de_preparatoria,estandar,completado,0.8,0.92,0.88,mujer
+638,group_E,algo_de_universidad,estandar,nada,0.86,0.76,0.74,hombre
+639,group_D,tecnico_asociado,estandar,nada,0.76,0.74,0.73,mujer
+640,group_D,preparatoria,estandar,nada,0.41,0.52,0.51,hombre
+641,group_D,tecnico_asociado,subsidiado,completado,0.74,0.88,0.9,mujer
+642,group_B,algo_de_preparatoria,subsidiado,nada,0.72,0.81,0.79,mujer
+643,group_E,preparatoria,estandar,completado,0.74,0.79,0.8,mujer
+644,group_B,preparatoria,estandar,nada,0.7,0.65,0.6,hombre
+645,group_B,licenciatura,estandar,completado,0.65,0.81,0.81,mujer
+646,group_D,tecnico_asociado,estandar,nada,0.59,0.7,0.65,mujer
+647,group_E,preparatoria,subsidiado,nada,0.64,0.62,0.68,mujer
+648,group_B,preparatoria,estandar,nada,0.5,0.53,0.55,mujer
+649,group_D,algo_de_universidad,estandar,completado,0.69,0.79,0.81,mujer
+650,group_C,algo_de_preparatoria,subsidiado,completado,0.51,0.56,0.53,hombre
+651,group_A,preparatoria,estandar,completado,0.68,0.8,0.76,mujer
+652,group_D,algo_de_universidad,estandar,completado,0.85,0.86,0.98,mujer
+653,group_A,tecnico_asociado,estandar,completado,0.65,0.7,0.74,mujer
+654,group_B,algo_de_preparatoria,estandar,nada,0.73,0.79,0.79,mujer
+655,group_B,algo_de_universidad,estandar,nada,0.62,0.67,0.67,mujer
+656,group_C,tecnico_asociado,subsidiado,nada,0.77,0.67,0.64,hombre
+657,group_D,algo_de_preparatoria,estandar,nada,0.69,0.66,0.61,hombre
+658,group_D,tecnico_asociado,subsidiado,nada,0.43,0.6,0.58,mujer
+659,group_D,tecnico_asociado,estandar,nada,0.9,0.87,0.85,hombre
+660,group_C,algo_de_universidad,subsidiado,nada,0.74,0.77,0.73,hombre
+661,group_C,algo_de_preparatoria,estandar,nada,0.73,0.66,0.63,hombre
+662,group_D,algo_de_universidad,subsidiado,nada,0.55,0.71,0.69,mujer
+663,group_C,preparatoria,estandar,nada,0.65,0.69,0.67,mujer
+664,group_D,tecnico_asociado,estandar,nada,0.8,0.63,0.63,hombre
+665,group_C,algo_de_preparatoria,subsidiado,completado,0.5,0.6,0.6,mujer
+666,group_C,algo_de_universidad,subsidiado,completado,0.63,0.73,0.71,mujer
+667,group_B,licenciatura,subsidiado,nada,0.77,0.85,0.87,mujer
+668,group_C,algo_de_universidad,estandar,nada,0.73,0.74,0.61,hombre
+669,group_D,tecnico_asociado,estandar,completado,0.81,0.72,0.77,hombre
+670,group_C,preparatoria,subsidiado,nada,0.66,0.76,0.68,mujer
+671,group_D,tecnico_asociado,subsidiado,nada,0.52,0.57,0.5,hombre
+672,group_C,algo_de_universidad,estandar,nada,0.69,0.78,0.76,mujer
+673,group_C,tecnico_asociado,estandar,completado,0.65,0.84,0.84,mujer
+674,group_D,preparatoria,estandar,completado,0.69,0.77,0.78,mujer
+675,group_B,algo_de_universidad,estandar,completado,0.5,0.64,0.66,mujer
+676,group_E,algo_de_universidad,estandar,completado,0.73,0.78,0.76,mujer
+677,group_C,algo_de_preparatoria,estandar,completado,0.7,0.82,0.76,mujer
+678,group_D,tecnico_asociado,subsidiado,nada,0.81,0.75,0.78,hombre
+679,group_D,algo_de_universidad,subsidiado,nada,0.63,0.61,0.6,hombre
+680,group_D,preparatoria,estandar,nada,0.67,0.72,0.74,mujer
+681,group_B,preparatoria,estandar,nada,0.6,0.68,0.6,hombre
+682,group_B,preparatoria,estandar,nada,0.62,0.55,0.54,hombre
+683,group_C,algo_de_preparatoria,subsidiado,completado,0.29,0.4,0.44,mujer
+684,group_B,algo_de_universidad,estandar,completado,0.62,0.66,0.68,hombre
+685,group_E,mestria,estandar,completado,0.94,0.99,1.0,mujer
+686,group_E,algo_de_universidad,estandar,completado,0.85,0.75,0.68,hombre
+687,group_D,tecnico_asociado,subsidiado,nada,0.77,0.78,0.73,hombre
+688,group_A,preparatoria,subsidiado,nada,0.53,0.58,0.44,hombre
+689,group_E,algo_de_universidad,subsidiado,nada,0.93,0.9,0.83,hombre
+690,group_C,tecnico_asociado,estandar,nada,0.49,0.53,0.53,mujer
+691,group_E,tecnico_asociado,subsidiado,nada,0.73,0.76,0.78,mujer
+692,group_C,licenciatura,subsidiado,completado,0.66,0.74,0.81,mujer
+693,group_D,tecnico_asociado,estandar,nada,0.77,0.77,0.73,mujer
+694,group_C,algo_de_preparatoria,estandar,nada,0.49,0.63,0.56,mujer
+695,group_D,algo_de_universidad,subsidiado,nada,0.79,0.89,0.86,mujer
+696,group_C,tecnico_asociado,estandar,completado,0.75,0.82,0.9,mujer
+697,group_A,licenciatura,estandar,nada,0.59,0.72,0.7,mujer
+698,group_D,tecnico_asociado,estandar,completado,0.57,0.78,0.79,mujer
+699,group_C,preparatoria,subsidiado,nada,0.66,0.66,0.59,hombre
+700,group_E,licenciatura,estandar,completado,0.79,0.81,0.82,mujer
+701,group_B,algo_de_preparatoria,estandar,nada,0.57,0.67,0.72,mujer
+702,group_A,licenciatura,estandar,completado,0.87,0.84,0.87,hombre
+703,group_D,algo_de_universidad,estandar,nada,0.63,0.64,0.67,mujer
+704,group_B,algo_de_preparatoria,subsidiado,completado,0.59,0.63,0.64,mujer
+705,group_A,licenciatura,subsidiado,nada,0.62,0.72,0.65,hombre
+706,group_D,preparatoria,estandar,nada,0.46,0.34,0.36,hombre
+707,group_C,algo_de_universidad,estandar,nada,0.66,0.59,0.52,hombre
+708,group_D,preparatoria,estandar,nada,0.89,0.87,0.79,hombre
+709,group_D,tecnico_asociado,subsidiado,completado,0.42,0.61,0.58,mujer
+710,group_C,algo_de_universidad,estandar,completado,0.93,0.84,0.9,hombre
+711,group_E,algo_de_preparatoria,estandar,completado,0.8,0.85,0.85,mujer
+712,group_D,algo_de_universidad,estandar,nada,0.98,1.0,0.99,mujer
+713,group_D,mestria,estandar,nada,0.81,0.81,0.84,hombre
+714,group_B,algo_de_preparatoria,estandar,completado,0.6,0.7,0.74,mujer
+715,group_B,tecnico_asociado,subsidiado,completado,0.76,0.94,0.87,mujer
+716,group_C,tecnico_asociado,estandar,completado,0.73,0.78,0.72,hombre
+717,group_C,tecnico_asociado,estandar,completado,0.96,0.96,0.99,mujer
+718,group_C,preparatoria,estandar,nada,0.76,0.76,0.74,mujer
+719,group_E,tecnico_asociado,subsidiado,completado,0.91,0.73,0.8,hombre
+720,group_C,algo_de_universidad,subsidiado,nada,0.62,0.72,0.7,mujer
+721,group_D,algo_de_preparatoria,subsidiado,completado,0.55,0.59,0.59,hombre
+722,group_B,algo_de_preparatoria,subsidiado,completado,0.74,0.9,0.88,mujer
+723,group_C,preparatoria,estandar,nada,0.5,0.48,0.42,hombre
+724,group_B,algo_de_universidad,estandar,nada,0.47,0.43,0.41,hombre
+725,group_E,algo_de_universidad,estandar,completado,0.81,0.74,0.71,hombre
+726,group_E,tecnico_asociado,estandar,completado,0.65,0.75,0.77,mujer
+727,group_E,algo_de_preparatoria,estandar,completado,0.68,0.51,0.57,hombre
+728,group_D,preparatoria,subsidiado,nada,0.73,0.92,0.84,mujer
+729,group_C,algo_de_universidad,estandar,nada,0.53,0.39,0.37,hombre
+730,group_B,tecnico_asociado,subsidiado,completado,0.68,0.77,0.8,mujer
+731,group_A,algo_de_preparatoria,subsidiado,nada,0.55,0.46,0.43,hombre
+732,group_C,algo_de_universidad,estandar,completado,0.87,0.89,0.94,mujer
+733,group_D,algo_de_preparatoria,estandar,nada,0.55,0.47,0.44,hombre
+734,group_E,algo_de_universidad,subsidiado,nada,0.53,0.58,0.57,mujer
+735,group_C,mestria,estandar,nada,0.67,0.57,0.59,hombre
+736,group_C,tecnico_asociado,estandar,nada,0.92,0.79,0.84,hombre
+737,group_B,algo_de_universidad,subsidiado,completado,0.53,0.66,0.73,mujer
+738,group_D,tecnico_asociado,estandar,nada,0.81,0.71,0.73,hombre
+739,group_C,preparatoria,subsidiado,nada,0.61,0.6,0.55,hombre
+740,group_D,licenciatura,estandar,nada,0.8,0.73,0.72,hombre
+741,group_A,tecnico_asociado,subsidiado,nada,0.37,0.57,0.56,mujer
+742,group_C,preparatoria,estandar,nada,0.81,0.84,0.82,mujer
+743,group_C,tecnico_asociado,estandar,completado,0.59,0.73,0.72,mujer
+744,group_B,algo_de_universidad,subsidiado,nada,0.55,0.55,0.47,hombre
+745,group_D,tecnico_asociado,estandar,nada,0.72,0.79,0.74,hombre
+746,group_D,preparatoria,estandar,nada,0.69,0.75,0.71,hombre
+747,group_C,algo_de_universidad,estandar,nada,0.69,0.64,0.68,hombre
+748,group_C,licenciatura,subsidiado,nada,0.5,0.6,0.59,mujer
+749,group_B,algo_de_universidad,estandar,completado,0.87,0.84,0.86,hombre
+750,group_D,algo_de_preparatoria,estandar,completado,0.71,0.69,0.68,hombre
+751,group_E,algo_de_universidad,estandar,nada,0.68,0.72,0.65,hombre
+752,group_C,mestria,subsidiado,completado,0.79,0.77,0.75,hombre
+753,group_C,algo_de_preparatoria,estandar,completado,0.77,0.9,0.85,mujer
+754,group_C,tecnico_asociado,subsidiado,nada,0.58,0.55,0.53,hombre
+755,group_E,tecnico_asociado,estandar,nada,0.84,0.95,0.92,mujer
+756,group_D,algo_de_universidad,estandar,nada,0.55,0.58,0.52,hombre
+757,group_E,licenciatura,subsidiado,completado,0.7,0.68,0.72,hombre
+758,group_D,algo_de_universidad,subsidiado,completado,0.52,0.59,0.65,mujer
+759,group_B,algo_de_universidad,estandar,completado,0.69,0.77,0.77,hombre
+760,group_C,preparatoria,subsidiado,nada,0.53,0.72,0.64,mujer
+761,group_D,algo_de_preparatoria,estandar,nada,0.48,0.58,0.54,mujer
+762,group_D,algo_de_preparatoria,estandar,completado,0.78,0.81,0.86,hombre
+763,group_B,preparatoria,estandar,nada,0.62,0.62,0.63,mujer
+764,group_D,algo_de_universidad,estandar,nada,0.6,0.63,0.59,hombre
+765,group_B,preparatoria,estandar,nada,0.74,0.72,0.72,mujer
+766,group_C,preparatoria,estandar,completado,0.58,0.75,0.77,mujer
+767,group_B,preparatoria,estandar,completado,0.76,0.62,0.6,hombre
+768,group_D,algo_de_preparatoria,estandar,nada,0.68,0.71,0.75,mujer
+769,group_A,algo_de_universidad,subsidiado,nada,0.58,0.6,0.57,hombre
+770,group_B,preparatoria,estandar,nada,0.52,0.48,0.49,hombre
+771,group_D,licenciatura,estandar,nada,0.75,0.73,0.74,hombre
+772,group_B,algo_de_preparatoria,subsidiado,completado,0.52,0.67,0.72,mujer
+773,group_C,licenciatura,subsidiado,nada,0.62,0.78,0.79,mujer
+774,group_B,algo_de_universidad,estandar,nada,0.66,0.65,0.6,hombre
+775,group_B,algo_de_preparatoria,subsidiado,nada,0.49,0.58,0.55,mujer
+776,group_B,preparatoria,estandar,nada,0.66,0.72,0.7,mujer
+777,group_C,algo_de_universidad,subsidiado,nada,0.35,0.44,0.43,mujer
+778,group_A,algo_de_universidad,estandar,completado,0.72,0.79,0.82,mujer
+779,group_E,tecnico_asociado,estandar,completado,0.94,0.85,0.82,hombre
+780,group_D,tecnico_asociado,subsidiado,nada,0.46,0.56,0.57,mujer
+781,group_B,mestria,estandar,nada,0.77,0.9,0.84,mujer
+782,group_B,preparatoria,subsidiado,completado,0.76,0.85,0.82,mujer
+783,group_C,tecnico_asociado,estandar,completado,0.52,0.59,0.62,mujer
+784,group_C,licenciatura,estandar,completado,0.91,0.81,0.79,hombre
+785,group_B,algo_de_preparatoria,estandar,completado,0.32,0.51,0.44,mujer
+786,group_E,algo_de_preparatoria,subsidiado,nada,0.72,0.79,0.77,mujer
+787,group_B,algo_de_universidad,estandar,nada,0.19,0.38,0.32,mujer
+788,group_C,tecnico_asociado,subsidiado,nada,0.68,0.65,0.61,hombre
+789,group_C,mestria,subsidiado,nada,0.52,0.65,0.61,mujer
+790,group_B,preparatoria,estandar,nada,0.48,0.62,0.6,mujer
+791,group_D,algo_de_universidad,subsidiado,nada,0.6,0.66,0.7,mujer
+792,group_D,preparatoria,subsidiado,nada,0.66,0.74,0.69,hombre
+793,group_E,algo_de_preparatoria,estandar,completado,0.89,0.84,0.77,hombre
+794,group_B,preparatoria,estandar,nada,0.42,0.52,0.51,mujer
+795,group_E,tecnico_asociado,subsidiado,completado,0.57,0.68,0.73,mujer
+796,group_D,preparatoria,estandar,nada,0.7,0.7,0.7,hombre
+797,group_E,tecnico_asociado,subsidiado,nada,0.7,0.84,0.81,mujer
+798,group_E,algo_de_universidad,estandar,nada,0.69,0.6,0.54,hombre
+799,group_C,tecnico_asociado,estandar,nada,0.52,0.55,0.57,mujer
+800,group_C,algo_de_preparatoria,estandar,completado,0.67,0.73,0.68,hombre
+801,group_C,algo_de_preparatoria,estandar,completado,0.76,0.8,0.73,hombre
+802,group_E,tecnico_asociado,estandar,nada,0.87,0.94,0.95,mujer
+803,group_B,algo_de_universidad,estandar,nada,0.82,0.85,0.87,mujer
+804,group_C,algo_de_universidad,estandar,nada,0.73,0.76,0.78,mujer
+805,group_A,algo_de_universidad,subsidiado,nada,0.75,0.81,0.74,hombre
+806,group_D,algo_de_universidad,subsidiado,nada,0.64,0.74,0.75,mujer
+807,group_E,preparatoria,subsidiado,nada,0.41,0.45,0.4,mujer
+808,group_C,preparatoria,estandar,nada,0.9,0.75,0.69,hombre
+809,group_B,licenciatura,estandar,nada,0.59,0.54,0.51,hombre
+810,group_A,algo_de_preparatoria,estandar,nada,0.51,0.31,0.36,hombre
+811,group_A,preparatoria,subsidiado,nada,0.45,0.47,0.49,hombre
+812,group_C,mestria,estandar,completado,0.54,0.64,0.67,mujer
+813,group_E,algo_de_preparatoria,estandar,completado,0.87,0.84,0.76,hombre
+814,group_C,preparatoria,estandar,nada,0.72,0.8,0.83,mujer
+815,group_B,algo_de_preparatoria,estandar,completado,0.94,0.86,0.87,hombre
+816,group_A,licenciatura,estandar,nada,0.45,0.59,0.64,mujer
+817,group_D,licenciatura,subsidiado,completado,0.61,0.7,0.76,hombre
+818,group_B,preparatoria,subsidiado,nada,0.6,0.72,0.68,mujer
+819,group_C,algo_de_preparatoria,estandar,nada,0.77,0.91,0.88,mujer
+820,group_A,algo_de_preparatoria,estandar,completado,0.85,0.9,0.92,mujer
+821,group_D,licenciatura,subsidiado,nada,0.78,0.9,0.93,mujer
+822,group_E,algo_de_universidad,subsidiado,completado,0.49,0.52,0.51,hombre
+823,group_B,preparatoria,subsidiado,nada,0.71,0.87,0.82,mujer
+824,group_C,algo_de_preparatoria,subsidiado,nada,0.48,0.58,0.52,mujer
+825,group_C,preparatoria,estandar,nada,0.62,0.67,0.58,hombre
+826,group_C,tecnico_asociado,subsidiado,completado,0.56,0.68,0.7,mujer
+827,group_C,algo_de_preparatoria,estandar,nada,0.65,0.69,0.76,mujer
+828,group_D,algo_de_preparatoria,subsidiado,completado,0.69,0.86,0.81,mujer
+829,group_B,algo_de_preparatoria,estandar,nada,0.68,0.54,0.53,hombre
+830,group_A,algo_de_universidad,subsidiado,nada,0.61,0.6,0.57,mujer
+831,group_C,licenciatura,subsidiado,completado,0.74,0.86,0.89,mujer
+832,group_A,licenciatura,estandar,nada,0.64,0.6,0.58,hombre
+833,group_B,preparatoria,estandar,completado,0.77,0.82,0.89,mujer
+834,group_B,algo_de_universidad,estandar,nada,0.58,0.5,0.45,hombre
+835,group_C,preparatoria,estandar,completado,0.6,0.64,0.74,mujer
+836,group_E,preparatoria,estandar,nada,0.73,0.64,0.57,hombre
+837,group_A,preparatoria,estandar,completado,0.75,0.82,0.79,mujer
+838,group_B,tecnico_asociado,subsidiado,completado,0.58,0.57,0.53,hombre
+839,group_C,tecnico_asociado,estandar,nada,0.66,0.77,0.73,mujer
+840,group_D,preparatoria,subsidiado,nada,0.39,0.52,0.46,mujer
+841,group_C,algo_de_preparatoria,estandar,nada,0.64,0.58,0.51,hombre
+842,group_B,preparatoria,subsidiado,completado,0.23,0.44,0.36,mujer
+843,group_B,algo_de_universidad,subsidiado,completado,0.74,0.77,0.76,hombre
+844,group_D,algo_de_preparatoria,subsidiado,completado,0.4,0.65,0.64,mujer
+845,group_E,mestria,estandar,nada,0.9,0.85,0.84,hombre
+846,group_C,mestria,estandar,completado,0.91,0.85,0.85,hombre
+847,group_D,preparatoria,estandar,nada,0.64,0.54,0.5,hombre
+848,group_C,preparatoria,estandar,nada,0.59,0.72,0.68,mujer
+849,group_D,tecnico_asociado,estandar,nada,0.8,0.75,0.69,hombre
+850,group_C,mestria,estandar,nada,0.71,0.67,0.67,hombre
+851,group_A,preparatoria,estandar,nada,0.61,0.68,0.63,mujer
+852,group_E,algo_de_universidad,estandar,nada,0.87,0.85,0.93,mujer
+853,group_E,algo_de_preparatoria,estandar,nada,0.82,0.67,0.61,hombre
+854,group_C,algo_de_preparatoria,estandar,nada,0.62,0.64,0.55,hombre
+855,group_B,licenciatura,estandar,nada,0.97,0.97,0.96,mujer
+856,group_B,algo_de_universidad,subsidiado,nada,0.75,0.68,0.65,hombre
+857,group_C,licenciatura,estandar,nada,0.65,0.79,0.81,mujer
+858,group_B,preparatoria,estandar,completado,0.52,0.49,0.46,hombre
+859,group_C,tecnico_asociado,subsidiado,nada,0.87,0.73,0.72,hombre
+860,group_C,tecnico_asociado,estandar,nada,0.53,0.62,0.53,mujer
+861,group_E,mestria,subsidiado,nada,0.81,0.86,0.87,mujer
+862,group_D,licenciatura,subsidiado,completado,0.39,0.42,0.38,hombre
+863,group_C,algo_de_universidad,estandar,completado,0.71,0.71,0.8,mujer
+864,group_C,tecnico_asociado,estandar,nada,0.97,0.93,0.91,hombre
+865,group_D,algo_de_universidad,estandar,completado,0.82,0.82,0.88,hombre
+866,group_C,preparatoria,subsidiado,nada,0.59,0.53,0.52,hombre
+867,group_B,tecnico_asociado,estandar,nada,0.61,0.42,0.41,hombre
+868,group_E,tecnico_asociado,subsidiado,completado,0.78,0.74,0.72,hombre
+869,group_C,tecnico_asociado,subsidiado,nada,0.49,0.51,0.51,hombre
+870,group_B,preparatoria,estandar,nada,0.59,0.58,0.47,hombre
+871,group_C,algo_de_universidad,estandar,completado,0.7,0.72,0.76,mujer
+872,group_B,tecnico_asociado,estandar,completado,0.82,0.84,0.78,hombre
+873,group_E,tecnico_asociado,subsidiado,nada,0.9,0.9,0.82,hombre
+874,group_C,licenciatura,subsidiado,nada,0.43,0.62,0.61,mujer
+875,group_C,algo_de_universidad,subsidiado,nada,0.8,0.64,0.66,hombre
+876,group_D,algo_de_universidad,estandar,nada,0.81,0.82,0.84,hombre
+877,group_C,algo_de_preparatoria,estandar,nada,0.57,0.61,0.54,hombre
+878,group_D,algo_de_preparatoria,estandar,nada,0.59,0.72,0.8,mujer
+879,group_D,tecnico_asociado,estandar,nada,0.64,0.76,0.74,mujer
+880,group_C,licenciatura,estandar,completado,0.63,0.64,0.66,hombre
+881,group_E,licenciatura,estandar,completado,0.71,0.7,0.7,mujer
+882,group_B,preparatoria,subsidiado,nada,0.64,0.73,0.71,mujer
+883,group_D,licenciatura,subsidiado,nada,0.55,0.46,0.44,hombre
+884,group_E,tecnico_asociado,estandar,nada,0.51,0.51,0.54,mujer
+885,group_C,tecnico_asociado,estandar,completado,0.62,0.76,0.8,mujer
+886,group_E,tecnico_asociado,estandar,completado,0.93,1.0,0.95,mujer
+887,group_C,preparatoria,subsidiado,nada,0.54,0.72,0.59,hombre
+888,group_D,algo_de_universidad,subsidiado,nada,0.69,0.65,0.74,mujer
+889,group_D,preparatoria,subsidiado,nada,0.44,0.51,0.48,hombre
+890,group_E,algo_de_universidad,estandar,completado,0.86,0.85,0.91,mujer
+891,group_E,tecnico_asociado,estandar,nada,0.85,0.92,0.85,mujer
+892,group_A,mestria,subsidiado,nada,0.5,0.67,0.73,mujer
+893,group_D,algo_de_preparatoria,estandar,completado,0.88,0.74,0.75,hombre
+894,group_E,tecnico_asociado,estandar,nada,0.59,0.62,0.69,mujer
+895,group_E,algo_de_preparatoria,subsidiado,nada,0.32,0.34,0.38,mujer
+896,group_B,preparatoria,subsidiado,nada,0.36,0.29,0.27,hombre
+897,group_B,algo_de_preparatoria,subsidiado,completado,0.63,0.78,0.79,mujer
+898,group_D,tecnico_asociado,estandar,completado,0.67,0.54,0.63,hombre
+899,group_D,algo_de_preparatoria,estandar,completado,0.65,0.78,0.82,mujer
+900,group_D,mestria,estandar,nada,0.85,0.84,0.89,hombre
+901,group_C,mestria,estandar,nada,0.73,0.78,0.74,mujer
+902,group_A,preparatoria,subsidiado,completado,0.34,0.48,0.41,mujer
+903,group_D,licenciatura,subsidiado,completado,0.93,1.0,1.0,mujer
+904,group_D,algo_de_preparatoria,subsidiado,nada,0.67,0.84,0.84,mujer
+905,group_D,algo_de_universidad,estandar,nada,0.88,0.77,0.77,hombre
+906,group_B,preparatoria,estandar,nada,0.57,0.48,0.51,hombre
+907,group_D,algo_de_universidad,estandar,completado,0.79,0.84,0.91,mujer
+908,group_C,licenciatura,subsidiado,nada,0.67,0.75,0.72,mujer
+909,group_E,licenciatura,estandar,completado,0.7,0.64,0.7,hombre
+910,group_D,licenciatura,subsidiado,nada,0.5,0.42,0.48,hombre
+911,group_A,algo_de_universidad,estandar,nada,0.69,0.84,0.82,mujer
+912,group_C,licenciatura,estandar,completado,0.52,0.61,0.66,mujer
+913,group_C,licenciatura,subsidiado,completado,0.47,0.62,0.66,mujer
+914,group_B,tecnico_asociado,subsidiado,nada,0.46,0.61,0.55,mujer
+915,group_E,algo_de_universidad,estandar,nada,0.68,0.7,0.66,mujer
+916,group_E,licenciatura,estandar,completado,1.0,1.0,1.0,hombre
+917,group_C,preparatoria,estandar,nada,0.44,0.61,0.52,mujer
+918,group_C,tecnico_asociado,estandar,completado,0.57,0.77,0.8,mujer
+919,group_B,algo_de_universidad,estandar,completado,0.91,0.96,0.91,hombre
+920,group_D,preparatoria,subsidiado,nada,0.69,0.7,0.67,hombre
+921,group_C,preparatoria,subsidiado,nada,0.35,0.53,0.46,mujer
+922,group_D,preparatoria,estandar,nada,0.72,0.66,0.66,hombre
+923,group_B,tecnico_asociado,subsidiado,nada,0.54,0.65,0.65,mujer
+924,group_D,preparatoria,subsidiado,nada,0.74,0.7,0.69,hombre
+925,group_E,algo_de_preparatoria,estandar,completado,0.74,0.64,0.6,hombre
+926,group_E,tecnico_asociado,subsidiado,nada,0.64,0.56,0.52,hombre
+927,group_D,preparatoria,subsidiado,completado,0.65,0.61,0.71,mujer
+928,group_E,tecnico_asociado,subsidiado,completado,0.46,0.43,0.44,hombre
+929,group_C,algo_de_preparatoria,subsidiado,nada,0.48,0.56,0.51,mujer
+930,group_C,algo_de_universidad,subsidiado,completado,0.67,0.74,0.7,hombre
+931,group_D,algo_de_universidad,subsidiado,nada,0.62,0.57,0.62,hombre
+932,group_D,tecnico_asociado,subsidiado,completado,0.61,0.71,0.73,hombre
+933,group_C,licenciatura,subsidiado,completado,0.7,0.75,0.74,hombre
+934,group_C,tecnico_asociado,estandar,completado,0.98,0.87,0.9,hombre
+935,group_D,algo_de_universidad,subsidiado,nada,0.7,0.63,0.58,hombre
+936,group_A,tecnico_asociado,estandar,nada,0.67,0.57,0.53,hombre
+937,group_E,preparatoria,subsidiado,nada,0.57,0.58,0.57,mujer
+938,group_D,algo_de_universidad,estandar,completado,0.85,0.81,0.85,hombre
+939,group_D,algo_de_preparatoria,estandar,completado,0.77,0.68,0.69,hombre
+940,group_C,mestria,subsidiado,completado,0.72,0.66,0.72,hombre
+941,group_D,mestria,estandar,nada,0.78,0.91,0.96,mujer
+942,group_C,preparatoria,estandar,nada,0.81,0.66,0.64,hombre
+943,group_A,algo_de_preparatoria,subsidiado,completado,0.61,0.62,0.61,hombre
+944,group_B,preparatoria,estandar,nada,0.58,0.68,0.61,mujer
+945,group_C,tecnico_asociado,estandar,nada,0.54,0.61,0.58,mujer
+946,group_B,preparatoria,estandar,nada,0.82,0.82,0.8,hombre
+947,group_D,algo_de_universidad,subsidiado,nada,0.49,0.58,0.6,mujer
+948,group_B,algo_de_preparatoria,subsidiado,completado,0.49,0.5,0.52,hombre
+949,group_E,preparatoria,subsidiado,completado,0.57,0.75,0.73,mujer
+950,group_E,preparatoria,estandar,nada,0.94,0.73,0.71,hombre
+951,group_D,algo_de_universidad,estandar,completado,0.75,0.77,0.83,mujer
+952,group_E,algo_de_preparatoria,subsidiado,nada,0.74,0.74,0.72,mujer
+953,group_C,preparatoria,estandar,completado,0.58,0.52,0.54,hombre
+954,group_C,algo_de_universidad,estandar,nada,0.62,0.69,0.69,mujer
+955,group_E,tecnico_asociado,estandar,nada,0.72,0.57,0.62,hombre
+956,group_C,algo_de_universidad,estandar,nada,0.84,0.87,0.81,hombre
+957,group_D,mestria,estandar,nada,0.92,1.0,1.0,mujer
+958,group_D,preparatoria,estandar,nada,0.45,0.63,0.59,mujer
+959,group_C,preparatoria,estandar,nada,0.75,0.81,0.71,hombre
+960,group_A,algo_de_universidad,estandar,nada,0.56,0.58,0.64,mujer
+961,group_D,algo_de_preparatoria,subsidiado,nada,0.48,0.54,0.53,mujer
+962,group_E,tecnico_asociado,estandar,nada,1.0,1.0,1.0,mujer
+963,group_C,algo_de_preparatoria,subsidiado,completado,0.65,0.76,0.75,mujer
+964,group_D,algo_de_universidad,estandar,nada,0.72,0.57,0.58,hombre
+965,group_D,algo_de_universidad,estandar,nada,0.62,0.7,0.72,mujer
+966,group_A,algo_de_preparatoria,estandar,completado,0.66,0.68,0.64,hombre
+967,group_C,algo_de_universidad,estandar,nada,0.63,0.63,0.6,hombre
+968,group_E,tecnico_asociado,estandar,nada,0.68,0.76,0.67,mujer
+969,group_B,licenciatura,estandar,nada,0.75,0.84,0.8,mujer
+970,group_D,licenciatura,estandar,nada,0.89,1.0,1.0,mujer
+971,group_C,algo_de_preparatoria,estandar,completado,0.78,0.72,0.69,hombre
+972,group_A,preparatoria,subsidiado,completado,0.53,0.5,0.6,mujer
+973,group_D,algo_de_universidad,subsidiado,nada,0.49,0.65,0.61,mujer
+974,group_A,algo_de_universidad,estandar,nada,0.54,0.63,0.67,mujer
+975,group_C,algo_de_universidad,estandar,completado,0.64,0.82,0.77,mujer
+976,group_B,algo_de_universidad,subsidiado,completado,0.6,0.62,0.6,hombre
+977,group_C,tecnico_asociado,estandar,nada,0.62,0.65,0.58,hombre
+978,group_D,preparatoria,estandar,completado,0.55,0.41,0.48,hombre
+979,group_C,tecnico_asociado,estandar,nada,0.91,0.95,0.94,mujer
+980,group_B,preparatoria,subsidiado,nada,0.08,0.24,0.23,mujer
+981,group_D,algo_de_preparatoria,estandar,nada,0.81,0.78,0.78,hombre
+982,group_B,algo_de_preparatoria,estandar,completado,0.79,0.85,0.86,hombre
+983,group_A,algo_de_universidad,estandar,completado,0.78,0.87,0.91,mujer
+984,group_C,algo_de_preparatoria,estandar,nada,0.74,0.75,0.82,mujer
+985,group_A,preparatoria,estandar,nada,0.57,0.51,0.54,hombre
+986,group_C,tecnico_asociado,estandar,nada,0.4,0.59,0.51,mujer
+987,group_E,algo_de_preparatoria,estandar,completado,0.81,0.75,0.76,hombre
+988,group_A,algo_de_preparatoria,subsidiado,nada,0.44,0.45,0.45,mujer
+989,group_D,algo_de_universidad,subsidiado,completado,0.67,0.86,0.83,mujer
+990,group_E,preparatoria,subsidiado,completado,0.86,0.81,0.75,hombre
+991,group_B,algo_de_preparatoria,estandar,completado,0.65,0.82,0.78,mujer
+992,group_D,tecnico_asociado,subsidiado,nada,0.55,0.76,0.76,mujer
+993,group_D,licenciatura,subsidiado,nada,0.62,0.72,0.74,mujer
+994,group_A,preparatoria,estandar,nada,0.63,0.63,0.62,hombre
+995,group_E,mestria,estandar,completado,0.88,0.99,0.95,mujer
+996,group_C,preparatoria,subsidiado,nada,0.62,0.55,0.55,hombre
+997,group_C,preparatoria,subsidiado,completado,0.59,0.71,0.65,mujer
+998,group_D,algo_de_universidad,estandar,completado,0.68,0.78,0.77,mujer
+999,group_D,algo_de_universidad,subsidiado,nada,0.77,0.86,0.86,mujer
