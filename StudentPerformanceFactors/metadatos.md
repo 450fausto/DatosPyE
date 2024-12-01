@@ -7,23 +7,24 @@ Este conjunto de datos proporciona una visión integral de varios factores que a
 
 | Atributo                      | Descripción                                                                          |
 |-------------------------------|--------------------------------------------------------------------------------------|
-| Horas_Estudio                 | Número de horas dedicadas a estudiar por semana.                                     |
-| Asistencia                    | Porcentaje de clases asistidas.                                                     |
-| Participación_Parental        | Nivel de participación de los padres en la educación del estudiante (Baja, Media, Alta).|
-| Acceso_a_Recursos             | Disponibilidad de recursos educativos (Bajo, Medio, Alto).                          |
-| Actividades_Extracurriculares | Participación en actividades extracurriculares (Sí, No).                            |
-| Horas_Sueño                   | Promedio de horas de sueño por noche.                                               |
-| Puntajes_Anteriores           | Puntuaciones de exámenes previos.                                                   |
-| Nivel_Motivación              | Nivel de motivación del estudiante (Bajo, Medio, Alto).                             |
-| Acceso_Internet               | Disponibilidad de acceso a internet (Sí, No).                                       |
-| Sesiones_Tutoría              | Número de sesiones de tutoría asistidas por mes.                                    |
-| Ingreso_Familiar              | Nivel de ingresos familiares (Bajo, Medio, Alto).                                   |
-| Calidad_Profesorado           | Calidad de los profesores (Baja, Media, Alta).                                      |
-| Tipo_Escuela                  | Tipo de escuela asistida (Pública, Privada).                                        |
-| Influencia_Companeros         | Influencia de los compañeros en el rendimiento académico (Positiva, Neutral, Negativa).|
-| Actividad_Física              | Promedio de horas de actividad física por semana.                                   |
-| Discapacidades_Aprendizaje    | Presencia de discapacidades de aprendizaje (Sí, No).                                |
-| Nivel_Educativo_Parental      | Nivel educativo más alto de los padres (Preparatoria, Universidad, Posgrado).       |
-| Distancia_Hogar               | Distancia desde el hogar a la escuela (Cerca, Moderada, Lejos).                     |
-| Género                        | Género del estudiante (Masculino, Femenino).                                        |
-| Puntaje_Examen                | Puntaje final del examen.                                                           |
+| horas_estudio                 | Número de horas dedicadas a estudiar por semana.                                     |
+| asistencia                    | Porcentaje de clases asistidas.                                                     |
+| participacion_parental        | Nivel de participación de los padres en la educación del estudiante (Baja, Media, Alta).|
+| acceso_a_recursos             | Disponibilidad de recursos educativos (Bajo, Medio, Alto).                          |
+| actividades_extracurriculares | Participación en actividades extracurriculares (Sí, No).                            |
+| horas_suenio                  | Promedio de horas de sueño por noche.                                               |
+| calificaciones_previas        | Puntuaciones de exámenes previos.                                                   |
+| nivel_motivacion              | Nivel de motivación del estudiante (Bajo, Medio, Alto).                             |
+| acceso_internet               | Disponibilidad de acceso a internet (Sí, No).                                       |
+| sesiones_tutoria              | Número de sesiones de tutoría asistidas por mes.                                    |
+| ingreso_familiar              | Nivel de ingresos familiares (Bajo, Medio, Alto).                                   |
+| calidad_profesorado           | Calidad de los profesores (Baja, Media, Alta).                                      |
+| tipo_escuela                  | Tipo de escuela asistida (Pública, Privada).                                        |
+| influencia_companieros         | Influencia de los compañeros en el rendimiento académico (Positiva, Neutral, Negativa).|
+| actividad_fisica              | Promedio de horas de actividad física por semana.                                   |
+| discapacidad_aprendizaje    | Presencia de discapacidades de aprendizaje (Sí, No).                                |
+| nivel_estudios_padres      | Nivel educativo más alto de los padres (Preparatoria, Universidad, Posgrado).       |
+| distancia               | Distancia desde el hogar a la escuela (Cerca, Moderada, Lejos).                     |
+| genero                        | Género del estudiante (Masculino, Femenino).                                        |
+| puntaje_examen                | Puntaje final del examen.                                                           |
+
